@@ -1,0 +1,36 @@
+number = 16
+slug = "bell-and-seven-panel-robe"
+title_zh = "鐘聲七條"
+title_en = "The Bell and the Seven-Panel Robe"
+title_pinyin = ""
+
+case_zh = '''
+雲門曰。世界恁麼廣闊。因甚向鐘聲裏披七條。
+'''
+case_en = '''
+Yunmen said, "The world is so wide and open. Why, at the sound of a bell, do we put on our robes?"
+'''
+
+commentary_zh = '''
+大凡參禪學道。切忌隨聲逐色。縱使聞聲悟道見色明心。也是尋常。殊不知。衲僧家騎聲蓋色。頭頭上明。著著上妙。然雖如是且道。聲來耳畔。耳往聲邊。直饒響寂雙忘。到此如何話會。若將耳聽應難會。眼處聞聲方始親。
+'''
+commentary_en = '''
+In studying Chan, whatever else you do, don't go chasing sounds and sights. Even if you wake at a sound or see your true nature in some shape or color, that is still ordinary. What you don't see is this: a real monk rides the sounds and rides over the sights, clear at every turn, deft at every move. Still, even so, tell me: does the sound come to your ear, or does your ear go to the sound? And suppose both the ringing and the silence fall away. How do you speak of it then? Listen with your ears and you will never grasp it. Hear the sound through your eyes, and only then do you come close.
+'''
+
+verse_zh = '''
+會則事同一家
+不會萬別千差
+不會事同一家
+會則萬別千差
+'''
+verse_en = '''
+Get it, and all things are one house.
+Miss it, and the ten thousand things scatter.
+Miss it, and all things are one house.
+Get it, and the ten thousand things scatter.
+'''
+
+pointer = '''
+Yunmen was a tenth-century Chan master, of the Five Dynasties era, known for short jarring questions. The setup is a scrap of monastery routine: a bell rings on schedule and the monks all pull on the formal seven-panel robe to go chant or eat. Yunmen's needle: the universe is endless and wide open, so why does this supposedly liberated crowd jump into uniform the instant a bell sounds? Are you free, or just well trained? It's the same suspicion he aims at the eager monk's robe-of-routine elsewhere, that we mistake our conditioning for the real thing. The closing verse looks like a tidy logic puzzle, then deliberately scrambles itself, swapping "get it" and "miss it" until the equation collapses, because no formula carries you through.
+'''

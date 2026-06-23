@@ -1,0 +1,68 @@
+number = 13
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+石林和尚見居士來，乃竪起拂子曰：「不落丹霞機，試道一句子。」士奪却拂子，却自竪起拳。林曰：「正是丹霞機。」士曰：「與我不落看。」林曰：「丹霞患瘂，龐公患聾。」士曰：「恰是。」林無語。士曰：「向道偶爾。」林一日問居士：「某甲有箇借問，居士莫惜言語。」士曰：「便請舉來。」林曰：「元來惜言語。」士曰：「這箇問訊，不覺落他便宜。」林乃掩耳。士曰：「作家！作家！」林一日自下茶與居士，士纔接茶，林乃抽身退後曰：「何似生？」士曰：「有口道不得。」林曰：「須是恁麼始得。」士拂袖而去，曰：「也太無端。」林曰：「識得龐翁也。」士却回。林曰：「也太無端。」士無語。林曰：「也解無語去。」
+
+'''
+case_en = '''
+Master Shilin saw the Layman coming. He held up his whisk and said, "Without falling into Danxia's trick, give me a line."
+
+The Layman snatched the whisk away and raised his own fist.
+
+"That's Danxia's trick exactly," Shilin said.
+
+"Then show me one that doesn't fall into it," the Layman said.
+
+"Danxia's gone mute," Shilin said. "Old Pang's gone deaf."
+
+"That's it exactly," said the Layman.
+
+Shilin had nothing to say.
+
+"I only said that by accident," the Layman added.
+
+Another day Shilin asked him, "I've something to ask you. Don't be stingy with your words."
+
+"Go ahead, out with it," the Layman said.
+
+"So you are stingy after all," said Shilin.
+
+"This question of yours," the Layman said. "I didn't notice it put me at a disadvantage." Shilin covered his ears.
+
+"A master," the Layman said. "What a master."
+
+Another day Shilin himself carried tea down to the Layman. Just as the Layman reached for the cup, Shilin drew it back and said, "Well?"
+
+"I've a mouth, but I can't say it," the Layman said.
+
+"It has to be just like that," said Shilin.
+
+The Layman shook out his sleeves and walked off. "That was completely out of line," he said.
+
+"Now I've got you, old Pang," said Shilin.
+
+The Layman turned back.
+
+"Completely out of line," Shilin said.
+
+The Layman had nothing to say.
+
+"So you know how to go silent too," said Shilin.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Danxia, Pang's friend from case 5, is the offstage figure here. "Danxia's trick" has become shorthand for a clever Chan gesture that is hardening into a predictable gimmick, so the teacher Shilin dares Pang to produce a line that does not fall into it. A whisk is the horsehair baton a teacher waves, the usual prop in these face-offs. What follows is two pros feinting: Pang snatches the whisk and throws up a fist, Shilin calls it Danxia's move anyway, and then saying "I cannot say it" or going silent becomes part of the same fencing. The running joke is that they keep accusing each other of being "out of line" and "stingy with words" while doing precisely that on purpose, each trying to be the one who declines to be pinned.
+'''

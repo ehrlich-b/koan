@@ -1,0 +1,56 @@
+number = 44
+slug = ""
+title_zh = "興陽妙翅"
+title_en = "Xingyang's Garuda"
+
+intro_zh = '''
+師子擊象，妙翅搏龍。飛走尚別君臣，衲僧合存賓主。且如冐犯天威底人，如何裁斷？
+
+'''
+intro_en = '''
+The lion brings down the elephant. The garuda snatches the dragon from the sky. Even beasts and birds know who outranks whom; a monk had better know host from guest just as well. So tell me: the man who dares defy the throne itself, how do you pass sentence on him?
+'''
+
+case_zh = '''
+僧問興陽剖和尚：「娑竭出海，乾坤靜；覿面相呈事若何？」師云：「妙翅鳥王當宇宙，箇中誰是出頭人？」僧云：「忽遇出頭時，又作麼生？」陽云：「似鶻捉鳩，君不覺；御樓前驗始知真。」僧云：「恁麼則叉手當胸，退身三步。」陽云：「須彌座下烏龜子，莫待重教點額痕。」
+
+'''
+case_en = '''
+A monk asked Master Pou of Xingyang, "When the great sea-dragon rises out of the ocean, heaven and earth go still. When it comes at you face to face, then what?"
+
+Xingyang said, "The garuda, king of the birds, rules the whole sky. Who in here is going to stick his head out?"
+
+The monk said, "And if I did meet someone who stuck his head out, then what?"
+
+Xingyang said, "Like a falcon taking a dove, you'd never see it coming. Only when it's tested before the emperor's tower do you learn it's the real thing."
+
+The monk said, "In that case, I fold my hands at my chest and step back three paces."
+
+Xingyang said, "You turtle hiding under Mount Sumeru, don't wait around to get your forehead branded again."
+'''
+
+verse_zh = '''
+絲綸降，
+號令分。
+寰中天子，
+塞外將軍。
+不待雷驚出蟄，
+那知風遏行雲。
+機底聯綿兮，自有金針玉線；
+印前恢廓兮，元無鳥篆蟲文。
+
+'''
+verse_en = '''
+The silk-cord decree comes down.
+The order goes out, sharp and clear.
+Within the realm, the emperor;
+beyond the border, the general.
+He won't wait for thunder to startle the sleepers from the ground.
+What would he know of wind that halts the drifting clouds?
+At the loom of the moment, seamless: his own golden needle, his own jade thread.
+Before the seal, wide open: no curling bird-script, no fancy insect-script at all.
+'''
+
+pointer = '''
+This whole exchange runs on a mythical bestiary of power. The "great sea-dragon" is Sagara, a naga king, a storm-bringing serpent so vast the world holds its breath when it surfaces. The garuda is its natural predator, a giant bird that hunts dragons out of the sky. So the monk is boasting in code: what if some overwhelming, world-stopping force shows up at the gate? Master Pou of Xingyang plays the bigger animal, the garuda owns the whole sky, and dares the monk to actually be that force, to stick his head out and prove it. The monk folds with a polite bow and three steps back, and Pou pounces on the retreat. His last jab rides the old Dragon Gate legend, where carp that leap the falls become dragons and the ones that fail get a mark branded on their foreheads. Quit posturing and then retreating; you already flunked the leap. The verse holds up the real master, issuing commands like an emperor, needing no ornamental flourish to do it.
+'''

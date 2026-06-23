@@ -1,0 +1,43 @@
+number = 99
+slug = ""
+title_zh = "雲門鉢桶"
+title_en = "Yunmen's Bowl and Bucket"
+
+intro_zh = '''
+棊有別智，酒有別腸。狡兔三穴，猾胥萬倖。更有箇誵頭底，且道是誰？
+
+'''
+intro_en = '''
+Chess takes its own kind of cunning. Drink takes its own kind of gut. The clever hare keeps three burrows; the sly clerk has a thousand ways to slip free. And there's one slipperier than any of them. Tell me, who?
+'''
+
+case_zh = '''
+僧問雲門：「如何是塵塵三昧？」門云：「鉢裏飯，桶裏水。」
+
+'''
+case_en = '''
+A monk asked Yunmen, "What is the samadhi in which every speck of dust holds the whole world?"
+Yunmen said, "Rice in the bowl, water in the bucket."
+'''
+
+verse_zh = '''
+鉢裏飯，桶裏水，開口見膽，求知已。擬思便落二三機，對面忽成千萬里。韶陽師較些子，斷金之義兮誰與相同，匪石之心兮獨能如此。
+
+'''
+verse_en = '''
+Rice in the bowl, water in the bucket.
+Open your mouth and the whole of you shows.
+Reach to know it, you've already missed;
+start to think, you've split into two and three.
+Meet it face to face
+and at once it's a thousand miles off.
+The master of Shaoyang had it near enough.
+A bond that cuts through gold:
+who else shares it?
+A heart no force could turn:
+he alone can be so.
+'''
+
+pointer = '''
+Yunmen (864–949, of the Five Dynasties, not the Tang) is the master known for blunt one-line replies that stop you flat. The monk fishes for something cosmic: "samadhi" is deep meditative absorption, and "every speck of dust holds the whole world" is the ornate Buddhist claim that the infinite is present in the tiniest thing. So he is asking for the grand state where the universe shows up in a grain of sand, braced for a lofty answer. Yunmen points at lunch instead: rice is in the bowl, water is in the bucket. The whole world is already laid out in the plainest stuff, and the second you reach to grab the "deep" version of it you have stepped away from the thing itself. Wansong's verse says it sharper, reach to know it and you've missed, meet it face to face and at once it's a thousand miles off. This is the same hammer Yunmen swings at the sesame cake (case 78).
+'''

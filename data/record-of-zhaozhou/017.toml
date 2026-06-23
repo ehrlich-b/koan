@@ -1,0 +1,34 @@
+number = 17
+slug = ""
+title_zh = "上堂"
+title_en = "Wait for One More"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+上堂，良久，大眾總來也未？對云：「總來也。」師云：「更待一人來即說話。」僧云：「候無人來即說似和尚。」師云：「大難得人。」
+
+'''
+case_en = '''
+Zhaozhou took the high seat. He sat a long while, saying nothing. At last he asked, "Is everyone here?"
+
+A monk said, "Everyone's here."
+
+Zhaozhou said, "I'll wait for one more, then I'll speak."
+
+The monk said, "When there's no one left to come, I'll pass your words along to him."
+
+Zhaozhou said, "A man like that is hard to find."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+A tiny scene, almost a joke, and one of the gentlest in the book. Zhaozhou sits on the platform in silence, then says he is waiting for one more before he speaks. The "one more" is not a missing body; it is a person who would actually understand. The monk reads him perfectly and tops him: when there is finally no one left to arrive, I will carry your words to that one. Zhaozhou's reply lands as half praise, half sigh, that such a partner is hard to come by. Underneath the wordplay sits a real question about who his teaching is even for, and whether the room that calls itself full is, by his count, nearly empty.
+'''

@@ -1,0 +1,62 @@
+number = 79
+slug = ""
+title_zh = "長沙進步"
+title_en = "Changsha's Hundred-Foot Pole"
+
+intro_zh = '''
+金沙灘頭馬郎婦，別是精神；瑠璃瓶裏擣𩝐餻，誰敢轉動？不入驚人浪，難逢稱意魚。寬行大步，一句作麼生？
+
+'''
+intro_en = '''
+The bride on the golden sands has a spirit all her own. Pound sticky rice cake inside a glass bottle: who dares stir it? Stay clear of the terrifying waves and you'll never land the fish you're after. So stride out, take the big step. What's the one line that does it?
+'''
+
+case_zh = '''
+長沙令僧問會和尚：「未見南泉時如何？」會良久。僧云：「見後如何？」會云：「不可別有也。」僧迴，舉似沙。沙云：「百尺竿頭坐底人，雖然得入，未為真。百尺竿頭須進步，十方世界是全身。」僧云：「百尺竿頭如何進步？」沙云：「朗州山，澧州水。」僧云：「不會。」沙云：「四海五湖王化裏。」
+
+'''
+case_en = '''
+Changsha sent a monk to question Master Hui.
+
+"Before you met Nanquan," the monk asked, "how was it?"
+
+Hui sat there a long time, saying nothing.
+
+"And after you met him?" the monk asked.
+
+"Nothing else to it," Hui said.
+
+The monk went back and reported this to Changsha.
+
+Changsha said, "The man sitting at the top of a hundred-foot pole has gotten somewhere, sure, but it isn't the real thing yet. At the top of the pole he still has to step forward. Then the whole universe is his own body."
+
+"At the top of a hundred-foot pole," the monk said, "how do you step forward?"
+
+"The mountains of Langzhou," Changsha said. "The waters of Lizhou."
+
+"I don't get it."
+
+"The four seas, the five lakes," Changsha said. "All of it under the emperor's rule."
+'''
+
+verse_zh = '''
+玉人夢破一聲雞，
+轉盻生涯色色齊。
+有信風雷催出蟄，
+無言桃李自成蹊。
+及時節，力耕犁，
+誰怕春疇沒脛泥。
+
+'''
+verse_en = '''
+The dreamer wakes at a single rooster's cry.
+One glance, and the whole world snaps into place.
+The storm keeps its promise, driving the sleepers from their dens.
+Peach and plum say nothing, yet the path wears itself to their door.
+When the season comes, lean into the plow.
+Who fears the spring fields, mud to the shins?
+'''
+
+pointer = '''
+"The top of a hundred-foot pole" was already a worn stock phrase: you have climbed as high as practice goes, mastered it, reached the limit. Treating that summit as the finish line is exactly the snag. Master Hui demonstrates the snag by going silent and then saying there is nothing more to it, and Changsha calls that not yet the real thing: the man sitting satisfied up top still has to step off into open air. Asked how, Changsha gives no technique, only the local mountains and rivers and then the whole realm under one rule. The point he is driving at is that there is nowhere to step that is not already home; the further step lands you back in the plain world you were standing in the entire time. The verse turns this into spring fields and a plow, work you lean into with mud to your shins.
+'''

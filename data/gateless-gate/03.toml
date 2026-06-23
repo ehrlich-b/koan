@@ -1,0 +1,40 @@
+number = 3
+slug = "juzhi-raises-a-finger"
+title_zh = "俱胝豎指"
+title_en = "Juzhi Raises a Finger"
+title_pinyin = "Jùzhī shùzhǐ"
+
+case_zh = '''
+俱胝和尚。凡有詰問。唯舉一指。後有童子。因外人問。和尚說何法要。童子亦豎指頭。胝聞。遂以刃斷其指。童子負痛號哭而去。胝復召之。童子迴首。胝卻豎起指。童子忽然領悟。胝將順世。謂眾曰。吾得天龍一指頭禪。一生受用不盡。言訖示滅。
+'''
+case_en = '''
+Ask Master Juzhi anything and you got the same answer: he held up one finger.
+
+He had a boy attendant. One day an outsider asked the boy, "What is the heart of your master's teaching?" The boy held up a finger too. When Juzhi heard of it, he took a knife and cut the finger off. The boy ran off screaming. Juzhi called after him, and the boy turned. Juzhi raised his own finger, and in that instant the boy saw it.
+
+As Juzhi was dying, he told the assembly, "I got one-finger Zen from Tianlong, and used it my whole life without running it dry." Then he was gone.
+'''
+
+commentary_zh = '''
+俱胝并童子悟處。不在指頭上。若向者裏見得。天龍同俱胝并童子。與自己一串穿卻。
+'''
+commentary_en = '''
+The place where Juzhi and the boy woke was not the finger. See that, and Tianlong, Juzhi, the boy, and you are all strung on a single thread.
+'''
+
+verse_zh = '''
+俱胝鈍置老天龍
+利刃單提勘小童
+巨靈抬手無多子
+分破華山千萬重
+'''
+verse_en = '''
+Juzhi made a fool of old Tianlong:
+one sharp blade, raised alone, to test the boy.
+The river-god lifted a hand, no great matter,
+and split Mount Hua a thousand ridges deep.
+'''
+
+pointer = '''
+Juzhi taught exactly one thing: any question got one finger raised, a gesture he'd inherited whole from his teacher Tianlong. The boy attendant copies it perfectly, and that copying is the disease the case is diagnosing. He has the move with none of the weight behind it, the way you can repeat a master's words and mean nothing. So Juzhi takes the finger away (yes, brutally, but the violence isn't the point), the boy grabs for what's no longer there, and only then does the gesture come alive in him. Where did one-finger Zen actually live all those years? Wumen's answer: never on the finger.
+'''

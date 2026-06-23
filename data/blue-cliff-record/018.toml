@@ -1,0 +1,55 @@
+number = 18
+slug = ""
+title_zh = ""
+title_en = "The Seamless Tomb"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+肅宗皇帝問忠國師：「百年後所須何物？」國師云：「與老僧作箇無縫塔。」帝曰：「請師塔樣。」國師良久，云：「會麼？」帝云：「不會。」國師云：「吾有付法弟子耽源，却諳此事，請詔問之。」國師遷化後，帝詔耽源，問此意如何。源云：「湘之南潭之北。」雪竇著語云：「獨掌不浪鳴。」「中有黃金充一國。」雪竇著語云：「山形拄杖子。」「無影樹下合同船。」雪竇著語云：「海晏河清。」「瑠璃殿上無知識。」雪竇著語云：「拈了也。」
+
+'''
+case_en = '''
+Emperor Suzong asked National Teacher Zhong, "When you are gone, what will you need?"
+"Build me a seamless tomb," the teacher said.
+"Then give me the design, Master."
+The teacher sat a long while in silence. Then: "Understand?"
+"No," said the emperor.
+"I have an heir, Danyuan, who knows this matter. Send for him and ask."
+
+After the teacher died, the emperor summoned Danyuan and asked what it all meant.
+Danyuan said:
+"South of the Xiang, north of the Tan."
+(Xuedou: "One hand alone makes no sound.")
+"In between, gold enough to fund a whole country."
+(Xuedou: "A staff shaped like a mountain.")
+"Under the shadowless tree, the ferry that carries everyone across together."
+(Xuedou: "Calm seas, clear rivers.")
+"In the crystal palace, no one home who knows a thing."
+(Xuedou: "There. I have laid it out for you.")
+'''
+
+verse_zh = '''
+無縫塔，
+見還難，
+澄潭不許蒼龍蟠。
+層落落，
+影團團，
+千古萬古與人看。
+
+'''
+verse_en = '''
+A seamless tomb,
+and hard to lay eyes on.
+The clear pool will not let the blue dragon coil.
+Tier on tier,
+the shadow rounding whole.
+A thousand ages, ten thousand ages, here for all to see.
+'''
+
+pointer = '''
+National Teacher Zhong is Nanyang Huizhong, an elder master the Tang emperor kept near him as a kind of spiritual advisor. The "tomb" in question is a stupa, the memorial monument raised for a revered monk after death, so the emperor's question is practical and fond: what funeral do you want? The teacher answers from somewhere else. A "seamless tomb" has no joints, no parts, no blueprint, a way of pointing at something whole and unmade rather than a building you could draft, which is why "give me the design" gets only a long silence in return. When the emperor still cannot follow, the puzzle passes to the heir Danyuan, whose reply is a deliberate riddle: directions to a place on no map, a palace with nobody home who knows a thing. Xuedou drops a one-line jab after each phrase, half mockery, half applause. Rather than crack the riddle like a lock, feel how every attempt to pin the thing down slides off its seamless surface.
+'''

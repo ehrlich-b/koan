@@ -1,0 +1,57 @@
+number = 48
+slug = ""
+title_zh = ""
+title_en = "Knocking Over the Teapot"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+王太傅入招慶煎茶。時朗上座與明招把銚，朗翻却茶銚。太傅見問上座：「茶爐下是什麼？」朗云：「捧爐神。」太傅云：「既是捧爐神，為什麼翻却茶銚？」朗云：「仕官千日，失在一朝。」太傅拂袖便去。明招云：「朗上座喫却招慶飯了，却去江外打野榸。」朗云：「和尚作麼生？」招云：「非人得其便。」雪竇云：「當時但踏倒茶爐。」
+
+'''
+case_en = '''
+Minister Wang came to Zhaoqing monastery for tea. While the head monk Lang and Mingzhao were tending the kettle, Lang knocked the teapot over.
+
+The Minister saw it and asked the head monk, "What's under the tea stove?"
+
+Lang said, "The spirit who holds up the stove."
+
+The Minister said, "If a spirit holds up the stove, how did the teapot tip over?"
+
+Lang said, "Serve in office a thousand days, lose it in a single morning." The Minister shook out his sleeves and left.
+
+Mingzhao said, "Lang, you ate Zhaoqing's rice, and off you go across the river to burn rotten stumps."
+
+Lang said, "And you?"
+
+Mingzhao said, "The spirit found its opening."
+
+Xuedou said: Right then I'd have just kicked the tea stove flat.
+'''
+
+verse_zh = '''
+來問若成風，
+應機非善巧。
+堪悲獨眼龍，
+曾未呈牙爪。
+牙爪開，
+生雲雷，
+逆水之波經幾回。
+
+'''
+verse_en = '''
+The question blew in like wind;
+his answer met it and missed.
+Pity the one-eyed dragon
+who never bared a fang or claw.
+Now fang and claw come out,
+clouds gather, thunder breaks.
+The wave against the current: how many times has it turned back?
+'''
+
+pointer = '''
+A government minister drops by a monastery for tea, the head monk Lang fumbles and tips the pot, and the minister plays gotcha: there's supposed to be a guardian spirit holding up the stove, so how did you spill? A live opening has just landed in Lang's lap. He wastes it on a tired proverb about careers collapsing overnight, and the minister stalks off flapping his sleeves. Then a second monk, Mingzhao, the "one-eyed dragon" of the verse (he had one eye), needles Lang for eating the monastery's rice and then wandering off to burn rotten stumps, his way of saying you trained here and still answer with junk. The whole scene is about a moment that was right there and nobody grabbed it. Xuedou, capping the case a century later, skips all the talk: he'd have kicked the stove flat and let that be the answer.
+'''

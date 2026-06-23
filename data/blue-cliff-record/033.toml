@@ -1,0 +1,44 @@
+number = 33
+slug = ""
+title_zh = ""
+title_en = "Chen Cao's One Eye"
+
+intro_zh = '''
+東西不辨，南北不分，從朝至暮，從暮至朝，還道伊瞌睡麼？有時眼似流星，還道伊惺惺麼？有時呼南作北。且道是有心是無心？是道人是常人？若向箇裏透得，始知落處，方知古人恁麼不恁麼。且道是什麼時節？試舉看。
+
+'''
+intro_en = '''
+He can't tell east from west, north from south. Morning runs into night, night into morning. So is the man asleep? Then his eyes flash like shooting stars. So he's wide awake? Then he points south and calls it north. Tell me: is a mind at work here, or no mind at all? Is he a man of the Way, or just an ordinary fellow? See clear through this and you'll know where it all comes down, you'll see why the old masters did it this way and not that. So tell me, what moment is this? Here's a case to test you.
+'''
+
+case_zh = '''
+陳操尚書看資福，福見來便畫一圓相。操云：「弟子恁麼來，早是不著便，何況更畫一圓相？」福便掩却方丈門。雪竇云：「陳操只具一隻眼。」
+
+'''
+case_en = '''
+Minister Chen Cao went to see Zifu. The moment Zifu saw him coming, he drew a circle in the air.
+
+Chen Cao said, "I walk in like this and I'm already on the wrong foot. And now you draw a circle on top of it?"
+
+Zifu just shut the door of his room.
+
+Xuedou said, "Chen Cao has only one eye."
+'''
+
+verse_zh = '''
+團團珠遶玉珊珊，
+馬載驢駝上鐵船。
+分付海山無事客，
+釣鼇時下一圈攣。
+
+'''
+verse_en = '''
+Round pearls strung tight, jade ringing clear,
+loaded on a horse, piled on a donkey, hauled onto an iron boat.
+Hand it all to the carefree wanderer of sea and mountain:
+off to hook the great turtle, he drops one loop and waits.
+'''
+
+pointer = '''
+Chen Cao is a high official who likes to hang around Chan teachers and fancies himself quick. Drawing a circle in the air is a standard move: the circle stands for the whole complete thing, your true nature, seamless, nothing to add. Zifu flings it at Chen the instant he appears, a wordless test. Chen sees it and talks past it, "I was already exposed just walking in, why pile on another trap," which sounds humble and sharp but is really him narrating the circle instead of being it, so Zifu shuts the door: missed it. Xuedou then twists from a third side with "Chen Cao has only one eye," meaning Chen was half-seeing, alert enough to clock the move, blind to what it asked. The verse heaps up dazzling treasure and then loads it on a donkey to be hauled off as fish bait, all that brilliance spent angling.
+'''

@@ -1,0 +1,27 @@
+slug = "record-of-linji"
+title_en = "The Record of Linji"
+title_alt = "The Record of Linji (Rinzai-roku)"
+title_zh = "臨濟錄"
+title_pinyin = "Línjì Lù"
+title_ja = "Rinzai-roku"
+compiler = "Sayings of Linji Yixuan (臨濟義玄, d. 866), compiled by his disciple Sansheng Huiran (三聖慧然); standard recension edited by Yuanjue Zongyan (圓覺宗演), 1120"
+date = "compiled 9th c.; recension 1120"
+dynasty = "Tang dynasty (sayings); Song recension"
+source_url = ""
+source_note = "The Record of Linji (鎮州臨濟慧照禪師語錄), from the public-domain Taishō Tripiṭaka (vol. 47, no. 1985), set in our own punctuation. It gives the recorded sayings along the text's own divisions — the Dharma-hall discourses and instructions (上堂 / 示眾), the Critical Examinations (勘辨), and the Record of Activities (行錄). Ma Fang's preface is given on this page; the later prefaces and the printers' colophons are omitted."
+license_original = "Public domain (Taishō base text; sayings 9th c., recension 1120)."
+license_translation = "CC0 1.0 Universal (public-domain dedication)."
+
+label_verse_zh = "頌"
+label_preface_en = "Preface"
+label_preface_zh = "序"
+
+preface_zh = '''
+黃檗山頭曾遭痛棒，大愚肋下方解築拳。饒舌老婆、尿床鬼子，這風顛漢再捋虎鬚。巖谷栽松，後人標榜；钁頭斸地，幾被活埋。肯個後生，驀口自摑。辭焚机案，坐斷舌頭。不是河南，便歸河北。院臨古渡，運濟往來，把定要津，壁立萬仞。奪人奪境，陶鑄仙陀，三要三玄，鈐鎚衲子。常在家舍，不離途中。無位真人，面門出入，兩堂齊喝，賓主歷然。照用同時，本無前後，菱花對像，虛谷傳聲。妙應無方，不留朕迹。拈衣特地，南北東西，到處任真，未有師承。一一從頭勘破。
+'''
+
+intro_en = '''
+The Record of Linji (Chinese: Línjì Lù; Japanese: Rinzai-roku) collects the sayings of Linji Yixuan, the ninth-century Tang master from whom the Linji (Rinzai) school takes its name. Famous for the shout, the blow, and the figure of the "true person of no rank," it is one of the most celebrated of all Chan texts. Unlike the Blue Cliff Record or the Book of Serenity, it is recorded sayings rather than a numbered kōan collection: a record of Linji's Dharma-hall discourses and instructions, his encounter dialogues, and his pilgrimage. We have segmented it into sequential passages along the text's own editorial divisions.
+
+The original text is public domain (from the Taishō Tripiṭaka), set in our own punctuation. The translations and pointers are released under CC0.
+'''

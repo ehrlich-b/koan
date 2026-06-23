@@ -1,0 +1,56 @@
+number = 42
+slug = ""
+title_zh = ""
+title_en = "Layman Pang's Good Snow"
+
+intro_zh = '''
+單提獨弄，帶水拕泥，敲唱俱行，銀山鐵壁。擬議則髑髏前見鬼，尋思則黑山下打坐。明明杲日麗天，颯颯清風匝地。且道：古人還有誵訛處麼？試舉看。
+
+'''
+intro_en = '''
+Hold it up alone, play with it solo, and already you're dragging through mud, dripping water. A wall of silver, a cliff of iron. Weigh your words and you're a skull seeing ghosts. Go hunting in your head and you're sitting in the dark under Black Mountain. But look: the bright sun blazes across the sky, a clean wind sweeps the whole earth. So tell me, did the old masters ever slip? Let's see.
+'''
+
+case_zh = '''
+龐居士辭藥山，山命十人禪客相送至門首。居士指空中雪云：「好雪片片不落別處。」時有全禪客云：「落在什麼處？」士打一掌。全云：「居士也不得草草。」士云：「汝恁麼稱禪客，閻老子未放汝在。」全云：「居士作麼生？」士又打一掌云：「眼見如盲，口說如啞。」雪竇別云：「初問處，但握雪團便打。」
+
+'''
+case_en = '''
+Layman Pang was leaving Yaoshan, and Yaoshan sent ten of his Chan students to walk him to the gate. The Layman pointed at the falling snow and said, "Beautiful snow. Flake after flake, and not one lands anywhere else."
+
+A student named Quan said, "Where do they land, then?"
+
+The Layman slapped him.
+
+Quan said, "Don't be so hasty."
+
+The Layman said, "You call yourself a Chan student? Old Yama won't let you off that easy."
+
+Quan said, "Well, what would you do?"
+
+The Layman slapped him again and said, "Eyes that see like a blind man's, a mouth that talks like a mute's."
+
+Xuedou said, instead: "At the first question, just grab a fistful of snow and let him have it."
+'''
+
+verse_zh = '''
+雪團打，雪團打，
+龐老機關沒可把。
+天上人間不自知，
+眼裏耳裏絕瀟灑。
+瀟灑絕，
+碧眼胡僧難辨別。
+
+'''
+verse_en = '''
+Snowball strikes! Snowball strikes!
+Old Pang's move, nothing to grab hold of.
+Gods above, people below, none of them know it.
+In the eyes, in the ears, utterly clean and free.
+Clean and free, not a trace,
+and even the blue-eyed barbarian monk can't sort it out.
+'''
+
+pointer = '''
+Layman Pang was a celebrated lay Buddhist, not a monk but a sharp old householder who trained with the big teachers and could out-fence most of them. He is leaving Yaoshan, escorted to the gate by ten of Yaoshan's monks, when he points at the falling snow and drops a line that passes for nature poetry and is actually bait: not one flake lands anywhere else. A monk swallows it whole, treating it as a literal puzzle, "where do they land, then," and gets slapped for converting a live moment into a problem to be solved. Old Yama is the lord of death and judgment, so "Yama won't let you off" means that limp answer will not pass when your life is on the line. At the close, the poet Xuedou says skip the talking altogether and just throw the snowball, answer the thing directly instead of discussing it.
+'''

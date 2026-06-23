@@ -1,0 +1,70 @@
+number = 95
+slug = ""
+title_zh = "臨濟一畫"
+title_en = "Linji's One Stroke"
+
+intro_zh = '''
+佛來也打，魔來也打。有理三十，無理三十。為復是錯認怨讐？為復是不分良善？試道看。
+
+'''
+intro_en = '''
+Buddha walks in? Hit him. A demon walks in? Hit him. Right answer, thirty blows. Wrong answer, thirty blows. So is he mistaking friends for enemies? Or just refusing to sort the good from the bad? Say which. Look.
+'''
+
+case_zh = '''
+臨濟問院主：「甚處來？」主云：「州中糶黃米來。」濟云：「糶得盡麼？」主云：「糶得盡。」濟以拄杖一畫，云：「還糶得這箇麼？」主便喝。濟便打。次典座至，舉前話。座云：「院主不會和尚意。」濟云：「爾又作麼生？」座便禮拜。濟亦打。
+
+'''
+case_en = '''
+Linji asked the temple manager, "Where've you been?"
+
+"Down in town, selling off the yellow rice."
+
+"Sell all of it?"
+
+"Every grain."
+
+Linji drew a single line on the ground with his staff. "Can you sell this?"
+
+The manager shouted.
+
+Linji hit him.
+
+Later the head cook came in, and Linji ran the story by him.
+
+"The manager missed your point," the cook said.
+
+"And you?" said Linji.
+
+The cook bowed.
+
+Linji hit him too.
+'''
+
+verse_zh = '''
+臨濟全機格調高，
+棒頭有眼辨秋毫。
+掃除狐兔家風峻，
+變化魚龍電火燒。
+活人劍，
+殺人刀，
+倚天照雪利吹毛。
+一等令行滋味別，
+十分痛處是誰遭。
+
+'''
+verse_en = '''
+Linji at full pitch, the key set high,
+an eye on the staff-tip reading a hair in autumn.
+He sweeps out fox and rabbit; the house style is fierce.
+Fish turn to dragons, scorched in lightning fire.
+A sword that gives life.
+A blade that takes it.
+Leaned on the sky, flashing on snow, keen enough to split a blown hair.
+One command goes out, and the taste of it is something else.
+The place it hurts the most: who's the one who takes it?
+'''
+
+pointer = '''
+Linji (died 866) was the master famous for hitting and shouting students out of their heads instead of explaining; case 86 tells how he came by that method. Here the temple manager returns from a routine errand, selling off the monastery's surplus rice, feeling competent about it, every grain gone. Linji draws a single line in the dirt and asks, can you sell this, meaning can you do business with the bare fact in front of you and not just market grain. The manager shouts, a stock Chan signal for having broken through, and gets hit; the cook tries the opposite tack, a respectful bow, and gets hit too. The bind is assuming there is a correct move to find. Linji is not docking wrong answers and paying out for right ones; he is testing whether anything you produce is alive this second or just a drilled reflex, which is the same blade the intro names, thirty blows for right and thirty for wrong.
+'''

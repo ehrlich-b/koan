@@ -1,0 +1,40 @@
+number = 7
+slug = "zhaozhou-wash-your-bowl"
+title_zh = "趙州洗缽"
+title_en = "Zhaozhou: Wash Your Bowl"
+title_pinyin = ""
+
+case_zh = '''
+趙州因僧問。某甲乍入叢林。乞師指示。州云。喫粥了也未。僧云。喫粥了也。州云。洗缽盂去。其僧有省。
+'''
+case_en = '''
+A monk said to Zhaozhou, "I've just entered the monastery. Please, teach me something."
+Zhaozhou said, "Have you eaten your rice?"
+The monk said, "Yes, I've eaten."
+Zhaozhou said, "Then go wash your bowl."
+The monk got it.
+'''
+
+commentary_zh = '''
+趙州開口見膽。露出心肝者僧聽事不真。喚鐘作甕。
+'''
+commentary_en = '''
+Zhaozhou opens his mouth and shows you his guts, his heart laid bare. But the monk wasn't really listening. He heard a bell and called it a pot.
+'''
+
+verse_zh = '''
+只為分明極
+翻令所得遲
+早知燈是火
+飯熟已多時
+'''
+verse_en = '''
+Just because it was so plain,
+the getting came so slow.
+Had he known the lamp was fire,
+his rice would have cooked long ago.
+'''
+
+pointer = '''
+Zhaozhou is one of the great Chan masters, prized for answers so plain they slide right past you. A brand-new monk arrives starving for some secret teaching, the special key that unlocks everything. Zhaozhou asks if he's eaten, then tells him to go wash his bowl, and that is the entire teaching: the sacred isn't stashed somewhere beyond your ordinary day, it's in eating when you eat and cleaning up after. This is one face of the tradition, the homely "nothing special" Zen that also runs through "ordinary mind is the Way" (19). The monk was squinting at a far-off fire while the lamp was already burning in his hand.
+'''

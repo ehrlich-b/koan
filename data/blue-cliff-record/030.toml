@@ -1,0 +1,40 @@
+number = 30
+slug = ""
+title_zh = ""
+title_en = "Zhaozhou's Big Radishes"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+僧問趙州：「承聞和尚親見南泉，是否？」州云：「鎮州出大蘿蔔頭。」
+
+'''
+case_en = '''
+A monk asked Zhaozhou, "I hear you studied with Nanquan in person. Is that true?"
+Zhaozhou said, "Zhenzhou grows big radishes."
+'''
+
+verse_zh = '''
+鎮州出大蘿蔔，
+天下衲僧取則。
+只知自古自今，
+爭辨鵠白烏黑。
+賊，賊！
+衲僧鼻孔曾拈得。
+
+'''
+verse_en = '''
+Zhenzhou grows big radishes.
+Every monk in the land takes the cue.
+They only know it's been so from old to now.
+Why sort the white swan from the black crow?
+Thief, thief!
+He had the monk by the nose all along.
+'''
+
+pointer = '''
+Zhaozhou is one of the great masters of this collection, and Nanquan genuinely was his teacher, so the question is true and the monk probably expects a fond yes and some reminiscing. Instead Zhaozhou reports on local agriculture: Zhenzhou is known for big radishes. It reads as a non-answer and is somehow the entire answer. The monk wants a pedigree certified, wants Zhaozhou to trade on his famous lineage, and Zhaozhou declines by making the question as obvious and pointless as asking whether radishes grow where everyone knows radishes grow. The verse cries "thief" because he lifted the question clean out of the monk's hands before the monk felt it go.
+'''

@@ -1,0 +1,53 @@
+number = 31
+slug = ""
+title_zh = ""
+title_en = "Maku Shakes His Staff"
+
+intro_zh = '''
+動則影現，覺則氷生。其或不動不覺，不免入野狐窟裏。透得徹，信得及，無絲毫障翳，如龍得水，似虎靠山。放行也瓦礫生光，把定也真金失色。古人公案，未免周遮，且道評論什麼邊事？試舉看。
+
+'''
+intro_en = '''
+Move, and a shadow falls. Think, and ice forms. But neither move nor think and you drop straight into a fox's den. See clear through, trust all the way, not a speck blocking the view, and you are a dragon reaching water, a tiger backed against its mountain. Let go, and broken tiles catch the light. Hold fast, and pure gold loses its shine. Even the old masters' cases don't cover everything. So tell me: what is left to judge? Here is a case. Look.
+'''
+
+case_zh = '''
+麻谷持錫到章敬，遶禪床三匝，振錫一下，卓然而立。敬云：「是，是。」雪竇著語云：「錯。」麻谷又到南泉，遶禪床三匝，振錫一下，卓然而立。泉云：「不是，不是。」雪竇著語云：「錯。」麻谷富時云：「章敬道是，和尚為什麼道不是？」泉云：「章敬即是，是汝不是。此是風力所轉，終成敗壞。」
+
+'''
+case_en = '''
+Maku came to Zhangjing carrying his staff. He circled the meditation seat three times, gave the staff one shake, and stood there straight.
+Zhangjing said, "Right, right."
+(Xuedou comments: Wrong.)
+Then Maku went to Nanquan. He circled the meditation seat three times, gave the staff one shake, and stood there straight.
+Nanquan said, "Wrong, wrong."
+(Xuedou comments: Wrong.)
+Maku said, "Zhangjing approved this. Why won't you?"
+Nanquan said, "Zhangjing is right and you are wrong. This is only the wind blowing you about. In the end it falls apart."
+'''
+
+verse_zh = '''
+此錯彼錯，
+切忌拈却。
+四海浪平，
+百川潮落。
+古策風高十二門，
+門門有路空蕭索。
+非蕭索，
+作者好求無病藥。
+
+'''
+verse_en = '''
+This one wrong, that one wrong:
+whatever you do, pick up neither.
+The four seas lie flat and calm,
+a hundred rivers ebb with the tide.
+The old staff towers over the twelve gates,
+every gate a road, and every road bare and empty.
+Not empty:
+a true maker seeks medicine where there is no disease.
+'''
+
+pointer = '''
+Maku, Zhangjing, and Nanquan are all Tang teachers. A ringed metal staff was carried by a monk who had "arrived," and circling the master's seat and giving it a shake was a stock routine meaning roughly "I've got it, check me." Maku runs the identical performance at two teachers and draws opposite verdicts, "right" from one, "wrong" from the other, which is bait for the obvious question: which teacher graded it correctly? Notice that Xuedou, the collector, comments "wrong" on both, refusing the scoreboard entirely. Nanquan's jab tells you why: it was only the wind blowing you around, borrowed momentum, a move he learned rather than something alive in him. A whose-stamp-is-valid argument is chasing the wrong thing.
+'''

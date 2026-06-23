@@ -1,0 +1,41 @@
+number = 90
+slug = ""
+title_zh = ""
+title_en = "The Oyster and the Moon"
+
+intro_zh = '''
+聲前一句，千聖不傳；面前一絲，長時無間。淨裸裸，赤灑灑，頭鬔鬆，耳卓朔。且道作麼生？試舉看。
+
+'''
+intro_en = '''
+The one line before any sound is the one thing the thousand sages never handed down. The single thread right in front of you never breaks. Stripped bare, washed clean, hair on end, ears at attention. So tell me, what is it? Here's a case to test it.
+'''
+
+case_zh = '''
+僧問智門：「如何是般若體？」門云：「蚌含明月。」僧云：「如何是般若用？」門云：「兔子懷胎。」
+
+'''
+case_en = '''
+A monk asked Zhimen, "What is the body of prajna?"
+Zhimen said, "The oyster swallows the bright moon."
+The monk asked, "What is the function of prajna?"
+Zhimen said, "The rabbit is carrying young."
+'''
+
+verse_zh = '''
+一片虛凝絕謂情，
+人天從此見空生。
+蚌含玄兔深深意，
+曾與禪家作戰爭。
+
+'''
+verse_en = '''
+One stretch of still emptiness, past all words.
+From here gods and humans watched emptiness be born.
+The oyster, the dark hare: a meaning sunk deep
+that has stirred up no end of fights among Zen folk.
+'''
+
+pointer = '''
+Zhimen is a Chan teacher, in fact Xuedou's own master, and "prajna" is the Buddhist word for the deep wisdom that sees straight through to how things actually are. The monk asks two textbook questions, what prajna is, its body, and what it does, its function, plainly hoping for a clean pair of definitions. Zhimen answers with two images from old Chinese folklore: oysters were thought to grow their pearls by swallowing moonlight, and the moon-rabbit was said to conceive merely by gazing at the moon. In both, something fertile and real comes out of a reflection, out of nothing you could ever grab. That is his point, and it is also the bait, because the answers refuse to be the tidy definitions the monk wanted; the verse notes these slippery lines have kept Zen students arguing for ages. You asked what wisdom is and got a pregnant rabbit. Where does that leave the question?
+'''

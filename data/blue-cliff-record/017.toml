@@ -1,0 +1,39 @@
+number = 17
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+斬釘截鐵，始可為本分宗師；避箭隈刀，焉能為通方作者？針劄不入處則且置，白浪滔天時如何？試舉看。
+
+'''
+intro_en = '''
+Cut clean through nail and iron, and only then are you a true master of the school. Duck behind a shield, flinch from the blade, and how will you ever lead anyone anywhere? Leave aside the place too tight for a needle. When the white waves swamp the sky, then what? Here's a case. Look.
+'''
+
+case_zh = '''
+僧問香林：「如何是祖師西來意？」林云：「坐久成勞。」
+
+'''
+case_en = '''
+A monk asked Xianglin, "What is the point of Bodhidharma coming from the West?"
+Xianglin said, "Sit long enough and you get tired."
+'''
+
+verse_zh = '''
+一箇兩箇千萬箇，
+脫却籠頭卸角馱。
+左轉右轉隨後來，
+紫胡要打劉鐵磨。
+
+'''
+verse_en = '''
+One, two, a thousand, ten thousand,
+shrug off the bridle, drop the load.
+Turn left, turn right, they all come trailing after.
+Zihu means to clobber Iron-Grinder Liu.
+'''
+
+pointer = '''
+"Why did Bodhidharma come from the West" is the standard big question of Chan, naming the Indian monk who supposedly carried Zen to China, so the monk is really asking for the bottom-line meaning of the whole enterprise. Xianglin answers with nothing cosmic at all: sit long enough and you get tired. That is the entire reply. The trap is the expectation of a grand secret tucked behind the obvious, when the obvious is the answer and there is no secret crouched in back of it. The verse's last line names Zihu and the famously sharp nun nicknamed Iron-Grinder Liu, two tough teachers known for going straight at each other, the picture being that real masters meet head-on without flinching. Iron-Grinder Liu gets her own match against Guishan a few cases on, at case 24.
+'''

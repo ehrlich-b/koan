@@ -1,0 +1,56 @@
+number = 65
+slug = ""
+title_zh = ""
+title_en = "The Non-Buddhist Questions the Buddha"
+
+intro_zh = '''
+無相而形，充十虛而方廣；無心而應，遍剎海而不煩。舉一明三，目機銖兩，直得棒如雨點、喝似雷奔，也未當得向上人行履在。且道：作麼生是向上人事？試舉。
+
+'''
+intro_en = '''
+Formless, yet it takes shape, filling all of empty space, vast and wide. Mindless, yet it answers, reaching every world without strain. Show one corner and he sees the other three, weighing the finest difference. Even when the blows fall like rain and the shouts roll like thunder, that is still not the conduct of one who has gone all the way. So tell me: what does such a person do? Here is a case to test you.
+'''
+
+case_zh = '''
+外道問佛：「不問有言，不問無言。」世尊良久，外道讚歎云：「世尊大慈大悲，開我迷雲，令我得入。」外道去後，阿難問佛：「外道有何所證，而言得入？」佛云：「如世良馬，見鞭影而行。」
+
+'''
+case_en = '''
+A non-Buddhist asked the Buddha, "I'm not asking about what can be said. I'm not asking about what can't be said."
+
+The Buddha sat in silence.
+
+The man bowed and praised him: "Your great kindness and compassion have parted my clouds of confusion and let me in."
+
+After he left, Ananda asked, "What did that man realize, that he said he got in?"
+
+The Buddha said, "A fine horse runs at the shadow of the whip."
+'''
+
+verse_zh = '''
+機輪曾未轉，
+轉必兩頭走。
+明鏡忽臨臺，
+當下分妍醜。
+妍醜分兮迷雲開，
+慈門何處生塵埃。
+因思良馬窺鞭影，
+千里追風喚得回。
+喚得回，鳴指三下。
+
+'''
+verse_en = '''
+The wheel of the mind has never turned;
+turn it, and it runs both ways at once.
+A bright mirror set on its stand
+splits the lovely from the ugly in an instant.
+Lovely and ugly parted, the clouds of confusion lift.
+Where in the gate of compassion could dust ever settle?
+Think of the fine horse eyeing the whip's shadow:
+a thousand miles into the wind, and one call brings it back.
+Brings it back, and he snaps his fingers three times.
+'''
+
+pointer = '''
+The "non-Buddhist" here is just an outsider, a rival teacher of the kind who shows up to debate. He sets a tidy trap: don't answer in words, don't answer in silence. Both doors are now nailed shut. The Buddha takes neither; he simply sits there, present and unbothered, and the man somehow gets it and leaves satisfied. Ananda, the Buddha's longtime attendant, is baffled, because the visitor walked off with nothing you could name, so what did he actually get? The answer is the punchline: a truly fine horse doesn't need the whip to land, the shadow of it is enough. What passed between them wasn't an answer slotted into one of the man's two boxes; it was the man being quick enough to read what the boxes couldn't hold. So the case hands you the same shadow and asks how fast you move.
+'''

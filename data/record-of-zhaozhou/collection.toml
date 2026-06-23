@@ -1,0 +1,21 @@
+slug = "record-of-zhaozhou"
+title_en = "The Record of Zhaozhou"
+title_alt = "The Recorded Sayings of Zhaozhou (Jōshū-roku)"
+title_zh = "趙州真際禪師語錄"
+title_pinyin = "Zhàozhōu Zhēnjì Chánshī Yǔlù"
+title_ja = "Jōshū-roku"
+compiler = "Sayings of Zhaozhou Congshen (趙州從諗, 778–897); transmitted within 古尊宿語錄, compiled by the Song monk Zezangzhu (賾藏主)"
+date = "sayings 9th c.; Song anthology"
+dynasty = "Tang dynasty (sayings); Song anthology"
+source_url = ""
+source_note = "The Record of Zhaozhou (趙州真際禪師語錄并行狀), preserved in 古尊宿語錄 (fascicles 13–14) in the public-domain Xuzangjing (卍續藏, vol. 68, no. 1315), set in our own punctuation. It gives Zhaozhou's own record — his life-record (行狀), his Dharma-hall discourses and instructions (上堂 / 示眾), his Song of the Twelve Hours (十二時歌), and his occasional verses (頌); the appended encomium and elegies written by other hands are omitted."
+license_original = "Public domain (Xuzangjing base text; sayings 9th c.)."
+license_translation = "CC0 1.0 Universal (public-domain dedication)."
+
+label_verse_zh = "頌"
+
+intro_en = '''
+The Record of Zhaozhou (Chinese: Zhàozhōu Zhēnjì Chánshī Yǔlù; Japanese: Jōshū-roku) collects the sayings of Zhaozhou Congshen, the long-lived Tang master whose terse, glancing replies are among the most quoted in all of Chan. His "Wú" (無), his "Go drink tea," his cypress tree in the courtyard — these became touchstone kōan in the Gateless Gate, the Blue Cliff Record, and the Book of Serenity. His record survives embedded in the Song anthology of "Recorded Sayings of the Ancient Worthies" (古尊宿語錄); we have isolated his portion of it and segmented it into sequential passages.
+
+The original text is public domain (from the Xuzangjing), set in our own punctuation. The translations and pointers are released under CC0.
+'''

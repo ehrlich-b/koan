@@ -1,0 +1,74 @@
+number = 55
+slug = ""
+title_zh = ""
+title_en = "Daowu's Condolence Call"
+
+intro_zh = '''
+穩密全真，當頭取證；涉流轉物，直下承當。向擊石火、閃電光中，坐斷誵訛；於據虎頭、收虎尾處，壁立千仞。則且置，放一線道，還有為人處也無？試舉看。
+
+'''
+intro_en = '''
+Solid all the way through, the real thing. Take the proof head-on. Move with the current, turn with the things around you, take charge right where you stand. In the spark off flint, in a flash of lightning, you cut through every trick and tangle. Grip the tiger's head and hold its tail, stand sheer as a thousand-foot cliff. Set all that aside for now. Throw out one thread, one opening: is there anywhere in it to help a person, or not? Let's see.
+'''
+
+case_zh = '''
+道吾與漸源至一家弔慰。源拍棺云：「生邪死邪？」吾云：「生也不道，死也不道。」源云：「為什麼不道？」吾云：「不道，不道。」回至中路，源云：「和尚快與某甲道，若不道，打和尚去也。」吾云：「打即任打，道即不道。」源便打。後道吾遷化，源到石霜，舉似前話。霜云：「生也不道，死也不道。」源云：「為什麼不道？」霜云：「不道，不道。」源於言下有省。源一日將鍬子於法堂上，從東過西，從西過東。霜云：「作什麼？」源云：「覓先師靈骨。」霜云：「洪波浩渺，白浪滔天，覓什麼先師靈骨？」雪竇著語云：「蒼天，蒼天。」源云：「正好著力。」太原孚云：「先師靈骨猶在。」
+
+'''
+case_en = '''
+Daowu and Jianyuan went to a house to pay their respects to the dead. Jianyuan rapped on the coffin and said, "Alive or dead?"
+
+Daowu said, "I won't say alive. I won't say dead."
+
+Jianyuan said, "Why won't you say?"
+
+Daowu said, "I won't say. I won't say."
+
+On the road back, Jianyuan said, "Master, tell me now. If you won't, I'll hit you."
+
+Daowu said, "Hit if you like. I still won't say." And Jianyuan hit him.
+
+Later Daowu died. Jianyuan went to Shishuang and told him the whole story. Shishuang said, "I won't say alive. I won't say dead."
+
+Jianyuan said, "Why won't you say?"
+
+Shishuang said, "I won't say. I won't say." At those words Jianyuan broke through at last.
+
+One day Jianyuan carried a hoe into the teaching hall and paced it, east to west, west to east. Shishuang said, "What are you doing?"
+
+Jianyuan said, "Looking for the bones of our late master."
+
+Shishuang said, "The waves run vast, the white breakers swallow the sky. What bones of the late master will you find here?"
+
+Xuedou puts in: "Good god. Good god."
+
+Jianyuan said, "Just the place to put my back into it."
+
+Taiyuan Fu said, "The late master's bones are still here."
+'''
+
+verse_zh = '''
+兔馬有角，
+牛羊無角。
+絕毫絕氂，
+如山如嶽。
+黃金靈骨今猶在，
+白浪滔天何處著。
+無處著，
+隻履西歸曾失却。
+
+'''
+verse_en = '''
+Rabbits and horses have horns;
+oxen and sheep have none.
+Not a hair, not a thread,
+yet huge as the hills, huge as the peaks.
+The golden bones, the holy bones, are here even now.
+The white breakers swallow the sky. Where do you set them down?
+Nowhere to set them down.
+He went home to the West with one sandal, and lost even that.
+'''
+
+pointer = '''
+Two monks visit a wake, and the junior, Jianyuan, raps on the coffin and asks his teacher Daowu the live-wire question: alive or dead? It isn't small talk. The expected answer is supposed to slip past the alive-or-dead split entirely, and Daowu refuses to give one, twice, even after the frustrated Jianyuan hauls off and hits him. The catch is that Daowu's flat refusal is itself the teaching, and Jianyuan only catches it years later when a second teacher hands him the identical non-answer and it finally lands. The closing scene, where he paces the hall hunting for the "bones" of his dead master, is grief made literal: he wants some leftover trace to hold, and Shishuang tells him there's nothing to find. The single sandal in the verse nods to the legend of Bodhidharma seen walking back to India with one shoe after his death, so even the founder left no relic worth clutching.
+'''

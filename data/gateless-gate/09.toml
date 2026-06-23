@@ -1,0 +1,42 @@
+number = 9
+slug = "great-universal-wisdom"
+title_zh = "大通智勝"
+title_en = "The Buddha of Supreme Penetration"
+title_pinyin = ""
+
+case_zh = '''
+興陽讓和尚。因僧問。大通智勝佛。十劫坐道場。佛法不現前。不得成佛道時如何。讓曰。其問甚諦當。僧云。既是坐道場。為甚麼不得成佛道。讓曰。為伊不成佛。
+'''
+case_en = '''
+A monk asked Master Rang of Xingyang: "The Buddha of Supreme Penetration sat in meditation for ten eons, yet the truth never appeared and he never became a buddha. How can that be?"
+
+Rang said, "Now that's a fair question."
+
+The monk said, "He sat right there in the place of awakening. Why didn't he become a buddha?"
+
+Rang said, "Because he didn't become a buddha."
+'''
+
+commentary_zh = '''
+只許老胡知。不許老胡會。凡夫若知即是聖人。聖人若會即是凡夫。
+'''
+commentary_en = '''
+You can let the old foreigner know. You can't let him understand. Let an ordinary man know, and he's a sage; let a sage understand, and he's an ordinary man.
+'''
+
+verse_zh = '''
+了身何似了心休
+了得心兮身不愁
+若也身心俱了了
+神仙何必更封侯
+'''
+verse_en = '''
+Freeing the body is no match for freeing the mind.
+Free the mind, and the body has nothing to fret over.
+But once body and mind are both set free,
+why would a sage still want a title?
+'''
+
+pointer = '''
+The story comes from the Lotus Sutra: the Buddha of Supreme Penetration sat in meditation for ten eons (an eon being an unthinkably long stretch of time) and, the text says, awakening simply never arrived, he never "became a buddha." The monk wants Master Rang to explain the glitch, since the guy did everything right and got no payoff. Rang answers with a flat tautology, "because he didn't become a buddha," and refuses to budge. The monk is treating buddhahood like a prize you bank by sitting long enough, a thing you lack and then acquire. The case won't grant the gap between practicing and arriving that his question depends on, the same gap Nanquan dissolves in case 19.
+'''

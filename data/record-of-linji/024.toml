@@ -1,0 +1,34 @@
+number = 24
+slug = ""
+title_zh = "勘辨"
+title_en = "Linji Tests Them"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師問僧：「什麼處來？」僧便喝，師便揖坐。僧擬議，師便打。師見僧來，便竪起拂子，僧禮拜，師便打。又見僧來，亦竪起拂子，僧不顧，師亦打。
+
+'''
+case_en = '''
+Linji asked a monk, "Where are you coming from?"
+
+The monk shouted.
+
+Linji bowed and gestured for him to sit. The monk started to speak, and Linji hit him.
+
+Later Linji saw another monk coming and held up his fly-whisk. The monk bowed. Linji hit him.
+
+Then another monk came, and again Linji held up the fly-whisk. This monk paid it no mind. Linji hit him too.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Now Linji holds the seat and others come to be checked. The shout was his signature blast of sound, meant to cut through thinking, and students copied it the way you'd copy a famous coach's move. The first monk answers Linji's question with a shout, borrowing the master's own weapon; Linji bows, plays along, then hits him the instant he gropes for a follow-up line, because that flicker of "what now?" gives away that the shout was theater. The fly-whisk, a horsehair swatter that became a teacher's prop, runs the same trap twice: one monk bows to it and turns it into a holy object, the next ignores it and strikes a pose of the opposite kind. There is no correct response sitting in Linji's pocket. He hits the scripted bow and the scripted non-bow alike, the way he keeps insisting nobody has to attain anything because the real person is already here (case 3); he is only checking whether anyone is home, or just running lines.
+'''

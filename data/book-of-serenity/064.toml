@@ -1,0 +1,76 @@
+number = 64
+slug = ""
+title_zh = "子昭承嗣"
+title_en = "Zizhao's Lineage"
+
+intro_zh = '''
+韶陽親見睦州，拈香於雪老；投子面承圓鑒，嗣法於大陽。珊瑚枝上玉花開，薝蔔林中金果熟。且道：如何造化來？
+
+'''
+intro_en = '''
+Shaoyang met Muzhou face to face, yet burned his incense for old Xuefeng. Touzi had his approval straight from Yuanjian, yet his Dharma came down from Dayang. On the coral branch, jade flowers open. In the gardenia grove, golden fruit ripens. So tell me: how does it all come to be?
+'''
+
+case_zh = '''
+子昭首座問法眼：「和尚開堂，承嗣何人？」眼云：「地藏。」昭云：「太辜負長慶先師。」眼云：「某甲不會長慶一轉語。」昭云：「何不問？」眼云：「『萬象之中獨露身』，意作麼生？」昭乃竪起拂子。眼云：「此是長慶處學得底，首座分上作麼生？」昭無語。眼云：「只如『萬象之中獨露身』，是撥萬象？不撥萬象？」昭云：「不撥。」眼云：「兩箇。」參隨左右皆云：「撥萬象。」眼云：「萬象之中獨露身聻！」
+
+'''
+case_en = '''
+Zizhao, the head monk, asked Fayan, "When you opened your hall, whose heir did you become?"
+
+Fayan said, "Dizang's."
+
+Zizhao said, "Then you've betrayed your old teacher Changqing."
+
+Fayan said, "There's a turning word of Changqing's I can't make out."
+
+Zizhao said, "Why not ask it?"
+
+Fayan said, "'In the midst of all things, the single body stands revealed.' What does that mean?"
+
+Zizhao held up his whisk.
+
+Fayan said, "That you learned from Changqing. What's your own answer?"
+
+Zizhao said nothing.
+
+Fayan said, "Take that line, 'in the midst of all things, the single body stands revealed.' Does it sweep all things away, or not?"
+
+Zizhao said, "It doesn't sweep them away."
+
+Fayan said, "Now there are two of you."
+
+The attendants on both sides said, "It sweeps all things away."
+
+Fayan said, "'In the midst of all things, the single body stands revealed.' Well?"
+'''
+
+verse_zh = '''
+離念見佛，
+破塵出經。
+現成家法，
+誰立門庭？
+月逐舟行江練淨，
+春隨草上燒痕青。
+撥不撥，
+聽叮嚀。
+三徑就荒歸便得，
+舊時松菊尚芳馨。
+
+'''
+verse_en = '''
+Drop every thought, and there's the Buddha.
+Crack the dust open, and out comes the sutra.
+The family rule is right here, ready-made.
+So who is it setting up a gate?
+The moon rides with the boat, the river a strip of clean silk.
+Spring follows the grass, last year's burn scar going green.
+Sweep, don't sweep:
+listen close to the warning.
+The three paths have gone to weeds, but you can still go home,
+where the old pines and chrysanthemums are fragrant as ever.
+'''
+
+pointer = '''
+This is an inside-baseball fight about lineage. In Chan, who your teacher was is your entire pedigree, and Fayan, the great Five Dynasties master, openly says he's the heir of Dizang, not of Changqing, the teacher Zizhao expected. Zizhao is scandalized, you betrayed your old master, so Fayan baits him with one of Changqing's signature lines, "in the midst of all things, the single body stands revealed," roughly: the true self shows up plainly in everything around you. Then comes the trap. Does seeing that self mean you wipe out the world of "all things," or leave it standing? Zizhao picks "leave it," the attendants pick "wipe it out," and Fayan just throws the line back at the whole room, because the second you turn it into a doctrine you can defend, you've already missed it. Picking the right side was never the game; the answer can't be a position at all.
+'''

@@ -1,0 +1,63 @@
+number = 66
+slug = ""
+title_zh = "九峯頭尾"
+title_en = "Jiufeng's Head and Tail"
+
+intro_zh = '''
+神通妙用底，放脚不下；忘緣絕慮底，擡脚不起。可謂有時走殺，有時坐殺。如何得恰好去？
+
+'''
+intro_en = '''
+The man of miraculous powers can't get his foot off the ground. The man who has dropped every thought and let go of it all can't get his foot up. So sometimes you run yourself to death, sometimes you sit yourself to death. How do you hit it just right?
+'''
+
+case_zh = '''
+僧問九峯：「如何是頭？」峯云：「開眼不覺曉。」僧云：「如何是尾？」峯云：「不坐萬年床。」僧云：「有頭無尾時如何？」峯云：「終是不貴。」僧云：「有尾無頭時如何？」峯云：「雖飽無力。」僧云：「直得頭尾相稱時如何？」峯云：「兒孫得力，室內不知。」
+
+'''
+case_en = '''
+A monk asked Jiufeng, "What is the head?"
+Jiufeng said, "Open your eyes and still you miss the dawn."
+The monk said, "What is the tail?"
+Jiufeng said, "Don't sit on the thousand-year seat."
+The monk said, "When there's a head but no tail?"
+Jiufeng said, "Worth nothing in the end."
+The monk said, "When there's a tail but no head?"
+Jiufeng said, "Full, but no strength."
+The monk said, "And when head and tail match exactly?"
+Jiufeng said, "The children thrive, and in his room the old man never knows."
+'''
+
+verse_zh = '''
+規圓矩方，
+用行舍藏。
+鈍躓棲蘆之鳥，
+進退觸藩之羊。
+喫人家飯，
+臥自家床。
+雲騰致雨，
+露結為霜。
+玉線相投透針鼻，
+錦絲不斷吐梭腸。
+石女機停兮夜色向午，
+木人路轉兮月影移央。
+
+'''
+verse_en = '''
+The compass turns the circle, the square sets the corner;
+used, you act; shelved, you lie low.
+A dull bird stalled in the reeds,
+a ram in the fence, no forward, no back.
+You eat at another man's house,
+you sleep in your own bed.
+Clouds climb and bring the rain,
+dew gathers and turns to frost.
+The jade thread meets its mark and slips through the needle's eye,
+the brocade strand never breaks, spun out from the shuttle's gut.
+The stone woman's loom falls still: night darkens toward noon.
+The wooden man rounds the bend: the moon's shadow slides to center.
+'''
+
+pointer = '''
+Jiufeng Daoqian was Shishuang's attendant, the same monk who refuses to be impressed by a death-on-command exit in case 96, and here a student probes him with a riddle frame. "Head" and "tail" stand for the start of practice and its finish, how you open a thing against how you close it out. The monk keeps trying to pull the two apart, head without tail, tail without head, and Jiufeng keeps declining the cut: a beginning that never follows through is worthless, a finish with no real start is full but has no strength in it. The line everyone waits for is the last. When head and tail finally line up, you brace for something to celebrate, and Jiufeng hands you a grandfather whose grandchildren are thriving under his own roof while he never notices. When the thing is actually working it goes quiet and ordinary, and the noticing would already be a step out of it.
+'''

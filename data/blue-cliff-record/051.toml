@@ -1,0 +1,63 @@
+number = 51
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+纔有是非，紛然失心；不落階級，又無摸索。且道：放行即是，把住即是？到這裏，若有一絲毫解路，猶滯言詮，尚拘機境，盡是依草附木。直饒便到獨脫處，未免萬里望鄉關。還搆得麼？若未搆得，且只理會箇理成公案。試舉看。
+
+'''
+intro_en = '''
+The instant you split things into right and wrong, your mind scatters and you lose it. Drop the gradual steps, though, and there's nothing left to grope for either. So tell me: letting go is it, and holding fast is it. When you get here, if there's so much as a single thread of "I figured it out," you're still mired in words, still bound by gimmicks and situations. That's all just clinging to weeds and hanging on branches. Even if you reach the place where you've broken free and stand alone, you're still gazing at your home village from a thousand miles off. Can you reach it yet? If not, then just chew on this plain, settled case. Here, look.
+'''
+
+case_zh = '''
+雪峯住庵時，有兩僧來禮拜。峯見來，以手托庵門，放身出云：「是什麼？」僧亦云：「是什麼？」峯低頭歸庵。僧後到巖頭，頭問：「什麼處來？」僧云：「嶺南來。」頭云：「曾到雪峯麼？」僧云：「曾到。」頭云：「有何言句？」僧舉前話。頭云：「他道什麼？」僧云：「他無語，低頭歸庵。」頭云：「噫，我當初悔不向他道末後句，若向伊道，天下人不奈雪老何。」僧至夏末，再舉前話請益。頭云：「何不早問？」僧云：「未敢容易。」頭云：「雪峯雖與我同條生，不與我同條死。要識末句後，只這是。」
+
+'''
+case_en = '''
+When Xuefeng was living in his hut, two monks came to pay their respects. Watching them approach, Xuefeng put his hand to the door, threw it open, planted himself in the doorway, and said, "What's this?"
+One monk shot back, "What's this?"
+Xuefeng dropped his head and went back inside.
+Later one of the monks made it to Yantou. Yantou asked, "Where are you coming from?"
+"Lingnan," said the monk.
+"Did you ever get to Xuefeng's?"
+"I did."
+"What did he have to say?"
+The monk told him the whole story.
+Yantou said, "What did he say after that?"
+"Nothing. He dropped his head and went back in the hut."
+Yantou said, "Damn. I wish I'd told him the last word back then. If I had, nobody in the world could touch old Xue."
+At the end of the summer the monk brought it up again and asked Yantou to explain.
+Yantou said, "Why didn't you ask sooner?"
+"I didn't dare take it lightly," said the monk.
+Yantou said, "Xuefeng was born on the same branch as me, but he won't die on the same branch as me. You want to know the last word? Just this."
+'''
+
+verse_zh = '''
+末後句，
+為君說，
+明暗雙雙底時節。
+同條生也共相知，
+不同條死還殊絕。
+還殊絕，
+黃頭碧眼須甄別。
+南北東西歸去來，
+夜深同看千巖雪。
+
+'''
+verse_en = '''
+The last word —
+I'll spell it out for you:
+the moment light and dark stand paired as one.
+Born on one branch, they know each other through and through;
+not dying on one branch, they're cut clean apart.
+Cut clean apart —
+even the yellow-head, the blue-eyes, must be told apart.
+North, south, east, west, everybody, come on home.
+Deep in the night, together, we watch the snow on a thousand peaks.
+'''
+
+pointer = '''
+Xuefeng and Yantou were two famous Tang teachers and old friends, trained together, which is what "born on the same branch" means. When Xuefeng blocks his own doorway and barks "What's this?", he's testing the two travelers. One just parrots it back, Xuefeng drops his head and walks inside, and everyone including Yantou reads that retreat as a small defeat. From there Yantou keeps dangling "the last word," the thing Xuefeng supposedly left unsaid that would have made him untouchable. The bait is to imagine it's a secret phrase you could pry loose, and when Yantou finally delivers it with "Just this," he's pointing at the whole live exchange rather than handing over a password. "Yellow-head" and "blue-eyes" in the verse are the Buddha and Bodhidharma; even those two have to be sized up, which is the case telling you that nobody, not even the founders, gets graded on reputation.
+'''

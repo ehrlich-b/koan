@@ -1,0 +1,44 @@
+number = 1
+slug = "zhaozhous-dog"
+title_zh = "趙州狗子"
+title_en = "Zhaozhou's Dog"
+title_pinyin = "Zhàozhōu gǒuzǐ"
+
+case_zh = '''
+趙州和尚因僧問。狗子還有佛性。也無。州云無。
+'''
+case_en = '''
+A monk asked Zhaozhou, "Does a dog have buddha-nature, or not?" Zhaozhou said, "Wú."
+'''
+
+commentary_zh = '''
+參禪須透祖師關。妙悟要窮心路絕。祖關不透。心路不絕。盡是依草附木精靈。且道。如何是祖師關。只者一箇無字。乃宗門一關也。遂目之曰禪宗無門關。透得過者。非但親見趙州。便可與歷代祖師。把手共行。眉毛廝結。同一眼見。同一耳聞。豈不慶快。莫有要透關底。麼將三百六十骨節八萬四千毫竅。通身起箇疑團。參箇無字。晝夜提撕。莫作虛無會。莫作有無會。如吞了箇熱鐵丸。相似吐又吐不出。蕩盡從前惡知惡覺。久久純熟。自然內外打成。一片如啞子得夢。只許自知。驀然打發。驚天動地。如奪得關將軍大刀入手。逢佛殺佛。逢祖殺祖。於生死岸頭得大自在。向六道四生中。遊戲三昧。且作麼生提撕。盡平生氣力。舉箇無字。若不間斷好。似法燭一點便著。
+'''
+commentary_en = '''
+To practice Zen you have to break through the barrier the old masters set. Real awakening means cutting the mind's road off completely. Fail to break that barrier, fail to cut that road, and you're nothing but a ghost rattling through the weeds, clinging to the trees.
+
+So tell me: what is the barrier? Just this one word, Wú. That is the whole barrier of our school, and that is why we call it the Gateless Barrier. Get through it and you don't merely meet Zhaozhou face to face. You walk hand in hand with every master down the line, eyebrow to eyebrow, seeing with their eyes, hearing with their ears. Wouldn't that be something?
+
+Anybody want through? Then take all three hundred and sixty of your bones, all eighty-four thousand of your pores, and pack your whole body into one solid lump of doubt around this word Wú. Chew on it day and night. Don't read it as "emptiness." Don't read it as "yes or no." It should feel like swallowing a red-hot iron ball: you gag, you try to spit it out, and it won't come up.
+
+Burn off every worn-out scrap of knowledge, every clever notion you've been carrying. Keep at it long enough and it ripens, and inside and outside fuse on their own. You'll be like a mute who has had a dream: you know it, but it is yours alone. Then all at once it cracks wide open, and you shake heaven and earth. It is as if you seized the great general's sword and now it is in your hand. Meet a buddha, kill the buddha; meet a master, kill the master. Right at the edge of life and death you come into total freedom, and you move at play through all the realms and forms of birth, completely at ease.
+
+So how do you work it? Throw every ounce of your life into holding up this one word Wú. Don't let it break off, and it catches like a lamp wick: one touch of flame and it's lit.
+'''
+
+verse_zh = '''
+狗子佛性
+全提正令
+纔涉有無
+喪身失命
+'''
+verse_en = '''
+A dog, buddha-nature.
+The whole command, laid bare.
+The moment you split it into yes or no,
+you have lost your body, lost your life.
+'''
+
+pointer = '''
+This is the gate. Wumen put it first on purpose and says to pour your whole life into it until it cracks you open; if you only ever sit with one case, sit with this one. Every text the monk has studied says yes, all beings have buddha-nature, dogs included, so he isn't really asking, he's angling for the gold star. Zhaozhou hands back "Wú," a word that ordinarily just means no, not, nothing (this is the famous "Mu" of Japanese Zen). Don't pocket it as "no" and feel clever: Wumen flatly forbids reading it as "emptiness" or as a move in the yes-or-no game. It's a door, and your whole thinking mind is the wall around it.
+'''

@@ -1,0 +1,69 @@
+number = 85
+slug = ""
+title_zh = "國師塔樣"
+title_en = "The National Teacher's Seamless Tomb"
+
+intro_zh = '''
+有打破虛空底鉆鎚，擘開華嶽底手段，始到元無縫罅處、不見瑕痕處。且誰是恁麼人？
+
+'''
+intro_en = '''
+A drill that punches through empty space. A grip that splits a mountain in two. Only then do you reach the place with no seam, no crack, where not a flaw or scar shows. So who is that person?
+'''
+
+case_zh = '''
+肅宗帝問忠國師：「百年後所須何物？」國師云：「與老僧作箇無縫塔。」帝曰：「請師塔樣。」國師良久，云：「會麼？」帝云：「不會。」國師云：「吾有付法弟子耽源，却諳此事。」後帝詔耽源，問：「此意如何？」源云：「相之南，譚之北，中有黃金充一國。無影樹下合同舡，瑠璃殿上無知識。」
+
+'''
+case_en = '''
+Emperor Suzong asked National Teacher Zhong, "After your hundred years are up, what will you need?"
+
+The National Teacher said, "Build the old monk a seamless tomb."
+
+The Emperor said, "Then give me the design."
+
+The National Teacher sat silent a long while, then said, "Got it?"
+
+The Emperor said, "No."
+
+The National Teacher said, "I have an heir to the Dharma, Danyuan. He knows about this matter. Ask him."
+
+Later the Emperor summoned Danyuan and asked, "What does this mean?"
+
+Danyuan said:
+
+South of Xiang, north of Tan,
+and in between, gold enough to fill a whole country.
+Under the shadowless tree, one ferry carries everyone across.
+In the lapis palace, no one who knows a thing.
+'''
+
+verse_zh = '''
+孤迴迴，
+圓陀陀。
+眼力盡處高峩峩，
+月落潭空夜色重，
+雲收山瘦秋容多。
+八卦位正，
+五行氣和。
+身先在裏見來麼？
+南陽父子兮却似知有，
+西竺佛祖兮無如奈何。
+
+'''
+verse_en = '''
+Alone, sheer and high.
+Round and full, whole through and through.
+Past the reach of sight, peak on peak.
+The moon sinks, the pool runs empty, the night thickens.
+The clouds draw back, the mountains thin, autumn fills the air.
+The eight trigrams set true,
+the five elements breathing in tune.
+You were inside it before you began. Do you see it yet?
+Father and son at Nanyang seemed to know what's what.
+The buddhas and ancestors of India: nothing to be done.
+'''
+
+pointer = '''
+This is a deathbed riddle. National Teacher Zhong, Nanyang Huizhong, was the most honored Chan master of his time and tutor to two emperors. Asked what he will want after death, he requests a "seamless tomb," not a jointed stone monument but a single whole with no crack in it, a figure for a reality you cannot carve up or pin down. The emperor's blunder is to ask for blueprints, as if the seamless could be drawn to scale. The Teacher goes silent, and the silence is itself the design, then he hands the matter to his heir Danyuan, who answers with impossible pictures, a tree that throws no shadow, a palace where nobody is anybody, all pointing where the silence pointed: everywhere, ownerless, nothing to grip. "Father and son" means the Teacher and his heir; even India's founders, the verse notes, had no diagram for it either.
+'''

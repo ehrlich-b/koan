@@ -1,0 +1,40 @@
+number = 40
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+休去歇去，鐵樹開花。有麼？有麼？黠兒落節。直饒七縱八橫，不免穿他鼻孔。且道誵訛在什麼處？試舉看。
+
+'''
+intro_en = '''
+Quit. Let it all drop. Then an iron tree blooms. Anybody here? Anybody? Even the sharpest student trips on this one. Run every which way, twist and dodge as you please, and still you get led around by the nose. So tell me, where's the snag? Here's a case to test you.
+'''
+
+case_zh = '''
+陸亘大夫與南泉語話次，陸云：「肇法師道：『天地與我同根，萬物與我一體。』也甚奇怪。」南泉指庭前花，召大夫云：「時人見此一株花，如夢相似。」
+
+'''
+case_en = '''
+Lu Geng, a high official, was talking with Nanquan. Lu said, "Master Sengzhao wrote, 'Heaven and earth share one root with me; all things and I are one body.' Remarkable, isn't it?"
+
+Nanquan pointed at a flower in the courtyard, called to the official, and said, "People these days look at this flower as if in a dream."
+'''
+
+verse_zh = '''
+聞見覺知非一一，
+山河不在鏡中觀。
+霜天月落夜將半，
+誰共澄潭照影寒。
+
+'''
+verse_en = '''
+Hearing, seeing, sensing, knowing: not one thing apiece.
+Mountains and rivers are not to be found in a mirror.
+Frost-bright sky, the moon gone down, the night half spent—
+who comes to the still pool to share that cold reflection?
+'''
+
+pointer = '''
+Lu Geng was a government official and a serious student of Nanquan, the great ninth-century master. He quotes Sengzhao, an early Chinese Buddhist writer whose graceful line, heaven and earth share one root with me, all things are one body, had hardened into a stock thing to admire, the sort of lofty saying people repeat to sound deep. Lu wants it validated. Nanquan instead points at an actual flower and says people look at it as if in a dream, sleepwalking past the real thing while chanting pretty words about oneness. The trap is mistaking the insight for a quotable concept rather than seeing what is in front of you, which is the same complaint Nanquan's own student Zhaozhou keeps making with radishes and shirts elsewhere here (30, 45).
+'''

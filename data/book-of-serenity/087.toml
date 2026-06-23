@@ -1,0 +1,52 @@
+number = 87
+slug = ""
+title_zh = "疎山有無"
+title_en = "Shushan's Words and No-Words"
+
+intro_zh = '''
+門欲闔，一拶便開；舡欲沈，一篙便轉。車箱入谷無歸路，箭筈通天有一門。且道：向甚麼處去？
+
+'''
+intro_en = '''
+The gate is about to shut: one shove and it swings wide. The boat is about to sink: one push of the pole and it comes around. Drive the cart into the canyon and there's no road back. The arrow's notch points at the sky, and still one way leads through. So tell me: which way do you go?
+'''
+
+case_zh = '''
+疎山到溈山，便問：「承師有言：『有句無句，如藤倚樹。』忽然樹倒藤枯，句歸何處？」溈山呵呵大笑。疎山云：「某甲四千里賣布單來，和尚何得相弄？」溈喚侍者取錢還這上座，遂囑云：「向後有獨眼龍，為子點破去在。」後到明昭，舉前話。昭云：「溈山可謂頭正尾正，只是不遇知音。」疎復問：「樹倒藤枯，句歸何處？」昭云：「更使溈山笑轉新。」疎於言下有省，乃云：「溈山元來笑裏有刀。」
+
+'''
+case_en = '''
+Shushan came to Weishan and asked, "I've heard you say that words and no-words are like vines clinging to a tree. So when the tree suddenly falls and the vines wither, where do the words go?"
+
+Weishan roared with laughter.
+
+Shushan said, "I walked four thousand miles and sold the shirt off my back to get here. How can you just toy with me?"
+
+Weishan called his attendant. "Bring money. Pay this fellow back." Then he told Shushan, "Someday a one-eyed dragon will crack this open for you."
+
+Later Shushan came to Mingzhao and told him the story. Mingzhao said, "Weishan had it right, head to tail. He just never met anyone who could hear the tune."
+
+Shushan asked again, "When the tree falls and the vines wither, where do the words go?"
+
+Mingzhao said, "You'd only set Weishan laughing all over again."
+
+At those words Shushan saw it. He said, "So all along there was a knife in that laugh."
+'''
+
+verse_zh = '''
+藤枯樹倒問溈山，
+大笑呵呵豈等閑。
+笑裏有刀窺得破，
+言思無路絕機關。
+
+'''
+verse_en = '''
+Vines withered, tree down, he puts it to Weishan.
+That roaring laugh, and you call it idle?
+A knife in the laugh, once you see clean through:
+no road for words or thought, every trick cut off.
+'''
+
+pointer = '''
+Shushan is a traveling monk after an answer; Weishan and Mingzhao are two old masters he calls on. The riddle starts from a line Weishan once posed: speech and silence both lean on something outside themselves, the way vines climb a tree. So Shushan asks the trap, if the tree falls and the vines wither, where does meaning go? Weishan's reply is to laugh in his face, which reads as a brush-off and a four-thousand-mile waste of the trip. The "one-eyed dragon" is Mingzhao, a teacher blind in one eye; "no one who could hear his tune" means nobody had caught what Weishan actually meant. It clicks years later when Shushan finally hears the laugh as the answer it always was, "a knife in that laugh." Chasing the words to some final resting place was the error; the laugh had already sealed off every exit he was scanning for.
+'''

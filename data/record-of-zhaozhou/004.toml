@@ -1,0 +1,82 @@
+number = 4
+slug = ""
+title_zh = "上堂"
+title_en = "Zhaozhou Takes the High Seat"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師上堂謂眾曰：「此事的的，沒量大人出這裏不得。老僧到溈山，僧問：『如何是祖師西來意？』溈山云：『與我將床子來。』若是宗師，須以本分事接人始得。」時有僧問：「如何是祖師西來意？」師云：「庭前栢樹子。」學云：「和尚莫將境示人。」師云：「我不將境示人。」云：「如何是祖師西來意？」師云：「庭前栢樹子。」師又云：「老僧九十年前見馬祖大師下八十餘員善知識，箇箇俱是作家，不似如今知識，枝蔓上生枝蔓。大都是去聖遙遠，一代不如一代。只如南泉尋常道：『須向異類中行。』且作麼生會？如今黃口小兒向十字街頭說葛藤，博飯噇，覓禮拜，聚三五百眾，云：『我是善知識，你是學人。』」僧問：「如何是清淨伽藍？」師云：「丫角女子。」「如何是伽藍中人？」師云：「丫角女子有孕。」問：「承聞和尚親見南泉，是否？」師云：「鎮州出大蘿蔔頭。」問：「和尚生緣什麼處？」師以手指云：「西邊更向西。」問：「法無別法，如何是法？」師云：「外空、內空、內外空。」問：「如何是佛真法身？」師云：「更嫌什麼？」問：「如何是心地法門？」師云：「古今榜樣。」問：「如何是賓中主？」師云：「山僧不問婦。」問：「如何是主中賓？」師云：「老僧無丈人。」問：「如何是一切法常住？」師云：「老僧不諱祖。」其僧再問，師云：「今日不答話。」
+
+'''
+case_en = '''
+Zhaozhou took the high seat and addressed the assembly. "This matter is plain as day, yet even a giant of a man can't get clear of it. When I went to see Guishan, a monk asked him, 'What is the meaning of Bodhidharma coming from the West?' Guishan said, 'Bring me my chair.' A true master has to meet people with the real thing. Nothing less will do."
+
+A monk asked, "What is the meaning of Bodhidharma coming from the West?"
+
+Zhaozhou said, "The cypress tree out in the yard."
+
+The monk said, "Master, don't show me some object."
+
+Zhaozhou said, "I'm showing you no object."
+
+"Then what is the meaning of Bodhidharma coming from the West?"
+
+Zhaozhou said, "The cypress tree out in the yard."
+
+He went on: "Ninety years ago I studied under Great Master Mazu, and I met more than eighty teachers under him. Every one was the real thing, not like the teachers nowadays, sprouting vines on top of vines. We've drifted that far from the sages. Each generation falls short of the last. Take what Nanquan always said: 'You have to walk among the other kinds.' Well, how do you understand that? These days some snot-nosed kid stands at the crossroads spinning tangled nonsense, scrounging a free meal and a bow, gathering three or five hundred followers, and crows, 'I'm the teacher, you're the students.'"
+
+A monk asked, "What is a pure temple?"
+
+Zhaozhou said, "A girl with her hair in pigtails."
+
+"And who lives in that temple?"
+
+Zhaozhou said, "A pigtailed girl, pregnant."
+
+A monk asked, "I hear you studied with Nanquan yourself. Is that so?"
+
+Zhaozhou said, "Zhenzhou grows giant radishes."
+
+A monk asked, "Where were you born?"
+
+Zhaozhou pointed with his hand. "West of here, and further west still."
+
+A monk asked, "There is no Dharma apart from the Dharma. So what is the Dharma?"
+
+Zhaozhou said, "Outside, empty. Inside, empty. Inside and out, empty."
+
+A monk asked, "What is the true body of Buddha?"
+
+Zhaozhou said, "What more do you want?"
+
+A monk asked, "What is the teaching of the mind-ground?"
+
+Zhaozhou said, "The model, then and now."
+
+A monk asked, "What is the host within the guest?"
+
+Zhaozhou said, "This old monk doesn't go asking after a wife."
+
+A monk asked, "What is the guest within the host?"
+
+Zhaozhou said, "This old monk has no father-in-law."
+
+A monk asked, "What is it that all things abide in forever?"
+
+Zhaozhou said, "This old monk won't shy from naming his own ancestors."
+
+The monk asked again. Zhaozhou said, "No more answers today."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Now Zhaozhou holds the seat himself. "Why did Bodhidharma come from the West?" is the stock shorthand for the largest question in this tradition, what the whole practice is even for, and his answer is to point at the cypress tree in the yard, twice, the same flat reply that became Gateless Gate 37. The monk objects that a tree is just an external object, and Zhaozhou denies he handed over any object at all, which is the live edge of the case: he is not naming a thing, he is refusing to turn the question into doctrine. The rest is Zhaozhou running his hall. He roasts the celebrity teachers of his day as frauds gathering crowds for a free meal, and then fends off a row of earnest questions with deadpan absurdities, a pregnant pigtailed girl, the giant radishes of Zhenzhou, and finally no answers at all. Each refusal does the same work the tree did: it won't let the asker pocket a tidy thing and walk off thinking he has it.
+'''

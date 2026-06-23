@@ -1,0 +1,53 @@
+number = 59
+slug = ""
+title_zh = "青林死蛇"
+title_en = "Qinglin's Dead Snake"
+
+intro_zh = '''
+去即留住，住即遣去。不去不住，渠無國土。何處逢渠？在在處處。且道：是甚麼物，得恁麼奇特？
+
+'''
+intro_en = '''
+Leave, and it holds you back. Stay, and it drives you off. Neither leave nor stay, and it has no country to live in. So where do you meet it? Everywhere, always. Now tell me: what is this thing, that it can be so strange?
+'''
+
+case_zh = '''
+僧問青林：「學人徑往時如何？」林云：「死蛇當大路，勸子莫當頭。」僧云：「當頭時如何？」林云：「喪子命根。」僧云：「不當頭時如何？」林云：「亦無迴避處。」僧云：「正恁麼時如何？」林云：「却失也。」僧云：「未審向甚麼處去也？」林云：「草深無覓處。」僧云：「和尚也須隄防始得。」林拊掌云：「一等是箇毒氣。」
+
+'''
+case_en = '''
+A monk asked Qinglin, "What about heading straight down the road?"
+Qinglin said, "There's a dead snake across the main road. Better not step on it."
+The monk said, "And if I do?"
+Qinglin said, "It'll take your life."
+The monk said, "And if I don't?"
+Qinglin said, "Then there's nowhere left to dodge it."
+The monk said, "And right at that moment?"
+Qinglin said, "You've already lost it."
+The monk said, "Where did it go?"
+Qinglin said, "The grass is too deep to look."
+The monk said, "Then you'd better watch yourself too."
+Qinglin clapped his hands and said, "Same poison, all of it."
+'''
+
+verse_zh = '''
+三老暗轉柁，
+孤舟夜迴頭。
+蘆花兩岸雪，
+煙水一江秋。
+風力扶帆行不棹，
+笛聲喚月下滄洲。
+
+'''
+verse_en = '''
+The old hand quietly works the rudder,
+the lone boat turns in the night.
+Reed flowers, snow on both banks;
+mist on the water, one river of autumn.
+The wind props the sail; he runs without rowing.
+A flute call draws the moon down to the cold shore.
+'''
+
+pointer = '''
+This one is a fencing match start to finish. A monk asks the teacher Qinglin, in effect, can't I just barrel straight ahead and go for enlightenment head-on? Qinglin answers with a dead snake lying across the road, a trap that looks harmless. Step on it and it kills you; refuse to step on it and there's still no way around; freeze in the middle and you're already finished. Every door the monk tries, Qinglin slams. The "poison" is the teaching itself, language and concepts sharp enough to kill the self-importance you walked in carrying, which is why the case keeps refusing the monk a safe path: any route he picks is the route that gets him. When he finally turns it back on the teacher, "you'd better watch yourself," Qinglin just laughs and agrees, we're both holding the same lethal thing.
+'''

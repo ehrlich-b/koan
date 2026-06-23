@@ -1,0 +1,51 @@
+number = 2
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+居士後之江西參馬祖大師，問曰：「不與萬法為侶者是什麼人？」祖曰：「待汝一口吸盡西江水即向汝道。」士於言下頓領玄旨，遂呈偈，有「心空及第」之句，乃留駐。參承二載，有偈曰：「有男不婚，有女不嫁，大家團圞頭，共說無生話。」士一日又問祖曰：「不昧本來人，請師高著眼。」祖直下覷。士曰：「一等沒絃琹，惟師彈得妙。」祖直上覷。士禮拜。祖歸方丈，士隨後曰：「適來弄巧成拙。」士一日又問祖曰：「如水無筋骨，能勝萬斛舟，此理如何？」祖曰：「這裏無水亦無舟，說什麼筋骨？」
+
+'''
+case_en = '''
+Later the Layman went to Jiangxi to study with Master Mazu. He asked, "Who is the one who keeps no company with the ten thousand things?"
+
+Mazu said, "I'll tell you once you've swallowed the whole West River in a single gulp."
+
+At those words the Layman saw it all at once. He wrote a verse that ended, "An empty mind passes the exam." Then he stayed on, studying under Mazu for two years.
+
+He wrote another verse:
+
+I have a son who won't marry,
+a daughter who won't wed.
+The whole family sits in a circle
+talking the talk of no-birth.
+
+One day the Layman asked Mazu again, "The original person, the one never in the dark. Master, raise your eyes and look."
+
+Mazu looked straight down.
+
+The Layman said, "It's the same stringless lute, but only you play it so well."
+
+Mazu looked straight up.
+
+The Layman bowed. Mazu went back to his quarters, and the Layman followed him, saying, "You just botched it, getting clever."
+
+Another day the Layman asked Mazu, "Water has no bones, yet it carries a ship loaded with tons. How can that be?"
+
+Mazu said, "Here there's no water and no ship. What bones are you talking about?"
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+After Shitou, Pang went to Mazu, the other towering teacher at the root of this whole tradition. His opening question asks after the self that "keeps no company with the ten thousand things," meaning the part of you not tangled in any object whatsoever. Mazu's reply, swallow the West River in one gulp, refuses to treat that as a thing you could locate and describe, and Pang wakes up on the spot. The verse about the family that won't marry and sits "talking the talk of no-birth" is his snapshot of a whole household living from that recognition (no-birth being what was never born and so never dies). The closing exchange about water carrying a loaded ship is Mazu killing the abstraction: here there is no water and no ship, so quit asking how the trick works.
+'''

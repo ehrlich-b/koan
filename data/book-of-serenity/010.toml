@@ -1,0 +1,46 @@
+number = 10
+slug = ""
+title_zh = "臺山婆子"
+title_en = "The Old Woman of Mount Tai"
+
+intro_zh = '''
+有收有放，干木隨身；能殺能活，權衝在手。塵勞魔外盡付指呼，大地山河皆成戲具。且道：是甚麼境界？
+
+'''
+intro_en = '''
+Sometimes you reel them in, sometimes you let them run. A dry stick goes wherever you go. You can kill, you can bring back to life: the scale that weighs them sits in your own hand. Every demon and distraction answers the snap of your fingers. The whole earth, its rivers and mountains, becomes a set of toys. So tell me, what kind of country is this?
+'''
+
+case_zh = '''
+臺山路上有一婆子，凡有僧問：「臺山路向什麼處去？」婆云：「驀直去。」僧纔行，婆云：「好箇阿師，又恁麼去也。」僧舉似趙州，州云：「待，與勘過。」州亦如前問，至來日上堂云：「我為汝勘破婆子了也。」
+
+'''
+case_en = '''
+On the road to Mount Tai there was an old woman. Whenever a monk asked her, "Which way to Mount Tai?" she'd say, "Straight ahead." The monk would take a few steps, and she'd say, "There he goes, another fine priest off the same way as the rest."
+
+A monk told Zhaozhou about her. Zhaozhou said, "Wait. Let me go size her up." He went, asked the same question, got the same answer.
+
+Next day he took the high seat and said, "I've seen through the old woman for you."
+'''
+
+verse_zh = '''
+年老成精不謬傳，
+趙州古佛嗣南泉。
+枯龜喪命因圖象，
+良駟追風累纏牽。
+勘破了老婆禪，
+說向人前不直錢。
+
+'''
+verse_en = '''
+Old enough to turn fox-spirit, she hands it on without a slip.
+Zhaozhou, the old buddha, heir of Nanquan.
+The dry turtle loses its life: someone wanted the shell for omens.
+The fine horse, chasing the wind, ends snarled in its harness.
+He saw clean through the old woman's Zen,
+then said so out loud, and it wasn't worth a dime.
+'''
+
+pointer = '''
+Mount Wutai was a major pilgrimage destination, so monks were forever trudging up the road toward it. An old woman stationed along the way has a routine: every monk asks the same tourist's question, she gives the same flat "straight ahead," then needles each one as he walks off, another fine priest going the same way as all the rest. She has their number. A monk reports her to Zhaozhou, the legendary old master, who says he will go check her out, the word meaning to size someone up and test what they are made of. He goes, asks the identical question, gets the identical answer, then announces he has seen through her. The case is quietly daring you to spot what actually happened: he did exactly what the other monks did and got exactly their result. So either he saw something they could not, or "seeing through her" is one more move in her own game, and the verse needles that even winning this contest is not worth a dime.
+'''

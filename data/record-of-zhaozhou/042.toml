@@ -1,0 +1,155 @@
+number = 42
+slug = ""
+title_zh = "十二時歌"
+title_en = "Song of the Twelve Hours"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+鷄鳴丑，愁見起來還漏逗。裙子褊衫箇也無，袈裟形相些些有。裩無𦝫，袴無口，頭上青灰三五斗。比望修行利濟人，誰知變作不唧溜。
+平旦寅，荒村破院實難論。解齋粥米全無粒，空對閑窻與隙塵。唯□噪，勿人親，獨坐時聞落葉頻。誰道出家憎愛斷，思量不覺淚沾巾。
+日出卯，清淨却翻為煩惱。有為功德被塵幔，無限田地未曾掃。攢眉多，稱心少，尀耐東村黑黃老。供利不曾將得來，放驢喫我堂前草。
+食時辰，煙火徒勞望四鄰。饅頭䭔子前年別，今日思量空嚥津。持念少，嗟歎頻，一百家中無善人。來者祇道覓茶喫，不得茶噇去又嗔。
+禺中巳，削髮誰知到如此。無端被請作村僧，屈辱飢悽受欲死。胡張三，黑李四，恭敬不曾生些子。適來忽爾到門頭，唯道借茶兼借紙。
+日南午，茶飯輪還無定度。行却南家到北家，果至北家不推註。苦沙鹽，大麥醋，蜀黍米飯虀萵苣。唯稱供養不等閑，和尚道心須堅固。
+日昳未，者回不踐光陰地。曾聞一飽忘百飢，今日老僧身便是。不習禪，不論義，鋪箇破蓆日裏睡。想料上方兜率天，也無如此日炙背。
+晡時申，也有燒香禮拜人。五箇老婆三箇癭，一雙面子黑皴皴。油麻茶，實是珍，金剛不用苦張筋。願我來年蠶麥熟，羅睺羅兒與一文。
+日入酉，除却荒涼更何守。雲水高流定委無，歷寺沙彌鎮常有。出格言，不到口，枉續牟尼子孫後。一條拄杖麤楋藜，不但登山兼打狗。
+黃昏戌，獨坐一間空暗室。陽𦦨燈光永不逢，眼前純是金州漆。鐘不聞，虗度日，唯聞老鼠閙啾唧。憑何更得有心情，思量念箇波羅蜜。
+人定亥，門前明月誰人愛。向裏唯愁臥去時，勿箇衣裳著甚蓋。劉維那，趙五戒，口頭說善甚奇怪。任你山僧囊罄空，問著都緣總不會。
+半夜子，心境何曾得暫止。思量天下出家人，似我住持能有幾。土榻床，破蘆䉬，老榆木枕全無被。尊像不燒安息香，灰裏唯聞牛糞氣。
+
+'''
+case_en = '''
+Cockcrow, the hour of the Ox.
+Sick at heart to wake and still be broke.
+No skirt, no shirt to my name.
+Just the shape of a monk's robe, more or less.
+Pants with no waistband.
+Trousers with no fly.
+A few pecks of gray ash heaped on my head.
+I set out to practice and save the world.
+Who knew I'd turn out this useless.
+
+First light, the hour of the Tiger.
+A ruined village, a wrecked temple, nothing to say about it.
+Not one grain of rice to break the fast.
+I sit and stare at an idle window and the dust in the cracks.
+Only the magpies racket.
+Not a soul comes near.
+Sitting alone I hear the leaves keep falling.
+Who said leaving home cuts off love and hate?
+I turn it over and the tears soak the cloth before I know it.
+
+Sunup, the hour of the Rabbit.
+What's pure flips straight back into trouble.
+My little hoard of merit goes under the dust.
+Endless ground inside me, never once swept.
+Much frowning.
+Little ease.
+And damn that swarthy old man from the east village:
+never once brought an offering my way,
+just turns his donkey loose on the grass in front of my hall.
+
+Mealtime, the hour of the Dragon.
+I watch the neighbors' chimney smoke for nothing.
+Steamed buns and dumplings, that was years ago.
+Today I think of them and swallow on empty.
+Few say the prayers.
+Many heave the sighs.
+A hundred houses and not one good soul among them.
+Whoever shows up only wants tea.
+No tea, and off they stomp in a huff.
+
+Late morning, the hour of the Snake.
+I shaved my head. Who knew it would come to this.
+Out of nowhere they made me the village monk.
+Hounded, starved, half dead with want.
+Some Zhang San.
+Some Li Si.
+Never a scrap of respect from them.
+Now there's someone at the gate again,
+wanting to borrow tea, and paper too.
+
+High noon, the hour of the Horse.
+Tea and food turn up on no fixed schedule.
+I trudge from the south house to the north house.
+Reach the north house, and they brush me off as well.
+Bitter sand-salt.
+Barley vinegar.
+Sorghum rice and a mess of bitter lettuce.
+They call it an offering, no small thing:
+"Monk, keep that resolve of yours good and firm."
+
+Past midday, the hour of the Sheep.
+This time around I don't even walk in the daylight.
+They say one full meal makes you forget a hundred hungers.
+Today that old monk is the proof.
+I don't drill at meditation.
+I don't argue doctrine.
+I spread a broken mat and sleep in the sun.
+I figure even Tushita Heaven up there
+has nothing on a day like this, baking my back.
+
+Afternoon, the hour of the Monkey.
+There are people who burn incense and bow.
+Five old women, three with goiters,
+a pair of faces black and cracked.
+Sesame-oil tea.
+A real treasure, this.
+No need to strain like a temple guardian flexing his sinews.
+"May next year's silkworms and wheat come in,
+and give little Rahula here a penny."
+
+Sundown, the hour of the Rooster.
+Strip off the desolation and what's left to guard?
+High-flying clouds-and-water monks: none, for certain.
+Novices drifting temple to temple: always a crowd.
+They talk above their station.
+They can't back it up.
+A waste, calling yourselves the Buddha's heirs.
+This one staff of rough briarwood,
+not just for climbing hills but for beating off dogs.
+
+Dusk, the hour of the Dog.
+I sit alone in one empty, pitch-black room.
+Lamplight never reaches me.
+What's before my eyes is pure Jinzhou lacquer, black.
+No bell to hear.
+The day gone for nothing.
+Only the rats, squeaking and scuffling.
+Where am I to find the heart for anything?
+I turn it over and recite one paramita.
+
+Settling in, the hour of the Boar.
+Who's out there loving the bright moon at the gate?
+Indoors I only dread lying down:
+no quilt, nothing to pull over me.
+Director Liu.
+Layman Zhao.
+The virtue rolling off their tongues is a wonder to hear.
+Let this mountain monk's sack hang empty,
+ask them for a thing and they come up blank every time.
+
+Midnight, the hour of the Rat.
+When has the mind ever had a moment's rest?
+I think of all the home-leavers under heaven:
+how many run a temple like mine?
+A dirt platform for a bed.
+A busted reed screen.
+An old elm-wood pillow and no blanket at all.
+No calming-resin incense before the holy image.
+In the ashes, only the smell of cow dung.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Here the book changes register: the hall-talks give way to verse, and this is the long one, Zhaozhou's comic gripe-poem about life at his broke, falling-apart temple. The old Chinese day ran on twelve two-hour blocks, each named for an animal (Ox, Tiger, Rabbit, on around), so the poem is a clock, and at every hour something is wretched: no clothes, no food, no respect, freeloaders who turn up only wanting free tea, "donors" who never donate. A few things to catch: "leaving home" means becoming a monk; "clouds-and-water" is slang for the wandering monks who were supposed to be the serious seekers, and he is complaining that none of the good ones come, just dropout novices; Tushita is a heaven, and he jokes that even paradise can't beat lying in the sun. The closing whiff of cow dung where holy incense should be is the whole poem in one breath. The joke under the joke: this is the man the tradition crowns a great awakened teacher, and here he sits, freezing, starving, and gorgeously bitter about it.
+'''

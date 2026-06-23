@@ -1,0 +1,40 @@
+number = 7
+slug = ""
+title_zh = ""
+title_en = "You Are Huichao"
+
+intro_zh = '''
+聲前一句，千聖不傳，未曾親覲，如隔大千。設使向聲前辨得，截斷天下人舌頭，亦未是性懆漢。所以道：天不能蓋，地不能載，虛空不能容，日月不能照，無佛處獨稱尊，始較些子。其或未然，於一毫頭上透得，放大光明，七縱八橫，於法自在自由，信手拈來無有不是。且道得箇什麼，如此奇特？復云：「大眾會麼？」從前汗馬無人識，只要重論蓋代功。即今事且致，雪竇公案又作麼生？看取下文。
+
+'''
+intro_en = '''
+The one phrase before a word is spoken: not even a thousand sages can hand it down. If you've never seen it yourself, it's as far off as the other side of the universe. And say you nail it before any sound is made, leaving everyone on earth with their tongues cut out. You're still not the real thing. That's why they say: the sky can't cover it, the earth can't hold it, empty space can't contain it, sun and moon can't light it up. Where there is no Buddha, it alone is king, and even that barely scratches the surface. If you're not there yet, then break through on the tip of a single hair, blaze out in every direction, free and easy with the teaching, beholden to nothing. Reach out and take whatever comes to hand, and none of it is wrong. So tell me: what is it you've got, that you can pull this off? And again: do you all get it? Nobody knows the warhorse, lathered from the old campaigns; they only want to retell the deeds that saved the age. Set that aside for now. How does Xuedou's case run? Look at what comes next.
+'''
+
+case_zh = '''
+僧問法眼：「慧超咨和尚，如何是佛？」法眼云：「汝是慧超。」
+
+'''
+case_en = '''
+A monk asked Fayan, "Huichao here, asking you, master: what is Buddha?"
+
+Fayan said, "You are Huichao."
+'''
+
+verse_zh = '''
+江國春風吹不起，
+鷓鴣啼在深花裏。
+三級浪高魚化龍，
+癡人猶戽夜塘水。
+
+'''
+verse_en = '''
+Spring wind off the river cannot lift a thing.
+A partridge cries deep in the blossoms.
+At the third rapids the waves run high, the fish turns dragon,
+and the fool bails the pond all night long.
+'''
+
+pointer = '''
+Fayan (885–958) founded one of the five houses of Chan and is the namesake of the Fayan school; the monk pressing him gives his own name, Huichao, as part of the question. The move is everything here. The monk asks the largest question available, what is Buddha, and instead of doctrine Fayan hands him back his own name: you are Huichao. The trap is the direction of the looking. The monk is gazing far off for some vast answer about Buddha, when the thing he is asking after is the one doing the asking, already named and standing there. The verse stacks images of a spring wind too faint to stir the river and a carp leaping the rapids to turn into a dragon, the old Chinese figure for sudden breakthrough, then closes on the fool who already holds what he needs yet stays up all night bailing the pond to find it. So who is asking, before you answer.
+'''

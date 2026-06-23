@@ -1,0 +1,50 @@
+number = 10
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+居士到芙蓉山大□禪師處，□行食與居士。士擬接，毓縮手曰：「生心受施，淨名早訶，去此一機，居士還甘否？」士曰：「當時善現，豈不作家？」毓曰：「非關他事。」士曰：「食到口邊，被他奪却。」毓乃下食。士曰：「不消一句子。」士又問毓曰：「馬大師著實為人處，還分付吾師否？」毓曰：「某甲尚未見他，作麼生知他著實處？」士曰：「祇此見知也無討處。」毓曰：「居士也不得一向言說。」士曰：「一向言說，師又失宗，若作兩向三向，師還開得口否？」毓曰：「直是開口不得，可謂實也。」士撫掌而出。
+
+'''
+case_en = '''
+Layman Pang went to see the Chan master at Mount Furong. The master held out some food. As Pang reached for it, Furong drew his hand back. "Long ago Vimalakirti scolded Shariputra for taking alms with a grasping mind. Drop the grasping, and will the food still taste sweet?"
+
+"Wasn't Shariputra a real adept back then?" said Pang.
+
+"That's beside the point."
+
+"The food got right to his mouth," said Pang, "and you snatched it away."
+
+At that, Furong set the food down.
+
+"One word," said Pang, "and there's nothing left to say."
+
+Then he asked, "When Master Ma really got down to teaching people, did he hand the whole thing over to you?"
+
+"I've never even met the man," said Furong. "How would I know what he taught when he got down to it?"
+
+"Just this much knowing," said Pang, "and there's nowhere to find it."
+
+"You shouldn't go on and on with words, Layman."
+
+"Go on with words and you lose the point. But box it into two sides, three sides, and can you open your mouth at all?"
+
+"The plain fact is, there's no opening your mouth," said Furong. "Now that's the real thing."
+
+Pang clapped his hands and walked out.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+The Furong teacher tests Pang by holding out food and snatching it back, citing a famous scene: Vimalakirti, the enlightened layman of the sutras, once chewed out the monk Shariputra for accepting alms with a grasping mind. So the question under the food is whether you can reach, eat, and speak without your mind clamping down on the act. Watch each line try to catch the other grasping, in the hand or in the mouth, until the exchange lands on its own paradox, that boxing the truth into two sides or three sides shuts your mouth, yet the plain fact admits no opening of the mouth at all. Then Pang turns to lineage, asking whether Mazu handed the real teaching over, and gets the honest answer that there is nowhere to find such a thing handed. His hand-clap signs off: that holds, nothing to add.
+'''

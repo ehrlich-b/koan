@@ -1,0 +1,80 @@
+number = 38
+slug = ""
+title_zh = "示眾"
+title_en = "Zhaozhou's Barrier"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師示眾云：「纔有是非，紛然失心，還有答話分也無？」後有僧舉似洛浦。洛浦扣齒。又舉似雲居。雲居云：「何必？」僧舉似師。師云：「南方大有人喪身失命。」僧云：「請和尚舉。」師纔舉。僧便指傍僧云：「者箇師僧喫却飯了，作什麼語話？」師休去。師因看金剛經次。僧便問：「一切諸佛及諸佛阿耨菩提皆從此經出，如何是此經？」師云：「『金剛般若波羅蜜經』，如是我聞，一時佛在舍衛國。」僧云：「不是。」師云：「我自理經也不得。」因僧辭去。師云：「闍黎出外，忽有人問：『還見趙州否？』你作麼生祇對？」云：「只可道見。」師云：「老僧是一頭驢，你作麼生見？」僧無語。師問新到：「從什麼處來？」云：「南方來。」師云：「還知有趙州關麼？」云：「須知有不涉關者。」師叱云：「者販私鹽漢。」又云：「兄弟，趙州關也難過。」云：「如何是趙州關？」師云：「石橋是。」有僧從雪峯來。師云：「上座莫住此間，老僧者裏只是避難所在，佛法盡在南方。」云：「佛法豈有南北？」師云：「直饒你從雪峯．雪峯來，也只是箇擔板漢。」云：「未審那邊事如何？」師云：「你因甚夜來尿床？」云：「達後如何？」師云：「又是屙屎。」
+
+'''
+case_en = '''
+Zhaozhou addressed the assembly: "The moment there's right and wrong, you lose your mind in the noise. So is anyone here fit to answer?"
+
+Later a monk repeated this to Luopu. Luopu clicked his teeth. The monk repeated it to Yunju. Yunju said, "Why bother?" The monk reported both replies to Zhaozhou. Zhaozhou said, "Down south, plenty of people are getting themselves killed over this."
+
+The monk said, "Please, show me how you'd put it."
+
+Zhaozhou started to speak. The monk pointed at the monk beside him and said, "This one's already eaten his rice. What's he running his mouth for?"
+
+Zhaozhou let it drop.
+
+Once, while Zhaozhou was reading the Diamond Sutra, a monk asked, "It says all the buddhas, and the supreme awakening of all buddhas, come out of this sutra. What is 'this sutra'?"
+
+Zhaozhou read aloud: "The Diamond Prajnaparamita Sutra. Thus have I heard. At one time the Buddha was in the kingdom of Shravasti—"
+
+The monk said, "That's not it."
+
+Zhaozhou said, "I can't even get my own sutra straight."
+
+A monk was leaving. Zhaozhou said, "Out there, if someone asks, 'You ever see Zhaozhou?', how will you answer?"
+
+The monk said, "I can only say I saw him."
+
+Zhaozhou said, "I'm one old donkey. How did you see me?"
+
+The monk had nothing to say.
+
+Zhaozhou asked a newcomer, "Where are you from?"
+
+"From the south."
+
+Zhaozhou said, "Do you know there's a Zhaozhou Barrier?"
+
+The monk said, "You should know there's one who passes no barrier at all."
+
+Zhaozhou snapped, "Smuggler!"
+
+Then he said, "Brother, the Zhaozhou Barrier is hard to get past, too."
+
+"What is the Zhaozhou Barrier?"
+
+Zhaozhou said, "The stone bridge."
+
+A monk came from Xuefeng. Zhaozhou said, "Don't stay around here, your reverence. This place of mine is just a hideout. All the real Buddhism is down south."
+
+The monk said, "How can Buddhism have a north and a south?"
+
+Zhaozhou said, "Even if you came straight from Xuefeng, you're still just a man hauling a plank on one shoulder."
+
+The monk said, "What about the matter on the other side?"
+
+Zhaozhou said, "Why'd you wet the bed last night?"
+
+The monk said, "And after you get there?"
+
+Zhaozhou said, "Then you shit yourself too."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+The title points at the running image: a "barrier" was a guarded checkpoint on the road, and travelers had to clear it to pass. Zhaozhou's town had a real one plus a famous old stone bridge, and he uses both as the test every visitor faces. The monk who brags he "passes no barrier at all" is claiming he is already enlightened and above the whole business, so Zhaozhou calls him a salt smuggler, somebody sneaking contraband past the gate, faking the credential. "A man hauling a plank on one shoulder" is his stock jab at a one-sided person: carry a board that way and you can only see one direction. This set also opens with the line from 33 and 34, take sides and you lose your mind in the noise. And the crude last exchange is not crassness for its own sake; when the monk fishes for grand talk about "the other side" and what comes "after you get there," Zhaozhou keeps yanking him back to the body, to last night, to right now, refusing to trade the ground underfoot for a holy-sounding elsewhere.
+'''

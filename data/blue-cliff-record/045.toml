@@ -1,0 +1,39 @@
+number = 45
+slug = ""
+title_zh = ""
+title_en = "Zhaozhou's Seven-Pound Shirt"
+
+intro_zh = '''
+要道便道，舉世無雙；當行即行，全機不讓。如擊石火，似閃電光，疾焰過風，奔流度刃。拈起向上鉗鎚，未免亡鋒結舌。放一線道，試舉看。
+
+'''
+intro_en = '''
+Need to speak? Then speak: nobody alive can match you. Time to act? Then act, full force, holding nothing back. Like sparks off flint, like a flash of lightning. A blaze that outruns the wind, a river pouring over a sword's edge. But take up the real hammer and tongs, the ones that work from above, and even a master goes blunt and tongue-tied. Let me lay down a single thread of a path. Here is the case. Look.
+'''
+
+case_zh = '''
+僧問趙州：「萬法歸一，一歸何處？」州云：「我在青州，作一領布衫，重七斤。」
+
+'''
+case_en = '''
+A monk asked Zhaozhou, "The ten thousand things all come back to one. What does the one come back to?"
+Zhaozhou said, "When I was in Qingzhou I made a shirt. It weighed seven pounds."
+'''
+
+verse_zh = '''
+編辟曾挨老古錐，
+七斤衫重幾人知。
+如今拋擲西湖裏，
+下載清風付與誰。
+
+'''
+verse_en = '''
+He cornered the old awl with a tight, pressing question.
+That seven-pound shirt, how many know its weight?
+Now I fling the whole thing into West Lake
+and ride the clean wind home, but hand it to whom?
+'''
+
+pointer = '''
+Zhaozhou is one of the great Tang masters, prized in this book for answers that swerve. The question is a classic philosophy snare: everything reduces to one underlying thing, so what does the one reduce to? It is an open invitation to hold forth on ultimate reality. Zhaozhou declines the ladder of abstraction entirely. He names a specific shirt he once made in Qingzhou and tells you its exact weight, seven pounds. The reply to the cosmic question is a plain object with a number on it, the thing at hand rather than the metaphysics behind it. This is the move Zhaozhou keeps making across the collection, radishes for a lineage question (30), a shirt for the One, always trading your grand abstraction for something you could pick up.
+'''

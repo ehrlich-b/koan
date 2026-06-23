@@ -1,0 +1,58 @@
+number = 1
+slug = ""
+title_zh = ""
+title_en = "Bodhidharma's \"I Don't Know\""
+
+intro_zh = '''
+隔山見煙，早知是火；隔牆見角，便知是牛。舉一明三，目機銖兩，是衲僧家尋常茶飯。至於截斷眾流，東湧西沒，逆順縱橫，與奪自在。正當恁麼時，且道：是什麼人行履處？看取雪竇葛藤。
+
+'''
+intro_en = '''
+See smoke beyond the hill and you already know there's fire; see horns over the wall and you know there's an ox. Show such a monk one corner and he sees three; he weighs a thing at a glance, down to the last gram. For him that's just everyday rice and tea. But to cut off every stream, to surface here and vanish there, to run with it or against it, free to give or take away: right at that moment, tell me, whose footing is that? Watch how Xuedou tangles the vines.
+'''
+
+case_zh = '''
+梁武帝問達磨大師：「如何是聖諦第一義？」磨云：「廓然無聖。」帝曰：「對朕者誰？」磨云：「不識。」帝不契。達磨遂渡江至魏。帝後舉問志公，志公云：「陛下還識此人否？」帝云：「不識。」志公云：「此是觀音大士，傳佛心印。」帝悔，遂遣使去請。志公云：「莫道陛下發使去取，闔國人去，他亦不回。」
+
+'''
+case_en = '''
+Emperor Wu of Liang asked the great teacher Bodhidharma, "What is the highest meaning of the holy truths?"
+
+Bodhidharma said, "Vast emptiness, nothing holy."
+
+The emperor said, "Then who is this, standing before me?"
+
+Bodhidharma said, "Don't know."
+
+The emperor didn't get it. So Bodhidharma crossed the river and went on to the kingdom of Wei.
+
+Later the emperor raised the matter with Master Zhi. Master Zhi asked, "Does Your Majesty know who that man was?"
+
+The emperor said, "Don't know."
+
+Master Zhi said, "That was the bodhisattva Guanyin, carrying the seal of the Buddha-mind."
+
+The emperor, full of regret, wanted to send a messenger to bring Bodhidharma back. Master Zhi said, "Forget one messenger. Send the whole country after him and still he won't return."
+'''
+
+verse_zh = '''
+聖諦廓然，何當辨的？對朕者誰，還云不識。因茲暗渡江，豈免生荊棘。闔國人追不再來，千古萬古空相憶。休相憶，清風匝地有何極。師顧視左右云：「這裏還有祖師麼？」自云：「有。喚來與老僧洗脚。」
+
+'''
+verse_en = '''
+The holy truths, vast and empty:
+how do you pin the point?
+"Who stands before me?" "Don't know."
+And so by night he slipped across the river.
+No stopping the thornbushes now.
+Chase him with the whole country, he won't come back.
+Through endless ages, missing him in vain.
+Stop missing him.
+A clean wind sweeps the whole earth: where does it end?
+
+The master looked left and right and said, "Any patriarch here?" Then he answered himself: "There is. Call him over to wash my feet."
+'''
+
+pointer = '''
+Bodhidharma is the Indian monk credited with carrying Chan to China, so he is the headwater of this whole tradition, which makes him the right person to open the collection. Emperor Wu was a lavish royal patron, builder of temples and feeder of monks, and his question is really a request for credit: name the loftiest truth, and confirm that all my merit has bought me a seat near it. Bodhidharma gives him nothing to bank. "Vast emptiness, nothing holy" denies that there is any sacred ledger at all, and when the emperor demands to know who he thinks he is, "Don't know" refuses even the handle of a name. Master Zhi later identifies him as Guanyin, bodhisattva of compassion, but the reveal is bait; the emperor was so busy scoring the encounter that he missed the man standing in the room. Xuedou ends by joking about calling a patriarch over to wash his feet, needling everyone who hunts the sacred somewhere out there. Watch how often this same refusal to hand over a handle comes back as you read on.
+'''

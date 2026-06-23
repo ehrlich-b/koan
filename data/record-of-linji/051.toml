@@ -1,0 +1,40 @@
+number = 51
+slug = ""
+title_zh = "行錄"
+title_en = "The Hoe"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+一日普請次，師在後行，黃蘗回頭見師空手，乃問：「钁頭在什麼處？」師云：「有一人將去了也。」黃蘗云：「近前來，共汝商量箇事。」師便近前，黃蘗竪起钁頭，云：「秖這箇，天下人拈掇不起。」師就手掣得竪起，云：「為什麼却在某甲手裏？」黃蘗云：「今日大有人普請。」便歸院。後溈山問仰山：「钁頭在黃蘗手裏，為什麼却被臨濟奪却？」仰山云：「賊是小人，智過君子。」
+
+'''
+case_en = '''
+One day the monks were all out on communal work. Linji was walking at the back, empty-handed. Huangbo glanced back, saw nothing in his hands, and asked, "Where's your hoe?"
+
+Linji said, "Somebody took it."
+
+Huangbo said, "Come here. Let's talk this over."
+
+Linji stepped up. Huangbo held up his own hoe and said, "Just this, and no one in the world can lift it."
+
+Linji snatched it out of his hand, held it up, and said, "Then how is it in mine?"
+
+Huangbo said, "Today there's a real worker on the crew," and went back to the monastery.
+
+Later Guishan asked Yangshan, "The hoe was in Huangbo's hand. How did Linji wrest it away?"
+
+Yangshan said, "The thief is a petty man, but in cunning he outdoes the gentleman."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Still on the work crew with Huangbo, the same setting as 48 and 50; Zen monasteries ran on everyone hauling and hoeing, abbot included. Linji turns up empty-handed, and when Huangbo asks where his hoe went he says somebody took it. Then Huangbo holds up his own hoe and makes a flat-out provocation: "just this, and nobody in the world can lift it." He isn't talking about weight, he's daring Linji to meet the claim, and Linji's reply is to grab the thing and hold it overhead: "then how's it in mine?" Action settles what argument can't. The closing wink comes from Guishan and Yangshan, who call Linji a "thief" who in cunning outdoes the gentleman, and in this world that's a compliment, not a charge; lifting the hoe out of the master's hand was precisely the answer the master was fishing for.
+'''

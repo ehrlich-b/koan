@@ -1,0 +1,48 @@
+number = 66
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+當機覿面，提陷虎之機；正按傍提，布擒賊之略。明合暗合，雙放雙收，解弄死蛇，還他作者。
+
+'''
+intro_en = '''
+Meet it head-on, in the moment. Spring the trap that takes a tiger. Strike straight, strike from the side. Lay the snare that catches the thief. Match light with light, dark with dark. Release with both hands, gather with both hands, and play with a dead snake. Leave it to the one who can.
+'''
+
+case_zh = '''
+巖頭問僧：「什麼處來？」僧云：「西京來。」頭云：「黃巢過後，還收得劍麼？」僧云：「收得。」巖頭引頸近前云：「㘞！」僧云：「師頭落也。」巖頭呵呵大笑。僧後到雪峯，峯問：「什麼處來？」僧云：「巖頭來。」峯云：「有何言句？」僧舉前話，雪峯打三十棒趕出。
+
+'''
+case_en = '''
+Yantou asked a monk, "Where have you come from?"
+"From the western capital."
+"After Huang Chao passed through, did you pick up his sword?"
+"I did."
+Yantou stretched out his neck, leaned in close, and shouted, "Yah!"
+The monk said, "Master, your head just fell."
+Yantou roared with laughter.
+Later the monk came to Xuefeng. Xuefeng asked, "Where have you come from?"
+"From Yantou."
+"What did he say?"
+The monk recounted the whole exchange. Xuefeng gave him thirty blows and drove him out.
+'''
+
+verse_zh = '''
+黃巢過後曾收劍，
+大笑還應作者知。
+三十山藤且輕恕，
+得便宜是落便宜。
+
+'''
+verse_en = '''
+After Huang Chao passed, he picked up the sword.
+That great laugh, a master would have known.
+Thirty strokes of the cane, and even that was mercy.
+He thought he came out ahead, and that was the loss.
+'''
+
+pointer = '''
+Yantou and Xuefeng are two famous Tang teachers. Huang Chao was a real warlord whose rebel army sacked the capital around 880, so "after Huang Chao passed through" means after the wreckage, when the looting is done. Yantou's question is a trap: did you pick up the killer's sword, that is, did you seize the real thing for yourself? The monk plays along confidently, Yantou pretends to take a swing and shouts, the monk fires back "your head just fell off," and Yantou only laughs. The monk thinks he won. Then he proudly recites the whole clever exchange to Xuefeng, who beats him and throws him out. The beating is the reading: the monk was trading sharp lines with nothing alive behind them, mistaking quick wit for the genuine article, and the fact that he walked away pleased with himself is exactly how you know he lost.
+'''

@@ -1,0 +1,62 @@
+number = 32
+slug = ""
+title_zh = "仰山心境"
+title_en = "Yangshan's Mind and Object"
+
+intro_zh = '''
+海為龍世界，隱顯優游；天是鶴家鄉，飛鳴自在。為甚麼困魚止濼，鈍鳥棲蘆？還有計利害處麼？
+
+'''
+intro_en = '''
+The sea is the dragon's world; it dives and surfaces as it pleases. The sky is the crane's home; it flies and cries free as it likes. So why does the tired fish run aground in the shallows? Why does the dull bird hole up in the reeds? Is there any weighing of gain and loss here?
+'''
+
+case_zh = '''
+仰山問僧：「甚處人？」僧云：「幽州人。」山云：「汝思彼中麼？」僧云：「常思。」山云：「能思是心，所思是境，彼中山河大地、樓臺殿閣、人畜等物，反思思底心，還有許多般麼？」僧云：「某甲到這裏，總不見有。」山云：「信位即是，人位未是。」僧云：「和尚莫別有指示否？」山云：「別有別無，即不中。據汝見處，只得一玄，得坐披衣，向後自看。」
+
+'''
+case_en = '''
+Yangshan asked a monk, "Where are you from?"
+
+"Youzhou," the monk said.
+
+"Do you ever think about it?"
+
+"All the time."
+
+Yangshan said, "The one thinking is mind. What's thought of is object: the mountains and rivers and land back there, the towers and halls, the people and animals, all of it. Now turn it around. That mind doing the thinking, does it hold all those things too?"
+
+The monk said, "When I come this far, I see none of it at all."
+
+Yangshan said, "That will do for the stage of faith. It isn't yet the stage of the person."
+
+The monk said, "Have you nothing more to point me toward?"
+
+Yangshan said, "To say there's more, or to say there's nothing more, neither one hits it. By what you've seen, you hold only a single strand of the mystery. Take your seat, put on your robe, and from here look into it yourself."
+'''
+
+verse_zh = '''
+無外而容，
+無礙而沖。
+門牆岸岸，
+關鎖重重。
+酒常酣而臥客，
+飯雖飽而穨農。
+突出虛空兮風搏妙翅，
+踏翻滄海兮雷送游龍。
+
+'''
+verse_en = '''
+Nothing outside it, yet it holds everything.
+Nothing blocks it, yet it stays empty and clear.
+Gate upon gate, wall upon wall,
+bolt upon bolt, lock upon lock.
+Wine always flowing, the guest lies drunk;
+rice heaped full, the farmer sinks down.
+It breaks into open sky, and wind beats those wondrous wings.
+It overturns the blue sea, and thunder speeds the roaming dragon.
+'''
+
+pointer = '''
+Yangshan, a Tang master, runs a monk through a standard distinction: "mind" is the part of you doing the perceiving, "object" is everything perceived, the hometown and buildings and people out there. The monk thinks he has arrived when he reports that looking inward hard enough makes all that scenery vanish. Yangshan's catch is precise: emptying the world is real progress, but it is the "stage of faith," a foothold, not the "stage of the person," the place you can finally live from. When the monk fishes for the next secret move, Yangshan won't sell it, because "there's more" and "there's nothing more" both miss; he tells him to take his seat and look into it himself. The intro's tired fish running aground and dull bird holing up in the reeds name the danger exactly: a creature built to roam freely settling into the shallows on the strength of one good insight.
+'''

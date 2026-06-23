@@ -1,0 +1,56 @@
+number = 3
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+居士到藥山禪師。山問曰：「一乘中還著得這箇事麼？」士曰：「某甲祇管日求升合，不知還著得麼。」山曰：「道居士不見石頭，得麼？」士曰：「拈一放一，未為好手。」山曰：「老僧住持事繁。」士珍重便出。山曰：「拈一放一的是好手。」士曰：「好箇一乘問宗，今日失却也。」山曰：「是，是。」居士因辭藥山，山命十禪客相送。至門首，士乃指空中雪曰：「好雪片片，不落別處。」有全禪客曰：「落在甚處？」士遂與一掌。全曰：「也不得草草。」士曰：「恁麼稱禪客，閻羅老子未放你在。」全曰：「居士作麼生？」士又掌曰：「眼見如盲，口說如瘂。」
+
+'''
+case_en = '''
+Layman Pang came to see Chan master Yaoshan. Yaoshan asked, "Can this one matter find a place inside the One Vehicle?"
+
+Pang said, "All I do is scrape by, day to day. How would I know whether it fits?"
+
+Yaoshan said, "So you'd say you never met Shitou?"
+
+Pang said, "Pick one up, set one down. That's no master's hand."
+
+Yaoshan said, "Running this place keeps me busy."
+
+Pang said his goodbyes and turned to go.
+
+Yaoshan said, "Pick one up, set one down. Now that's a master's hand."
+
+Pang said, "A fine question about the One Vehicle, and today I've lost it."
+
+Yaoshan said, "True. True."
+
+When Pang took his leave, Yaoshan sent ten of his students to see him off. At the gate, Pang pointed at the falling snow and said, "Beautiful snow. Every flake lands right where it belongs."
+
+A student named Quan said, "So where does it land?"
+
+Pang slapped him.
+
+Quan said, "Don't be so careless."
+
+Pang said, "You call yourself a Chan student? Old man Yama won't let you off."
+
+Quan said, "Then what would you do?"
+
+Pang slapped him again and said, "Eyes that see like a blind man. A mouth that talks like a mute."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Yaoshan and Shitou are both heavyweight teachers of Pang's day. The "One Vehicle" is the Mahayana claim that under all the apparent paths there is really one road to awakening, and Yaoshan is needling Pang about whether his hand-to-mouth daily grind fits inside something that grand. "Pick one up, set one down" means playing favorites, sorting things into keep and discard, which Pang calls amateur work even as Yaoshan turns the same phrase back on him as praise. The snow is the payoff: every flake lands exactly where it belongs, nothing out of place, no exceptions. When the student Quan treats that as a riddle with a hidden answer ("so where does it land?"), he has converted a plain fact into a puzzle, which earns the slap. Yama is the judge of the dead, so Pang is saying this confusion is no parlor game.
+'''

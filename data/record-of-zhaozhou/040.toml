@@ -1,0 +1,122 @@
+number = 40
+slug = ""
+title_zh = "示眾"
+title_en = "Zhaozhou Addresses the Assembly"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師示眾云：「未有世界，早有此性。世界壞時，此性不壞。」僧問：「如何是此性？」師云：「五蘊四大。」云：「此猶是壞，如何是此性？」師云：「四大五蘊。」定州有一座主到。師問：「習何業？」云：「經律論不聽便講。」師舉手示之：「還講得者箇麼？」座主茫然不知。師云：「直饒你不聽便講得，也只是箇講經論漢。若是佛法，未在。」云：「和尚即今語話，莫便是佛法否？」師云：「直饒你問得答得，總屬經論，佛法未在。」主無語。師問一行者：「從什麼處來？」云：「北院來。」師云：「那院何似者院？」行者無對。有僧在邊立，師令代行者語。僧代云：「從那院來。」師笑之。師又令文遠代之。文遠云：「行者還是不取師語話。」師問座主：「所習何業？」云：「講維摩經。」師云：「維摩經步步是道場，座主在什麼處？」主無對。師令全益代座主語。全益云：「只者一問，可識道場麼？」師云：「你身在道場裏，心在什麼處？速道取。」云：「和尚不是覓學人心？」師云：「是。」云：「只者一問一答是什麼？」師云：「老僧不在心所裏，法過眼耳鼻舌身意而知解。」云：「既不在心數裏，和尚為什麼覓？」師云：「為你道不得。」云：「法過眼耳鼻舌身意而不解，作麼生道不得？」師云：「喫我涕唾。」師問僧：「你曾看法華經麼？」云：「曾看。」師云：「經中道：『衲衣在空閑，假名阿練若，誑惑世間人。』你作麼生會？」僧擬禮拜。師云：「你披衲衣來否？」云：「披來。」師云：「莫惑我。」云：「如何得不惑去？」師云：「自作活計，莫取老僧語。」師問座主：「所習何業？」云：「講維摩經。」師云：「那箇是維摩祖父？」云：「某甲是。」師云：「為什麼却為兒孫傳語？」主無對。
+
+'''
+case_en = '''
+Zhaozhou addressed the assembly: "Before there was a world, this nature already was. When the world falls apart, this nature will not break."
+
+A monk asked, "What is this nature?"
+
+Zhaozhou said, "The five aggregates, the four elements."
+
+"But those break down. What is this nature?"
+
+Zhaozhou said, "The four elements, the five aggregates."
+
+A lecture-master came from Dingzhou. Zhaozhou asked, "What's your specialty?"
+
+"I can lecture on the sutras, the rules, and the treatises without even hearing them first."
+
+Zhaozhou raised his hand. "Can you lecture on this?"
+
+The master was lost. He had no idea.
+
+Zhaozhou said, "Fine. Say you can lecture without ever being taught. You're still just a man who lectures on sutras and treatises. As for the buddha-dharma, you're not there yet."
+
+"What you're saying right now, isn't that the buddha-dharma?"
+
+Zhaozhou said, "Even if you can ask and I can answer, it all belongs to the sutras and treatises. The buddha-dharma isn't in it."
+
+The master had nothing to say.
+
+Zhaozhou asked a temple worker, "Where do you come from?"
+
+"From the North Hall."
+
+"How does that hall compare to this one?"
+
+The worker had no answer.
+
+A monk standing nearby was told to answer for him. He said, "From that hall over there."
+
+Zhaozhou laughed.
+
+Then he had Wenyuan answer for the worker. Wenyuan said, "The worker won't take up your words."
+
+Zhaozhou asked a lecture-master, "What's your specialty?"
+
+"I lecture on the Vimalakirti Sutra."
+
+Zhaozhou said, "The Vimalakirti Sutra says every step is the place of awakening. Where are you standing?"
+
+The master had no answer.
+
+Zhaozhou had Quanyi answer for him. Quanyi said, "Take just this one question. Can you find the place of awakening in it?"
+
+Zhaozhou said, "Your body stands in the place of awakening. Where is your mind? Out with it, fast."
+
+Quanyi said, "You're not looking for my mind, are you?"
+
+"I am."
+
+"Then this one question and answer, what is it?"
+
+Zhaozhou said, "I don't dwell inside the workings of mind. The dharma runs past eyes, ears, nose, tongue, body, and intellect, and still it is known."
+
+Quanyi said, "If you're not inside the reckoning of mind, why are you looking?"
+
+Zhaozhou said, "Because you can't say it."
+
+Quanyi said, "The dharma runs past eyes, ears, nose, tongue, body, and intellect and is not grasped. So how is it I can't say it?"
+
+Zhaozhou said, "Go eat my snot and spit."
+
+Zhaozhou asked a monk, "Have you ever read the Lotus Sutra?"
+
+"I have."
+
+Zhaozhou said, "The sutra says: 'A patched robe out in the empty wilds, falsely called a forest-dweller, fooling the people of the world.' How do you understand that?"
+
+The monk started to bow.
+
+Zhaozhou said, "Did you come here wearing a patched robe?"
+
+"I did."
+
+"Then don't fool me."
+
+"How do I get to not fooling you?"
+
+Zhaozhou said, "Make your own living. Don't take up my words."
+
+Zhaozhou asked a lecture-master, "What's your specialty?"
+
+"I lecture on the Vimalakirti Sutra."
+
+Zhaozhou said, "Who is the grandfather of Vimalakirti?"
+
+"I am."
+
+Zhaozhou said, "Then why are you passing messages for your own grandchildren?"
+
+The master had no answer.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+The visitors here are "lecture-masters," scholar-monks who have memorized the sutras, the monastic rules, and the philosophical treatises and make their living explaining them. Zhaozhou keeps deflating them: knowing the library cold is not the same as speaking from your own feet. Things to track. The "five aggregates" and "four elements" are the standard parts-list for what a person is made of, so naming the breakable stuff as the unbreakable "nature" is half a troll and half the actual point. The "place of awakening" (bodhimanda) is a term from the Vimalakirti Sutra meaning awakening can happen anywhere, any moment, so when he asks the lecturer "where are you standing," the answer is right here, and the scholar blanks. Wenyuan, Quanyi, and the rest are Zhaozhou's own monks, whom he keeps drafting to answer when a visitor freezes. The closer says it plainly: he tells the last scholar that reciting Vimalakirti, he is only passing messages for his own ancestors, a messenger boy for words he never made his own.
+'''

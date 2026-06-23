@@ -1,0 +1,58 @@
+number = 2
+slug = ""
+title_zh = "達磨廓然"
+title_en = "Bodhidharma's \"Vast Emptiness\""
+
+intro_zh = '''
+卞和三獻，未免遭刑；夜光投人，鮮不按劍。卒客無卒主，宜假不宜真。差珍異寶用不著，死猫兒頭拈出，看。
+
+'''
+intro_en = '''
+Bian He offered up his jade three times, and it cost him his feet. Flash a glowing pearl at a stranger and his hand goes to his sword. Give a guest the host's seat and no one is in charge. Counterfeit goods sell; the real thing won't move. Rare treasures are no use here. So watch: I'll hold up a dead cat's head instead.
+'''
+
+case_zh = '''
+梁武帝問達磨大師：「如何是聖諦第一義？」磨云：「廓然無聖。」帝云：「對朕者誰？」磨云：「不識。」帝不契，遂渡江至少林，面壁九年。
+
+'''
+case_en = '''
+Emperor Wu of Liang asked Bodhidharma, "What is the highest truth, the holiest thing?"
+
+Bodhidharma said, "Vast emptiness. Nothing holy."
+
+The emperor said, "Then who is standing in front of me?"
+
+Bodhidharma said, "No idea."
+
+The emperor didn't get it, so Bodhidharma crossed the river to Shaolin and sat facing a wall for nine years.
+'''
+
+verse_zh = '''
+廓然無聖，
+來機逕庭。
+得非犯鼻而揮斤，
+失不迴頭而墮甑。
+寥寥冷坐少林，
+默默全提正令。
+秋清月轉霜輪，
+河淡斗垂夜柄。
+繩繩衣鉢付兒孫，
+從此人天成藥病。
+
+'''
+verse_en = '''
+Vast emptiness, nothing holy:
+the question came in miles off the mark.
+Win, and the axe swings past your nose untouched.
+Lose, and the pot shatters behind you; don't turn your head.
+Alone, cold, sitting at Shaolin,
+silent, upholding the whole law.
+Autumn clear, the moon a wheel of frost rolling on,
+the river pale, the Dipper's handle hung in the night.
+Robe and bowl passed down the line, son to grandson,
+and from here, for gods and men, both cure and disease.
+'''
+
+pointer = '''
+This is the same scene that opens the Blue Cliff Record (case 1), and reading it here gives you the cooler, slower version of the encounter. Bodhidharma is the Indian monk credited with carrying Chan to China in the early sixth century. Emperor Wu of Liang was a lavish Buddhist patron who had built temples and funded translations, so his question about "the highest holy truth" is fishing for the merit badge he assumes he has earned. Bodhidharma takes it away: vast emptiness, nothing holy, the whole accounting of sacred merit was beside the point. Then "Who is standing in front of me?" answered with "No idea" is him refusing to be installed as somebody's resident holy man, and when the emperor stays baffled, Bodhidharma leaves for nine years of wall-sitting rather than perform a religion someone can feel good about. The verse closes on "cure and disease," which is the sting: once people grip even this teaching, it becomes the next thing that holds them.
+'''

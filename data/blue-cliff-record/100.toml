@@ -1,0 +1,51 @@
+number = 100
+slug = ""
+title_zh = ""
+title_en = "Baling's Hair-Cutting Sword"
+
+intro_zh = '''
+收因結果，盡始盡終，對面無私，元不曾說。忽有箇出來道：「一夏請益，為什麼不曾說？」待爾悟來，向爾道。且道：為復是當面諱却，為復別有長處？試舉看。
+
+'''
+intro_en = '''
+Gather up the causes, tie off the results. Beginning to end, all of it laid bare. Face to face, nothing held back, and yet not a word has ever been said. Suppose someone steps out and says, "We've spent a whole summer at this, so why do you say nothing's been said?" I'd tell him: wait till you wake up, then I'll tell you. So which is it: am I dodging the question right to your face, or is there more to it? Let's look.
+'''
+
+case_zh = '''
+僧問巴陵：「如何是吹毛劍？」陵云：「珊瑚枝枝撐著月。」
+
+'''
+case_en = '''
+A monk asked Baling, "What is the hair-cutting sword?"
+Baling said, "Each branch of coral holds up the moon."
+'''
+
+verse_zh = '''
+要平不平，
+大巧若拙。
+或指或掌，
+倚天照雪。
+大冶兮磨礱不下，
+良工兮拂拭未歇。
+萬斛盈舟信手拏，
+却因一粒甕吞蛇。
+拈提百轉舊公案，
+撒却時人幾眼沙。
+
+'''
+verse_en = '''
+To level out the uneven.
+Real skill looks like clumsiness.
+Now a finger, now a palm,
+it leans on the sky and lights up the snow.
+The great smith: no grinding wheel can touch this edge.
+The good craftsman: still polishing, never done.
+A whole boatload of grain, hauled in by hand,
+and one stray grain makes a snake in the jar.
+Trot out the old case, flip it a hundred ways,
+and watch the sand fly into how many eyes.
+'''
+
+pointer = '''
+The book closes on its sharpest image. A "hair-cutting sword" is the legendary blade so keen that a single hair drifting onto its edge falls in two, Chan shorthand for the wisdom that severs every delusion in one clean stroke. So the monk is asking, show me that razor. Baling refuses to define it and answers with a line of poetry instead, branches of coral each one propping up the moon, beautiful and concrete and seemingly beside the point. The swerve is the answer: he does not describe the sword's edge, he swings it, letting the cut land as the gap between the question and the reply. The intro is the editor Yuanwu running the same game, insisting that after a whole summer of teaching nothing has actually been "said," because the real thing cannot be handed over in words, only shown. The verse praises an edge so perfect it never needs sharpening, then ends with a wry admission that all this clever commentary, this whole hundred-case book, just throws sand in everybody's eyes. A fitting last word from a collection that loved the originals too much to ever quite explain them.
+'''

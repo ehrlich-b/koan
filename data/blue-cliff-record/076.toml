@@ -1,0 +1,62 @@
+number = 76
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+細如米末，冷似氷霜，畐塞乾坤，離明絕暗。低低處觀之有餘，高高處平之不足。把住放行，總在這裏許，還有出身處也無？試舉看。
+
+'''
+intro_en = '''
+Fine as a grain of rice. Cold as ice and frost. It fills heaven and earth, beyond all light, beyond all dark. Look for it down low and there's more than enough; level it up high and it still falls short. Hold it back or let it run: either way, is there a way out of the trap, or not? Let's see.
+'''
+
+case_zh = '''
+丹霞問僧：「甚處來？」僧云：「山下來。」霞云：「喫飯了也未？」僧云：「喫飯了。」霞云：「將飯來與汝喫底人，還具眼麼？」僧無語。長慶問保福：「將飯與人喫，報恩有分，為什麼不具眼？」福云：「施者受者，二俱瞎漢。」長慶云：「盡其機來，還成瞎否？」福云：「道我瞎得麼？」
+
+'''
+case_en = '''
+Danxia asked a monk, "Where are you coming from?"
+
+The monk said, "From down the mountain."
+
+Danxia said, "Eaten yet?"
+
+The monk said, "I've eaten."
+
+Danxia said, "The man who brought your food and fed you, does he have eyes or not?" The monk had nothing to say.
+
+Later Changqing asked Baofu, "Feeding a man earns real merit. So why wouldn't he have eyes?"
+
+Baofu said, "Giver and receiver, both blind."
+
+Changqing said, "Even carried off to the very end, would that still make him blind?"
+
+Baofu said, "You going to call me the blind one?"
+'''
+
+verse_zh = '''
+盡機不成瞎，
+按牛頭喫草。
+四七二三諸祖師，
+寶器持來成過咎。
+過咎深，
+無處尋，
+天上人間同陸沈。
+
+'''
+verse_en = '''
+Carried to the end, and still not blind.
+He forces the ox's head down to the grass.
+The four and seven, the two and three, all the old patriarchs
+brought the precious vessel here and made of it a crime.
+The crime runs deep.
+Nowhere to hunt it down.
+Heaven above, the human world below, all of it sunk together.
+Watch your eyes.
+Blink.
+'''
+
+pointer = '''
+Danxia is the Tang master notorious for burning a wooden Buddha for firewood on a cold night, so he is not sentimental about anything. He runs the ordinary greeting on a traveling monk, where you from, eaten yet, then drops the hook: the person who fed you, does he have eyes? In Chan, "eyes" means real seeing and "blind" means going through the motions with the lights off, so the whole homey exchange was a test, and the monk who answers it as small talk has already walked into the pit. He freezes, which is the case. Then Changqing and Baofu kick it around, and Baofu's "giver and receiver, both blind" is the live wire, because nobody in the scene was actually awake. When pushed, Baofu spins the trap back: so I'm the blind one now? The verse goes further, saying even the revered ancestors carrying the priceless teaching like a sacred bowl just turned it into one more thing to stumble over. So where, in all this feeding, was anyone home?
+'''

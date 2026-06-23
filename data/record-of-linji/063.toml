@@ -1,0 +1,65 @@
+number = 63
+slug = ""
+title_zh = "行錄"
+title_en = "Linji and Fenglin Trade Lines"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+到鳳林，林問：「有事相借問，得麼？」師云：「何得剜肉作瘡？」林云：「海月澄無影，遊魚獨自迷。」師云：「海月既無影，遊魚何得迷？」鳳林云：「觀風知浪起，翫水野帆飄。」師云：「孤輪獨照江山靜，自笑一聲天地驚。」林云：「任將三寸輝天地，一句臨機試道看。」師云：「路逢劍客須呈劍，不是詩人莫獻詩。」鳳林便休。師乃有頌：
+「大道絕同，
+任向西東，
+石火莫及，
+電光罔通。」
+溈山問仰山：「石火莫及、電光罔通，從上諸聖將什麼為人？」仰山云：「和尚意作麼生？」溈山云：「但有言說，都無寔義。」仰山云：「不然。」溈山云：「子又作麼生？」仰山云：「官不容針，私通車馬。」
+
+'''
+case_en = '''
+Linji came to Fenglin's place. Fenglin said, "There's something I'd like to ask. May I?"
+
+Linji said, "Why cut a wound in healthy flesh?"
+
+Fenglin said, "The sea moon shines clear, casting no shadow, yet the swimming fish loses its way all on its own."
+
+Linji said, "If the sea moon casts no shadow, how does the fish lose its way?"
+
+Fenglin said, "Watch the wind and you know the waves are rising. Play on the water and the wild sail drifts."
+
+Linji said, "One bright disc alone, and the rivers and mountains fall still. I laugh once, and heaven and earth start."
+
+Fenglin said, "Go ahead, let that three-inch tongue light up heaven and earth. Now meet the moment with a single line. Let's hear it."
+
+Linji said, "Meet a swordsman on the road, draw your sword. To a man who is no poet, offer no poem."
+
+At that, Fenglin let it drop.
+
+Then Linji gave a verse:
+"The great Way admits no likeness.
+Go east, go west, as you please.
+A struck spark cannot catch it,
+a lightning flash cannot reach it."
+
+Later Guishan asked Yangshan, "If a struck spark can't catch it and a lightning flash can't reach it, then what have all the sages of old used to teach people?"
+
+Yangshan said, "What do you think, master?"
+
+Guishan said, "Whatever gets said, none of it holds the real meaning."
+
+Yangshan said, "Not so."
+
+Guishan said, "Then what would you say?"
+
+Yangshan said, "Officially, not even a needle gets through. Privately, whole carriages and horses pass."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Now Linji reaches Fenglin himself, the master whose road he was on in case 62, and the meeting is a duel in verse where every line is a probe meant to tip the other man off balance. Fenglin opens with poetry, the moon on the sea casting no shadow, a fish losing its way regardless, trying to draw Linji into a clever volley. Linji keeps slipping the bait, then names the trick outright: don't offer a poem to a man who is no poet, meaning quit spending pretty moves on me and bring the live thing. Fenglin lets it drop. Linji caps it with a verse saying the truth runs so fast that nothing, not a struck spark, not lightning, can pin it down. The closing exchange between Guishan and Yangshan argues over exactly that claim, and Yangshan's last line invokes a border checkpoint where officially not even a needle gets through, yet privately whole carriages pass: words can't capture it by the rules, and teaching gets smuggled across anyway.
+'''

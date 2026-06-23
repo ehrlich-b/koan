@@ -1,0 +1,80 @@
+number = 75
+slug = ""
+title_zh = ""
+title_en = "The Wrong Blows"
+
+intro_zh = '''
+靈鋒寶劍，常露現前，亦能殺人，亦能活人。在彼在此，同得同失。若要提持，一任提持；若要平展，一任平展。且道：不落賓主，不拘回互時如何？試舉看。
+
+'''
+intro_en = '''
+A keen-edged sword lies out in the open. It can kill, and it can give life. There or here, it makes no difference. You win together, you lose together. Want to take it up and hold it? Hold it. Want to lay it down? Lay it down. But tell me: when there is no host and no guest, when no one is trading places, what then? Here's a case. Look.
+'''
+
+case_zh = '''
+僧從定州和尚會裏，來到烏臼。烏臼問：「定州法道何似這裏？」僧云：「不別。」臼云：「若不別，更轉彼中去。」便打。僧云：「棒頭有眼，不得草草打人。」臼云：「今日打著一箇也。」又打三下。僧便出去。臼云：「屈棒元來有人喫在。」僧轉身云：「爭奈杓柄在和尚手裏。」臼云：「汝若要，山僧回與汝。」僧近前，奪臼手中棒，打臼三下。臼云：「屈棒！屈棒！」僧云：「有人喫在。」臼云：「草草打著箇漢。」僧便禮拜。臼云：「和尚却恁麼去也？」僧大笑而出。臼云：「消得恁麼，消得恁麼。」
+
+'''
+case_en = '''
+A monk came from Master Dingzhou's assembly and arrived at Wujiu's place.
+
+Wujiu asked, "How does the teaching at Dingzhou compare to here?"
+
+"No different," the monk said.
+
+"If it's no different, go back where you came from." And he hit him.
+
+"There are eyes on the end of that stick," the monk said. "You can't just beat people any way you like."
+
+"Today I've hit one," said Wujiu, and hit him three more times.
+
+The monk walked out.
+
+Wujiu said, "So somebody does eat unfair blows after all."
+
+The monk turned around. "Too bad the handle's in your hand."
+
+"If you want it, I'll give it to you."
+
+The monk stepped up, took the stick out of Wujiu's hand, and hit him three times.
+
+"Unfair blows! Unfair blows!" Wujiu cried.
+
+"Somebody's eating them," the monk said.
+
+"I hit this fellow too carelessly."
+
+The monk bowed.
+
+Wujiu said, "So that's how you'll leave, is it?"
+
+The monk roared with laughter and walked out.
+
+Wujiu said, "That'll do. That'll do."
+'''
+
+verse_zh = '''
+呼即易，
+遣即難，
+互換機鋒子細看。
+劫石固來猶可壞，
+滄溟深處立須乾。
+烏臼老，烏臼老，
+幾何般，
+與他杓柄太無端。
+
+'''
+verse_en = '''
+Calling them in is easy,
+sending them off is hard.
+Watch close how they trade the blade back and forth.
+The diamond rock that outlasts an age can still be ground to dust;
+stand in the deep ocean and you'll dry it up.
+Old Wujiu, old Wujiu,
+how many tricks have you?
+Handing him the handle was far out of line.
+'''
+
+pointer = '''
+A monk arrives from another teacher's monastery and Wujiu opens with the standard probe: how does the teaching back there stack up against here? "No different" sounds enlightened, all is one, no distinctions, but it is also a way to avoid committing to anything, so Wujiu hits him. What follows is a genuine duel in which the teaching stick literally changes hands, each man landing blows and crying foul. The stick is a master's instrument for cracking a student open, so seizing it is a flat claim of equal rank, and Wujiu lets him take it. The laughter at the end is the tell: the monk gave back everything he got, and "that'll do" is an old teacher's nod across the floor to someone who held the line. This is the Blue Cliff showing you that a real meeting can look like a brawl.
+'''

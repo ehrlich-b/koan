@@ -1,0 +1,76 @@
+number = 50
+slug = ""
+title_zh = "雪峯甚麼"
+title_en = "Xuefeng's \"What Is It?\""
+
+intro_zh = '''
+末後一句，始到牢關。巖頭自負，上不肯於親師，下不讓於法弟。為復是強生節目？為復別有機關？
+
+'''
+intro_en = '''
+The last word: only then do you reach the iron gate. Yantou had nerve. He wouldn't bow to his own teacher, and he wouldn't yield an inch to his dharma-brothers. So was he just manufacturing trouble where there was none? Or did he have some other trick up his sleeve?
+'''
+
+case_zh = '''
+雪峯住庵時，有兩僧來禮拜。峯見來，以手托庵門，放身出云：「是甚麼？」僧亦云：「是甚麼？」峯低頭歸庵。僧後到巖頭，頭問：「甚麼處來？」僧云：「嶺南。」頭云：「曾到雪峯麼？」僧云：「曾到。」頭云：「有何言句？」僧舉前話。頭云：「他道甚麼？」僧云：「他無語，低頭歸庵。」頭云：「噫！當時不向他道末後句，若向伊道，天下人不奈雪老何。」僧至夏末，再舉前話請益。頭云：「何不早問？」僧云：「未敢容易。」頭云：「雪峯雖與我同條生，不與我同條死。要知末後句，只這是。」
+
+'''
+case_en = '''
+When Xuefeng was living in his hermitage, two monks came to pay their respects. Seeing them approach, Xuefeng shoved the door open with his hand, lunged out, and said, "What is it?"
+
+One of the monks said, "What is it?"
+
+Xuefeng dropped his head and went back inside.
+
+Later that monk came to Yantou. Yantou asked, "Where are you from?"
+
+"South of the ridge."
+
+"Did you ever get to Xuefeng's?"
+
+"I did."
+
+"What did he have to say?"
+
+The monk told him the whole story.
+
+Yantou said, "And after that?"
+
+"Nothing. He dropped his head and went back inside."
+
+Yantou said, "Ah. Too bad I didn't tell him the last word back then. If I had, no one on earth could touch old Xue."
+
+At the end of the summer the monk raised it again and asked for more.
+
+Yantou said, "Why didn't you ask sooner?"
+
+"I didn't dare take it lightly."
+
+Yantou said, "Xuefeng was born on the same branch as me, but he won't die on the same branch as me. You want the last word? Just this is it."
+'''
+
+verse_zh = '''
+切瑳琢磨，
+變態殽訛。
+葛陂化龍之杖，
+陶家居蟄之梭。
+同條生兮有數，
+同條死兮無多。
+末後句，只這是，
+風舟載月浮秋水。
+
+'''
+verse_en = '''
+Cut, file, grind, polish:
+shapes shift, fakes slip through.
+The staff that turned to a dragon at Gepi pool,
+the shuttle that lay coiled in the potter's house.
+Born on the same branch: plenty of those.
+Dying on the same branch: not so many.
+The last word? Just this is it:
+a wind-driven boat carries the moon over autumn water.
+'''
+
+pointer = '''
+Xuefeng and Yantou were old friends who trained together, and Yantou is the sharper of the two, needling his buddy from across the country. Xuefeng bursts out of his hut at two visiting monks barking "What is it?", a classic ambush meant to catch you flat with no time to think. One monk simply fires the same question back, a respectable move, and Xuefeng oddly backs down and retreats inside. Hearing the report, Yantou says he wishes he'd taught Xuefeng "the last word," the final finishing thing nobody can cap. Watch how everyone keeps treating this last word as a withheld password, the monk too scared to ask, Yantou hoarding it for a season, and how at the end Yantou says flatly that it is "just this," right here, never hidden. People ransack the world for a final answer that was never kept from them. The same trap, with nearly the same staging, runs through case 55, only there it's old Deshan getting out-maneuvered. Yantou's line about two men "born on the same branch but not dying on the same branch" means you can start identical and still end up worlds apart.
+'''

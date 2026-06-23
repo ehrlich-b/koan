@@ -1,0 +1,61 @@
+number = 80
+slug = ""
+title_zh = "龍牙過板"
+title_en = "Longya Passes the Board"
+
+intro_zh = '''
+大音希聲，大器晚成。向盛忙百鬧裏佯呆，待七古千年後慢㤆。且道：是如何底人？
+
+'''
+intro_en = '''
+The greatest sound is nearly silent; the greatest vessel is the last to be finished. Right in the thick of the noise and the rush, he plays dumb, biding his time a thousand years. Slow on the uptake? Perhaps. So tell me: what kind of man is this?
+'''
+
+case_zh = '''
+龍牙問翠微：「如何是祖師西來意？」微云：「與我過禪板來。」牙取禪板與翠微，微接得便打。牙云：「打即任打，要且無祖師西來意。」又問臨濟：「如何是祖師西來意？」濟云：「與我將蒲團來。」牙取蒲團與臨濟，濟接得便打。牙云：「打即任打，要且無祖師意。」牙後住院，僧問：「和尚當年問翠微、臨濟祖意，二尊宿明也未？」牙云：「明即明矣，要且無祖師意。」
+
+'''
+case_en = '''
+Longya asked Cuiwei, "What's the point of Bodhidharma coming from the West?"
+Cuiwei said, "Hand me that meditation board."
+Longya took it and handed it over. Cuiwei took it and hit him.
+Longya said, "Hit me all you like. There's still no point to Bodhidharma coming from the West."
+
+Later he asked Linji the same thing: "What's the point of Bodhidharma coming from the West?"
+Linji said, "Hand me that cushion."
+Longya took it and handed it over. Linji took it and hit him.
+Longya said, "Hit me all you like. There's still no point to Bodhidharma coming from the West."
+
+Years later, running his own temple, Longya was asked by a monk, "Back then, when you put Bodhidharma's meaning to Cuiwei and Linji, did those two old masters see it or not?"
+Longya said, "See it? They saw it, all right. There's still no point to Bodhidharma coming from the West."
+'''
+
+verse_zh = '''
+蒲團禪板對龍牙，
+何事當機不作家。
+未意成褫明目下，
+恐將流落在天涯。
+虛空那挂劍，
+星漢却浮槎。
+不萌草解藏香象，
+無底籃能著活蛇。
+今日江湖何障礙，
+通方津渡有舡車。
+
+'''
+verse_en = '''
+Cushion and board, squared off against Longya:
+why not meet the moment like a master?
+The meaning was stripped away before it formed,
+and he feared he'd be cast to the ends of the earth.
+No sword hangs in the empty sky,
+yet a raft drifts across the river of stars.
+Grass that never sprouts can hide a fragrant elephant;
+a bottomless basket can hold a living snake.
+What blocks the road on the rivers and lakes today?
+For one who knows the crossing, boats and carts wait everywhere.
+'''
+
+pointer = '''
+"Why did Bodhidharma come from the West?" is the stock Zen question; Bodhidharma carried Chan from India to China, so to ask why he came is to ask what this whole enterprise is even about. Longya puts it to two heavyweight teachers, Cuiwei and Linji, and both answer not in words but with a blow, telling him to hand over an object and then hitting him with it. The live ambiguity is Longya's refrain, "still no point to Bodhidharma's coming," which never resolves into whether he is the dull student who whiffed or the one man present who got it and won't let it be dressed up. Decades on, running his own temple, he gives the identical line again. Hongzhi's verse lets it stand both ways, the bottomless basket that holds a living snake, the crossing where boats wait for anyone who knows the way over.
+'''

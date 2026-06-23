@@ -1,0 +1,55 @@
+number = 21
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+元和中，居士北遊襄漢，隨處而居。有女靈照，常鬻竹漉籬，以供朝夕。士有偈曰：
+心如境亦如，無實亦無虗。
+有亦不管，無亦不拘。
+不是賢聖，了事凡夫。
+易復易，即此五蘊有真智。
+十方世界一乘同，無相法身豈有二？
+若捨煩惱入菩提，不知何方有佛地。
+護生須是殺，殺盡始安居。
+會得箇中意，鉄船水上浮。
+
+'''
+case_en = '''
+During the Yuanhe years, Layman Pang traveled north into the Xiang and Han river country, settling wherever he came to rest. His daughter Lingzhao went with him, making bamboo strainers and selling them to keep the two of them fed.
+
+The layman had a verse:
+
+Mind is just so, and so is the world:
+nothing solid, nothing empty either.
+What is there, I don't bother with.
+What is not, I don't cling to.
+No sage, no saint,
+just an ordinary man done with his business.
+
+Easy, and easy again:
+right here in these five heaps, real wisdom.
+The worlds in all ten directions, one road.
+The formless body of truth, how could it be two?
+Throw off your troubles to go chasing enlightenment,
+and good luck finding where the Buddha lives.
+
+To guard life you must kill.
+Kill it all, and only then can you rest.
+Catch what this points to,
+and an iron ship floats on the water.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+By now Pang is old and wandering broke through river country, with Lingzhao keeping them both fed by selling strainers, and this long verse is his summary of the whole view. It runs the stock terms past us: the "five heaps" are the Buddhist name for the bundle that makes up a person, body and sensation and perception and the rest, and the "formless body of truth" is the notion of one absolute reality behind all appearances. Pang's move throughout is to collapse the gaps people imagine, between trouble and enlightenment, ordinary and holy, here and some better elsewhere, which is why he says good luck finding where the Buddha lives if you throw off your troubles to go chasing it. The closing lines, to guard life you must kill, and an iron ship floats, are impossible on purpose. They are built to stall the part of you that wants to solve them, so that something else can look.
+'''

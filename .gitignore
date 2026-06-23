@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# CBETA TEI editions are CC BY-NC-SA — kept locally for re-seeding, never published
+sources/*.tei.xml

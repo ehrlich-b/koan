@@ -1,0 +1,48 @@
+number = 56
+slug = ""
+title_zh = "行錄"
+title_en = "Linji and the Master of Sanfeng"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+到三峯，平和尚問曰：「什麼處來？」師云：「黃蘗來。」平云：「黃蘗有何言句？」師云：「金牛昨夜遭塗炭，直至如今不見蹤。」平云：「金風吹玉管，那箇是知音？」師云：「直透萬重關，不住清霄內。」平云：「子這一問太高生。」師云：「龍生金鳳子，衝破碧琉璃。」平云：「且坐，喫茶。」又問：「近離甚處？」師云：「龍光。」平云：「龍光近日如何？」師便出去。
+
+'''
+case_en = '''
+Linji came to Sanfeng. Master Ping asked, "Where have you come from?"
+
+"From Huangbo," Linji said.
+
+"And what is Huangbo saying these days?"
+
+Linji said, "Last night the golden ox was dragged through mud and ashes. Not a trace of him since."
+
+Ping said, "A golden wind blows through a jade flute. Who hears the tune?"
+
+Linji said, "Straight through ten thousand gates, and even then not resting in the clear sky."
+
+Ping said, "That answer aims awfully high."
+
+Linji said, "The dragon breeds a golden phoenix that shatters the blue glass."
+
+"Sit down," Ping said. "Have some tea." Then he asked, "And before that, where did you leave from?"
+
+"Longguang," Linji said.
+
+"How are things at Longguang lately?"
+
+Linji walked straight out.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Linji arrives at Master Ping's place fresh from two earlier stops, and the meeting is conducted entirely in poetry, which is itself the exam. When Ping asks what Linji's old teacher Huangbo has been saying lately, a dutiful student would relay a lesson; Linji answers with a riddle about a "golden ox" dragged through the mud and gone without a trace, handing over nothing you could write down (and watch the same golden ox turn up as a person's name two cases later, in 64). Ping keeps fishing with prettier and prettier lines, jade flutes and golden wind, and each time Linji tops him with something larger and harder to grab, until he simply stops playing. Then Ping shifts to the polite move, "sit down, have some tea, and where were you before this?", and Linji walks straight out. The imagery is decoration; the case is about a man who won't be reeled in, not by a riddle, not by flattery, not even by hospitality.
+'''

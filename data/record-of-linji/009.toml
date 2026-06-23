@@ -1,0 +1,40 @@
+number = 9
+slug = ""
+title_zh = "上堂"
+title_en = "The Three Statements"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+上堂，僧問：「如何是第一句？」師云：「三要印開朱點側，未容擬議主賓分。」問：「如何是第二句？」師云：「妙解豈容無著問，漚和爭負截流機。」問：「如何是第三句？」師云：「看取棚頭弄傀儡，抽牽都來裏有人。」師又云：「一句語須具三玄門，一玄門須具三要，有權、有用。汝等諸人作麼生會？」下座。
+
+'''
+case_en = '''
+Linji took the high seat. A monk asked, "What is the first statement?"
+
+Linji said, "The seal lifts, the vermilion mark stands clear. Before you can weigh a word, host and guest are sorted out."
+
+The monk asked, "What is the second statement?"
+
+Linji said, "Brilliant Manjushri couldn't fend off Wuzhuo's questions, yet skillful means cuts clean through the current that stops the mind."
+
+The monk asked, "What is the third statement?"
+
+Linji said, "Watch the puppets dancing on the little stage. Every tug on the strings comes from the man behind them."
+
+Then Linji said, "Every statement must hold three mysterious gates, and every gate must hold three essentials. There is the provisional in it, there is the working in it. So how do you people get hold of that?"
+
+He came down from the seat.
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+This is the densest knot in the record, and Linji built it that way on purpose. The monk keeps asking him to rank the teaching, first statement, second, third, as if awakening came in tiers you could file away. Linji answers each with a cryptic image instead of a definition (the official's seal stamping instant and undeliberated; Manjushri and Wuzhuo, two enlightened figures from a legendary debate where even the sharpest words couldn't pin truth down; the puppet jerking on its strings), then springs the structure: every statement holds three "mysteries," every mystery three "essentials." Do the arithmetic and you get a system that never bottoms out, which is the answer hiding in plain sight. He is not handing over a ladder to climb. The puppet image is the tell, every clever tiered answer is just a doll twitching on strings, and the only thing worth noticing is the hand working it, the same "true person" from case 3 that no ranking can reach.
+'''

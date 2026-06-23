@@ -1,0 +1,53 @@
+number = 12
+slug = ""
+title_zh = ""
+title_en = "Dongshan's Three Pounds of Flax"
+
+intro_zh = '''
+殺人刀，活人劍，乃上古之風規，亦今時之樞要。若論殺也，不傷一毫；若論活也，喪身失命。所以道：向上一路，千聖不傳。學者勞形，如猿捉影。且道：既是不傳，為什麼却有許多葛藤公案？具眼者試說看。
+
+'''
+intro_en = '''
+The killing sword, the life-giving sword: the old masters' way, and the hinge of things still. As a killing blade it doesn't nick a single hair. As a life-giver it costs you skin and life. So they say: the road up and beyond, not one of the thousand sages ever handed down. Students wear themselves out chasing it, like a monkey grabbing at the moon in the water. Tell me, if it's never handed down, why are there so many tangled old cases? Anyone with eyes, give it a try.
+'''
+
+case_zh = '''
+僧問洞山：「如何是佛？」山云：「麻三斤。」
+
+'''
+case_en = '''
+A monk asked Dongshan, "What is Buddha?"
+
+Dongshan said, "Three pounds of flax."
+'''
+
+verse_zh = '''
+金烏急，
+玉兔速，
+善應何曾有輕觸。
+展事投機見洞山，
+跛鱉盲龜入空谷。
+花簇簇，錦簇簇，
+南地竹兮北地木。
+因思長慶陸大夫，
+解道合笑不合哭。
+咦！
+
+'''
+verse_en = '''
+The golden crow streaks past,
+the jade hare bolts.
+A perfect answer never lands clumsy.
+Take Dongshan for some clever turn of phrase
+and you're a lame turtle, a blind tortoise hobbling into a dead valley.
+Flowers in clusters,
+brocade in clusters,
+bamboo to the south, timber to the north.
+Which brings to mind Changqing and old Mr. Lu:
+the thing to do was laugh, not cry.
+Ha!
+'''
+
+pointer = '''
+"What is Buddha" is the oldest setup in the collection, a monk angling for some grand statement about ultimate reality. Dongshan was likely standing near the storeroom and simply named what sat in front of him: three pounds of flax, the raw fiber you would spin into cloth. The pull is to decode it, to ask why flax, why three, what symbol is buried inside. Nothing is buried. The teaching is that Buddha is not waiting in a special realm, it is the plain stuff under your nose, and the instant you start excavating the answer for a secret you have walked straight into the dead valley the verse describes, a blind turtle hobbling nowhere. Xuedou name-drops Changqing and old Mr. Lu as people who got this and could laugh at it instead of weeping over it. It pairs with Yunmen's cake at case 77, another answer that is exactly what it says.
+'''

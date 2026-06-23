@@ -1,0 +1,80 @@
+number = 33
+slug = ""
+title_zh = "上堂"
+title_en = "Up in the Hall"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+上堂云：「纔有是非，紛然失心，還有答話分也無？」有僧出撫侍者一下云：「何不祇對和尚？」師便歸方丈。後侍者請益：「適來僧是會不會？」師云：「坐底見立底，立底見坐底。」問：「如何是道？」師云：「墻外底。」云：「不問者箇。」師云：「問什麼道？」云：「大道。」師云：「大道通長安。」問：「撥塵見佛時如何？」師云：「撥塵即不無，見佛即不得。」問：「如何是無疾之身？」師云：「四大五陰。」問：「如何是闡提？」師云：「何不問菩提？」云：「如何是菩提？」師云：「只者便是闡提。」師有時屈指云：「老僧喚作拳，你諸人喚作什麼？」僧云：「和尚何得將境示人？」師云：「我不將境示人。若將境示闍黎，即埋沒闍黎去也。」云：「爭奈者箇何？」師便珍重。問：「一問一答，總落天魔外道。設使無言，又犯他匡網。如何是趙州家風？」師云：「你不解問。」云：「請和尚答話。」師云：「若據你，合喫二十棒。」
+
+'''
+case_en = '''
+At a formal talk Zhaozhou said, "The moment you take sides, you lose your mind in the noise. So is there any room left to answer at all?"
+
+A monk stepped out and slapped the attendant once. "Why don't you answer the master?"
+
+Zhaozhou just went back to his quarters.
+
+Later the attendant came and asked, "That monk a minute ago, did he get it or not?"
+
+Zhaozhou said, "The one sitting sees the one standing. The one standing sees the one sitting."
+
+A monk asked, "What is the Way?"
+
+Zhaozhou said, "The one outside the wall."
+
+"I'm not asking about that one."
+
+"Then what Way are you asking about?"
+
+"The great Way."
+
+Zhaozhou said, "The great Way runs straight to Chang'an."
+
+A monk asked, "When you brush off the dust and see the Buddha, how is that?"
+
+Zhaozhou said, "Brushing off the dust, fine. Seeing the Buddha, no."
+
+A monk asked, "What is the body that never gets sick?"
+
+Zhaozhou said, "The four elements and the five heaps."
+
+A monk asked, "What is an icchantika?"
+
+Zhaozhou said, "Why don't you ask about enlightenment?"
+
+"What is enlightenment?"
+
+Zhaozhou said, "That right there. That's the icchantika."
+
+One day Zhaozhou held up a finger, curled it, and said, "I call this a fist. What do the rest of you call it?"
+
+A monk said, "Why use an object to teach people?"
+
+Zhaozhou said, "I'm not using an object to teach you. If I used an object to teach you, I'd be burying you alive."
+
+"Then what do you do with this?"
+
+Zhaozhou said, "Take care," and ended it.
+
+A monk asked, "Question and answer, it all falls into the trap of demons and heretics. But stay silent and you're caught in their net just the same. So what is the house style of Zhaozhou?"
+
+Zhaozhou said, "You don't know how to ask."
+
+"Then you answer, master."
+
+Zhaozhou said, "Going by you, you've got twenty blows coming."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+This opens with a line Zhaozhou liked enough to reuse (it heads 34 and 38 too): the instant you take sides, you lose your mind in the noise, so is there any room left to answer? A monk responds by slapping the attendant, a borrowed bit of Chan theater, and Zhaozhou just walks back to his room, unimpressed by the performance. Then exchanges. "The Way" is the grand abstract goal everyone hunts, and he keeps pointing at concrete stuff (the man outside the wall, the road that runs to the capital Chang'an) to drag the monk out of his head. An "icchantika" is the Buddhist term for someone supposedly so lost they can never wake up, the worst-case write-off; when the monk swaps it for "enlightenment," Zhaozhou says that fishing for the holy word is itself the dead end. "The four elements and the five heaps" is the standard parts-list for a human being, so his deadpan reply to "what body never gets sick" is, this ordinary one. The thread is a man refusing to score points, sometimes ending an exchange by saying "take care" and leaving.
+'''

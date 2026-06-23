@@ -1,0 +1,42 @@
+number = 24
+slug = ""
+title_zh = "示眾"
+title_en = "The Word \"Buddha\""
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師示眾云：「佛之一字，吾不喜聞。」問：「和尚還為人也無？」師云：「為人。」學云：「如何為人？」師云：「不識玄旨，徒勞念靜。」學云：「既是玄，作麼生是旨？」師云：「我不把本。」學云：「者箇是玄，如何是旨？」師云：「答你是旨。」
+
+'''
+case_en = '''
+Zhaozhou said to the assembly, "The word 'Buddha' — I don't like hearing it."
+
+A monk asked, "Master, do you still help people?"
+
+Zhaozhou said, "I do."
+
+The monk said, "How?"
+
+Zhaozhou said, "Miss the deep point and you wear yourself out chasing quiet for nothing."
+
+The monk said, "Fine, that's the 'deep.' But what's the 'point'?"
+
+Zhaozhou said, "I hold to no fixed text."
+
+The monk said, "That was the 'deep.' Now what's the 'point'?"
+
+Zhaozhou said, "Answering you is the point."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+Zhaozhou (778–897) opens by saying the word "Buddha" turns his stomach, which is the house position of this whole book: make "Buddha" a holy word to repeat and revere and you have built one more idol. The exchange then runs on a pun. Zhaozhou quotes a stock phrase, 玄旨, "the deep gist," and the monk tries to corner him by splitting the compound in two: you've shown me the "deep," now produce the "gist" as a separate item. He wants the gist served as a thing he can write down and keep, and the last line refuses to let it be one. The responding itself, this live answer to this live monk, is the gist; there is no second nugget hiding behind it.
+'''

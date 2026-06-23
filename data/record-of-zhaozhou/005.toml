@@ -1,0 +1,37 @@
+number = 5
+slug = ""
+title_zh = "上堂"
+title_en = "A Talk in the Hall"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+師上堂云：「兄弟莫久立。有事商量，無事向衣鉢下坐窮理好。老僧行脚時，除二時齋粥是雜用心力處，餘外更無別用心處也。若不如此，出家大遠在。」問：「萬物中何物最堅？」師云：「相罵饒汝接嘴，相唾饒汝潑水。」問：「曉夜不停時如何？」師云：「僧中無與麼兩稅百姓。」問：「如何是一句？」師云：「若守著一句，老却你。」師又云：「若一生不離叢林，不語十年五載，無人喚你作啞漢，已後佛也不柰你何。你若不信，截取老僧頭去。」
+
+'''
+case_en = '''
+Zhaozhou took the high seat and said: "Brothers, don't just stand around. If you have something to settle, bring it. If not, go sit under your robe and bowl and work the thing through. That's the better use of your time. On the road, the only place I ever spent myself loosely was the two daily meals, gruel and rice. Beyond that, I wasted my mind nowhere. If you can't manage even that much, you left home for nothing."
+
+A monk asked, "Of all things in the world, what is hardest?"
+Zhaozhou said, "Curse me and I'll let you run your mouth. Spit at me and I'll let you throw your water."
+
+A monk asked, "What about when it never stops, day or night?"
+Zhaozhou said, "Among monks there's no peasant paying tax twice a year."
+
+A monk asked, "What is the one phrase?"
+Zhaozhou said, "Cling to one phrase and it will turn you old."
+
+Zhaozhou went on: "Never leave the monastery your whole life, say nothing for ten years, five years, and no one will call you a mute. After that, even a buddha can do nothing with you. Don't believe me? Then cut off this old monk's head."
+'''
+
+verse_zh = '''
+'''
+verse_en = '''
+'''
+
+pointer = '''
+A short hall-talk, and the plainest statement of how Zhaozhou wants his monks to live. Robe and bowl are the only two things a monk owns, so "sit under your robe and bowl" just means sit down and meditate. His pitch is almost insultingly simple: stop loafing, and spend your attention on nothing but eating and practice. The tax line lands because peasants in Tang China paid a grain levy twice a year, and his joke is that a real monk owes no one and isn't grinding to a schedule like a man with a bill due. When a monk fishes for the single phrase that sums everything up, Zhaozhou warns that clinging to one fixed answer will only age you, the same allergy to a graspable formula that runs through every case here. The closing dare to cut off his head is his over-the-top way of staking the whole bet on silent, settled practice over clever talk.
+'''

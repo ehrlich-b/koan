@@ -1,0 +1,44 @@
+number = 23
+slug = ""
+title_zh = ""
+title_en = "The Summit of Wonder Peak"
+
+intro_zh = '''
+玉將火試，金將石試，劍將毛試，水將杖試。至於衲僧門下，一言一句，一機一境，一出一入，一挨一拶，要見深淺，要見向背。且道將什麼？試請舉看。
+
+'''
+intro_en = '''
+Test jade with fire. Test gold against stone. Test a sword on a hair, water with a measuring rod. But a monk: how do you test him? One word, one phrase. One move, one setting. A step out, a step back, a push, a shove. You want to see who runs deep and who runs shallow, who faces you and who turns away. So tell me, what do you test with? Here's a case. Look.
+'''
+
+case_zh = '''
+保福、長慶遊山次，福以手指云：「只這裏便是妙峯頂。」慶云：「是則是，可惜許。」雪竇著語云：「今日共這漢遊山，圖箇什麼？」復云：「百千年後不道無，只是少。」後舉似鏡清，清云：「若不是孫公，便見髑髏遍野。」
+
+'''
+case_en = '''
+Baofu and Changqing were walking the mountains. Baofu pointed and said, "Right here is the summit of Wonder Peak."
+
+Changqing said, "It is. Pity."
+
+(Xuedou tagged this: "Out walking the hills with this fellow today, and what's he after?" And he added: "A hundred, a thousand years from now, I won't say there's no one. Only that there'll be precious few.")
+
+Later someone brought this up to Jingqing. Jingqing said, "If it weren't for Sun, you'd see skulls strewn across the whole field."
+'''
+
+verse_zh = '''
+妙峯孤頂草離離，
+拈得分明付與誰。
+不是孫公辨端的，
+髑髏著地幾人知。
+
+'''
+verse_en = '''
+On Wonder Peak's lone summit the grass grows rank and wild.
+He plucks it, holds it out plain. To whom does he hand it?
+Had old Sun not told the true from the false,
+skulls would litter the ground, and who would know?
+'''
+
+pointer = '''
+Baofu and Changqing are two monks and old friends out walking a mountain together. "Wonder Peak" comes from a famous pilgrimage story in which a seeker is sent to find a great teacher there, and the name became shorthand for the absolute, the highest realization, the spot you cannot climb past. So when Baofu points at the trail and says "right here is the summit of Wonder Peak," he is testing his friend: are you taken in, chasing some special holy place, or do you see the absolute already here in the dirt? Changqing's "It is. Pity" is the catch, agreeing and yanking the rug in one breath, declining to plant a flag anywhere. Xuedou and Jingqing are later masters scoring the match, and the "skulls strewn across the field" are everyone who fails it, so dazzled by the idea of a sacred summit that they are as good as dead. Agreeing without landing is what keeps the peak from hardening into a trap.
+'''

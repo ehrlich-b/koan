@@ -1,0 +1,60 @@
+number = 81
+slug = ""
+title_zh = ""
+title_en = "The Deer Among Deer"
+
+intro_zh = '''
+攙旗奪鼓，千聖莫窮；坐斷誵訛，萬機不到。不是神通妙用，亦非本體如然。且道：憑箇什麼，得恁麼奇特？
+
+'''
+intro_en = '''
+Snatch the flag, seize the drums: a thousand sages can't run him down. Cut off every tangle and trap, and not one working of the mind can reach him. This is no magic power. Nor is it the pure original nature. So tell me, what is he leaning on to pull off something this strange?
+'''
+
+case_zh = '''
+僧問藥山：「平田淺草，麈鹿成群，如何射得麈中麈？」山云：「看箭！」僧放身便倒。山云：「侍者，拕出這死漢。」僧便走。山云：「弄泥團漢有什麼限。」雪竇拈云：「三步雖活，五步須死。」
+
+'''
+case_en = '''
+A monk asked Yaoshan, "Out on the flat grasslands, the deer run in herds. How do you shoot the king of them, the deer among deer?"
+
+Yaoshan said, "Watch the arrow!"
+
+The monk dropped to the ground, playing dead.
+
+Yaoshan said, "Attendant, drag this corpse out of here."
+
+The monk took off running.
+
+Yaoshan said, "This fellow, playing in the mud. Where does it end?"
+
+Xuedou remarked, "Alive for three steps, maybe, but dead by five." [Yaoshan stares, mouth open.]
+'''
+
+verse_zh = '''
+麈中麈，
+君看取。
+下一箭，
+走三步。
+五步若活，
+成群趁虎。
+正眼從來付獵人。
+雪竇高聲云：
+「看箭！」
+
+'''
+verse_en = '''
+The deer among deer:
+take a good look.
+One arrow flies,
+he runs three steps.
+Live past five
+and he'll round up the herd to chase down tigers.
+But the true eye has always belonged to the hunter.
+Xuedou shouts:
+Watch the arrow!
+'''
+
+pointer = '''
+Yaoshan is a Tang master, and a monk arrives to test him with a polished metaphor: out of a whole herd, how do you pick off the single best deer, the "deer among deer," meaning the one student worth the trouble or the sharpest mind in the room. The hunting image is bait, a fancy way to ask whether Yaoshan can spot real talent. Yaoshan answers like an actual archer, "Watch the arrow," because he is already shooting. The monk thinks fast and flops down playing dead, as if to say you got me, I am the deer you killed. Slick, but Yaoshan does not pay out for theater; calling for someone to drag the "corpse" away exposes the stunt, and the monk bolts. This case is a clever student trying to win the exchange with a gimmick and a master who declines to award style points. Xuedou's "three steps alive, dead by five" is the verdict: the trick had a flicker of life and no legs.
+'''

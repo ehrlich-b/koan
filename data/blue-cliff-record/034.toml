@@ -1,0 +1,53 @@
+number = 34
+slug = ""
+title_zh = ""
+title_en = "You Never Saw the Mountain"
+
+intro_zh = '''
+'''
+intro_en = '''
+'''
+
+case_zh = '''
+仰山問僧：「近離甚處？」僧云：「廬山。」山云：「曾遊五老峯麼？」僧云：「不曾到。」山云：「闍黎不曾遊山。」雲門云：「此語皆為慈悲之故，有落草之談。」
+
+'''
+case_en = '''
+Yangshan asked a monk, "Where've you been lately?"
+The monk said, "Mount Lu."
+Yangshan said, "Did you climb up to Five Old Men Peak?"
+The monk said, "Never got there."
+Yangshan said, "Then you never saw the mountain at all."
+
+Later Yunmen said, "He only talked that way out of kindness. That's the kind of talk that gets down in the weeds with you."
+'''
+
+verse_zh = '''
+出草入草，
+誰解尋討。
+白雲重重，
+紅日杲杲。
+左顧無瑕，
+右盻已老。
+君不見，寒山子，
+行太早。
+十年歸不得，
+忘却來時道。
+
+'''
+verse_en = '''
+Out of the weeds, back into the weeds:
+who knows how to track it down?
+White clouds layer on layer,
+the red sun blazing bright.
+Look left, not a flaw.
+Look right, already old.
+Don't you know Hanshan?
+He set out far too soon.
+Ten years, and still no way home,
+the road he came by clean forgotten.
+'''
+
+pointer = '''
+Yangshan is a major Tang teacher; Mount Lu is a big scenic range full of monasteries, and Five Old Men Peak is its signature summit, the place to go. A monk turns up saying he was just at Mount Lu, and Yangshan effectively asks whether he reached the one spot worth reaching. The monk admits he skipped it, and Yangshan snaps it shut: miss the heart of the thing and you were never really there. Then Yunmen comments that Yangshan was being kind, not severe, climbing down to the monk's level to make the point, "getting in the weeds" with him. The closing verse drags in Hanshan, the legendary hermit-poet of Cold Mountain, with a warning aimed back at the seeker: he set out so long ago chasing the summit that he forgot the road home.
+'''

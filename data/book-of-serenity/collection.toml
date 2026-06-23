@@ -1,0 +1,24 @@
+slug = "book-of-serenity"
+title_en = "The Book of Serenity"
+title_alt = "The Book of Equanimity (Shōyōroku)"
+title_zh = "從容錄"
+title_pinyin = "Cóngróng Lù"
+title_ja = "Shōyōroku"
+compiler = "Verses by Hongzhi Zhengjue (宏智正覺, 1091–1157); commentary compiled by Wansong Xingxiu (萬松行秀, 1166–1246)"
+date = "1224"
+dynasty = "Jin / Song dynasty"
+source_url = ""
+source_note = "The Book of Serenity (從容錄), from the public-domain Taishō Tripiṭaka (vol. 48, no. 2004), set in our own punctuation. We give the core of each case — Wansong's instruction (示眾), the case (本則), and Hongzhi's verse (頌); the prose commentary and interlinear capping phrases are omitted."
+license_original = "Public domain (Taishō base text; compiled 1224)."
+license_translation = "CC0 1.0 Universal (public-domain dedication)."
+
+label_intro_zh = "示眾"
+label_verse_zh = "頌"
+
+intro_en = '''
+The Book of Serenity (Chinese: Cóngróng Lù; Japanese: Shōyōroku) is the Caodong (Sōtō) school's counterpart to the Blue Cliff Record. Its hundred cases were chosen and set in verse by Hongzhi Zhengjue in the twelfth century; Wansong Xingxiu added an instruction, a prose commentary, and interlinear notes to each, completing the work in 1224.
+
+This edition gives the core of each case — Wansong's instruction (示眾), the case itself (本則), and Hongzhi's verse (頌). The prose commentary and capping phrases are omitted for now.
+
+The original text is public domain (from the Taishō Tripiṭaka), set in our own punctuation. The translations and pointers are released under CC0.
+'''

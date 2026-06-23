@@ -1,0 +1,55 @@
+number = 77
+slug = ""
+title_zh = "仰山隨分"
+title_en = "Yangshan Reads a Little"
+
+intro_zh = '''
+如人畫空，下筆即錯，那堪起模作樣，堪作甚麼？○萬松已是露栓索，有條攀條，無條攀例。
+
+'''
+intro_en = '''
+Try to paint empty space and your brush is already wrong. Why strike a pose on top of that? What's the point? Wansong, though, has already shown his hand. When there's a rope, he climbs the rope; when there's none, he climbs by the rule.
+'''
+
+case_zh = '''
+僧問仰山：「和尚還識字否？」山云：「隨分。」僧乃右旋一匝，云：「是甚麼字？」山於地上書箇十字。僧左旋一匝，云：「是甚麼字？」山改十字作卍字。僧畫一圓相，以兩手托，如修羅掌日月勢，云：「是甚麼字？」山乃畫圓相，圍却卍字。僧乃作樓至勢。山云：「如是如是，汝善護持。」
+
+'''
+case_en = '''
+A monk asked Yangshan, "Can you read, master?"
+Yangshan said, "I read a little."
+The monk turned a full circle to the right and said, "What character is that?"
+Yangshan drew a cross on the ground, the character for "ten."
+The monk turned a full circle to the left and said, "What character is that?"
+Yangshan changed the cross into a swastika.
+The monk drew a circle and held it up in both hands, the way an asura cradles the sun and moon, and said, "What character is that?"
+Yangshan drew a circle around the swastika.
+The monk struck the pose of Luzhi, the last Buddha.
+Yangshan said, "Just so, just so. Guard it well."
+'''
+
+verse_zh = '''
+道環之虛靡盈，
+空印之字未形。
+妙運天輪地軸，
+密羅武緯文經。
+放開揑聚，
+獨立周行。
+機發玄樞兮青天激電，
+眼含紫光兮白日見星。
+
+'''
+verse_en = '''
+The Way's empty ring, nothing fills it.
+The void's unstamped sign, no shape yet.
+It turns the wheel of heaven, the axle of earth,
+weaves the warp and weft of war and peace.
+Open the hand, close the fist.
+Stand alone, walk the round.
+The trigger trips the dark pivot: lightning splits a clear sky.
+The eye holds a violet glow: at noon you see the stars.
+'''
+
+pointer = '''
+Yangshan Huiji was a ninth-century master whose house, the Guiyang line, was known for teaching in drawn circles and silent signs rather than talk. A monk arrives and asks "Can you read?" which is the opening feint: he means nothing about books, he is daring Yangshan into a contest of silent gestures. He spins, sketches shapes, then strikes the pose of Luzhi, the final buddha said to appear in this age, the gesture equivalent of "beat that." Yangshan never takes the bait of escalation; he meets each sign with a quiet one of his own and signs off with "Guard it well," the line a master gives a confirmed heir. The whole match is a full Dharma exchange conducted without a usable sentence in it, which is the joke and the teaching at once.
+'''

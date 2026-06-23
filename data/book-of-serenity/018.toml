@@ -1,0 +1,56 @@
+number = 18
+slug = ""
+title_zh = "趙州狗子"
+title_en = "Zhaozhou's Dog"
+
+intro_zh = '''
+水上葫蘆，按著便轉；日中寶石，色無定形。不可以無心得，不可以有心知。沒量大人，語脈裏轉却。還有免得底麼？
+
+'''
+intro_en = '''
+A gourd on the water: press it and it spins away. A jewel in sunlight: its color keeps no fixed shape. You can't reach it by emptying the mind, and you can't grasp it by thinking. Even a giant of a man gets turned around in the twists of the words. Is there anyone who can slip the trap?
+'''
+
+case_zh = '''
+僧問趙州：「狗子還有佛性也無？」州云：「有。」僧云：「既有，為甚麼却撞入這箇皮袋？」州云：「為他知而故犯。」又有僧問：「狗子還有佛性也無？」州曰：「無。」僧云：「一切眾生皆有佛性，狗子為什麼却無？」州云：「為伊有業識在。」
+
+'''
+case_en = '''
+A monk asked Zhaozhou, "Does a dog have buddha-nature or not?"
+Zhaozhou said, "Yes."
+The monk said, "If it does, why is it stuffed into that bag of skin?"
+Zhaozhou said, "Because it knew, and broke the rule on purpose."
+Another monk asked Zhaozhou, "Does a dog have buddha-nature or not?"
+Zhaozhou said, "No."
+The monk said, "Every living thing has buddha-nature. Why not a dog?"
+Zhaozhou said, "Because it still carries the karma of knowing."
+'''
+
+verse_zh = '''
+狗子佛性有，狗子佛性無，
+直釣元求負命魚。
+逐氣尋香雲水客，
+嘈嘈雜雜作分疎。
+平展演，
+大鋪舒。
+莫怪儂家不慎初，
+指點瑕疵還奪璧。
+秦王不識藺相如。
+
+'''
+verse_en = '''
+The dog has buddha-nature.
+The dog has none.
+A straight hook from the start, fishing for the fish that throws away its life.
+Wandering monks chase the scent on the wind,
+clattering, squabbling, drawing their fine distinctions.
+He lays it all out flat,
+spreads it open wide.
+Don't fault the old man for playing it loose from the start.
+Point out the flaw and he snatches the jade right back:
+the King of Qin never saw who Lin Xiangru was.
+'''
+
+pointer = '''
+The most famous question in Zen, here in its cooler Caodong telling: Zhaozhou (778–897) is asked whether a dog has buddha-nature, the capacity to wake up that doctrine grants every living thing, so the textbook answer is a flat yes. In the Gateless Gate's version (case 1) he just says "Wú," no, and Wumen tells you to chew that one syllable for years until it cracks you. Hongzhi keeps both answers and shows the gears: to one monk yes, because the dog knew better and transgressed anyway; to another no, because it still carries "the karma of knowing." Both reasons sound like reasons and dissolve the moment you lean on them, which is the maneuver, since he will not let buddha-nature harden into a box you tick or a thing you can confirm you own. Watch the pull in yourself to settle which answer is right, and ask what that pulling is.
+'''

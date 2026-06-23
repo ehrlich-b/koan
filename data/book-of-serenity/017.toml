@@ -1,0 +1,48 @@
+number = 17
+slug = ""
+title_zh = "法眼毫釐"
+title_en = "Fayan's Hair's Breadth"
+
+intro_zh = '''
+一雙孤雁，搏地高飛；一對鴛鴦，池邊獨立。箭鋒相拄則且致，鋸解秤錘時如何？
+
+'''
+intro_en = '''
+Two lone geese beat their wings and climb. A pair of mandarin ducks stands apart by the pond. Two arrowheads meeting in midair — set that aside. When you saw a steelyard weight clean in two, then what?
+'''
+
+case_zh = '''
+法眼問脩山主：「毫厘有差，天地懸隔，汝作麼生會？」脩云：「毫厘有差，天地懸隔。」眼云：「恁麼又爭得？」脩云：「某甲只如此，和尚又如何？」眼云：「毫厘有差，天地懸隔。」脩便禮拜。
+
+'''
+case_en = '''
+Fayan asked Master Xiu, "A hair's breadth off, and heaven and earth split apart. How do you understand that?"
+
+Xiu said, "A hair's breadth off, and heaven and earth split apart."
+
+Fayan said, "If that's all you've got, where does it get you?"
+
+Xiu said, "That's how I see it. And you?"
+
+Fayan said, "A hair's breadth off, and heaven and earth split apart."
+
+Xiu bowed.
+'''
+
+verse_zh = '''
+秤頭蠅坐便欹傾，
+萬世權衡照不平。
+斤兩錙銖見端的，
+終歸輸我定盤星。
+
+'''
+verse_en = '''
+A fly settles on the balance beam, and it tips.
+A thousand ages of scales, every reading runs crooked.
+Pounds and ounces, the finest grains, weighed dead-on:
+in the end they all answer to my zero mark.
+'''
+
+pointer = '''
+Fayan is the tenth-century master who founded the last of Chan's five houses, a Five Dynasties figure; "Master Xiu" is a monk he is testing. Fayan opens with a famous line, miss by a hair and heaven and earth split apart, and asks Xiu to explain it. Xiu repeats the line back, word for word. Fayan needles him, parroting is not understanding, and Xiu holds his ground and turns it around: fine, you say it. Fayan says the exact same words, and now Xiu bows. That is the whole case: the identical sentence is dead in Xiu's mouth and alive in Fayan's, and the difference is not in the words. The verse runs on an old steelyard balance, where a fly's weight tips the beam and every scale ever made reads a little crooked, yet the zero mark, the fixed point you calibrate against, is what everything finally answers to.
+'''

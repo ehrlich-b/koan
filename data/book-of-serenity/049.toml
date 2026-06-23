@@ -1,0 +1,54 @@
+number = 49
+slug = ""
+title_zh = "洞山供真"
+title_en = "Dongshan's Memorial Portrait"
+
+intro_zh = '''
+描不成，畫不就，普化便翻斤斗；龍牙只露半身。畢竟那人是何體段？
+
+'''
+intro_en = '''
+No sketch will catch it, no painting hold it. Puhua flips a somersault, Longya shows half a body. So in the end, what does that person look like?
+'''
+
+case_zh = '''
+洞山供養雲巖真次，遂舉前邈真話。有僧問：「雲巖道『祇這是』，意旨如何？」山云：「我當時幾錯會先師意。」僧云：「未審雲巖還知有也無？」山云：「若不知有，爭解恁麼道？若知有，爭肯恁麼道？」
+
+'''
+case_en = '''
+Dongshan was making offerings before a portrait of his late teacher, Yunyan, and as he did he brought up the old story of the portrait.
+
+A monk had once asked Yunyan, "When you said 'Just this is it,' what did you mean?"
+
+Dongshan said, "Back then I nearly mistook my teacher's meaning."
+
+The monk asked, "Did Yunyan know it himself, or not?"
+
+Dongshan said, "If he didn't know it, how could he have said so? And if he did know it, why would he have put it that way?"
+'''
+
+verse_zh = '''
+爭解恁麼道？
+五更鷄唱家林曉。
+爭肯恁麼道？
+千年鶴與雲松老。
+寶鑑澄明驗正偏，
+玉機轉側看兼到。
+門風大振兮規步綿綿，
+父子變通兮聲光浩浩。
+
+'''
+verse_en = '''
+How could he have said so?
+At the fifth watch the rooster crows, the home woods grow light.
+Why would he have put it that way?
+A thousand years, and the crane ages with the cloud-deep pine.
+The precious mirror, clear and bright, tests upright against slanting.
+The jade loom turns and tilts: watch both arrive at once.
+The house style rings out, its measured steps unbroken.
+Father to son the way runs through, sound and radiance vast.
+'''
+
+pointer = '''
+Dongshan founded the Caodong (Sōtō) line this whole book belongs to; Yunyan was the teacher he trained under for years. "Just this is it" was Yunyan's famous one-liner pointing at reality exactly as it stands, nothing added. Years later, making offerings before Yunyan's portrait at a memorial, Dongshan admits he nearly got the line wrong, and then a monk corners him: did the old teacher actually have it? Dongshan's reply is a trap with two jaws. A teacher who's truly awake wouldn't need to spell anything out, yet Yunyan did spell it out, so which is it, knowing or not, and either way he's slightly off. The "precious mirror" and the father-to-son lines nod to Dongshan's own teaching, where the upright absolute and the slanting everyday keep folding into one another. Yunyan's hands and eyes get this same treatment a few cases on (54), where a right answer still lands one step outside the thing.
+'''

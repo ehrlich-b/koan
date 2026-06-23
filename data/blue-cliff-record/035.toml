@@ -1,0 +1,47 @@
+number = 35
+slug = ""
+title_zh = ""
+title_en = "Manjushri's Three by Three"
+
+intro_zh = '''
+定龍蛇，分玉石，別緇素，決猶豫，若不是頂門上有眼，肘臂下有符，往往當頭蹉過。只如今見聞不昧，聲色純真，且道是皂是白？是曲是直？到這裏作麼生辨？
+
+'''
+intro_en = '''
+Telling a dragon from a snake, jade from rock, a monk from a layman, settling doubt on the spot: without an eye in your forehead and a talisman up your sleeve, you'll miss it as it passes right by your face. Right now seeing and hearing are clear, sound and color nothing but real. So tell me: black or white? Crooked or straight? Standing here, how do you tell them apart?
+'''
+
+case_zh = '''
+文殊問無著：「近離什麼處？」無著云：「南方。」殊云：「南方佛法如何住持？」著云：「末法比丘，少奉戒律。」殊云：「多少眾？」著云：「或三百，或五百。」無著問文殊：「此間如何住持？」殊云：「凡聖同居，龍蛇混雜。」著云：「多少眾？」殊云：「前三三，後三三。」
+
+'''
+case_en = '''
+Manjushri asked Wuzhuo, "Where have you just come from?"
+Wuzhuo said, "The South."
+Manjushri said, "How is the Buddha's teaching faring down South?"
+Wuzhuo said, "In this declining age the monks barely keep the rules."
+Manjushri said, "How big are the communities?"
+Wuzhuo said, "Some three hundred, some five hundred."
+Then Wuzhuo asked Manjushri, "And how do things stand here?"
+Manjushri said, "Ordinary and holy live together, dragons and snakes all mixed in."
+Wuzhuo said, "How big is the community?"
+Manjushri said, "Three by three in front, three by three behind."
+'''
+
+verse_zh = '''
+千峯盤屈色如藍，
+誰謂文殊是對談。
+堪笑清涼多少眾，
+前三三與後三三。
+
+'''
+verse_en = '''
+A thousand peaks twist away, blue as indigo.
+Who would have guessed it was Manjushri talking?
+You have to laugh: Mount Qingliang, how many monks?
+Three by three in front, three by three behind.
+'''
+
+pointer = '''
+Manjushri is the bodhisattva of wisdom, said to dwell on Mount Qingliang (Wutai). Wuzhuo was a real monk who made the pilgrimage there and, the story goes, met Manjushri face to face without knowing it. The small talk is the trap. Wuzhuo has just given crisp numbers for the South, three hundred here, five hundred there, all very countable, all in an age he calls declining. When he turns the same question around, Manjushri answers "three by three in front, three by three behind," and the question of how many simply dissolves in his hands. The figures you can tally belong to one order of reality; what Manjushri is running cannot be added up. So don't reach for the arithmetic.
+'''

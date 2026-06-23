@@ -1,0 +1,66 @@
+number = 4
+slug = ""
+title_zh = ""
+title_en = "Deshan Walks Through Guishan's Hall"
+
+intro_zh = '''
+青天白日，不可更指東劃西。時節因緣，亦須應病與藥。且道：放行好，把定好？試舉看。
+
+'''
+intro_en = '''
+Clear sky, broad daylight: no need to point east and gesture west. But the moment makes its demands, and the medicine has to match the disease. So tell me, is it better to let go or better to hold the line? Here's a case to test it.
+'''
+
+case_zh = '''
+德山到溈山，挾複子於法堂上，從東過西，從西過東，顧視云：「無，無。」便出。雪竇著語云：「勘破了也。」德山至門首，却云：「也不得草草。」便具威儀，再入相見。溈山坐次，德山提起坐具云：「和尚。」溈山擬取拂子，德山便喝，拂袖而出。雪竇著語云：「勘破了也。」德山背却法堂，著草鞋便行。溈山至晚，問首座：「適來新到在什麼處？」首座云：「當時背却法堂，著草鞋出去也。」溈山云：「此子已後，向孤峯頂上盤結草庵，呵佛罵祖去在。」雪竇著語云：「雪上加霜。」
+
+'''
+case_en = '''
+Deshan came to Guishan's place. With his bundle under his arm he walked into the Dharma hall, crossed from east to west, back from west to east, looked around, and said, "Nothing. Nothing." Then he walked out.
+
+(Xuedou comments: "Seen through.")
+
+At the gate Deshan stopped. "Still, I shouldn't be so sloppy about it." So he drew himself up, put on his proper manner, and went back in for a real meeting.
+
+Guishan was sitting. Deshan held up his sitting cloth: "Master—" Guishan reached for his whisk. Deshan let out a shout, shook out his sleeves, and left.
+
+(Xuedou comments: "Seen through.")
+
+Deshan turned his back on the Dharma hall, put on his straw sandals, and walked off.
+
+That evening Guishan asked the head monk, "That newcomer from earlier, where is he now?"
+
+The head monk said, "Right then he turned his back on the hall, put on his straw sandals, and went."
+
+Guishan said, "Someday that one will build himself a grass hut on a lonely peak and sit there cursing the buddhas and damning the ancestors."
+
+(Xuedou comments: "Piling frost on snow.")
+'''
+
+verse_zh = '''
+一勘破，
+二勘破，
+雪上加霜曾嶮墮。
+飛騎將軍入虜庭，
+再得完全能幾箇？
+急走過，
+不放過，
+孤峯頂上草裏坐。
+咄！
+
+'''
+verse_en = '''
+Seen through once.
+Seen through twice.
+Pile frost on snow and you nearly take the fall.
+The cavalry general charges the enemy camp:
+how many ride back out whole?
+He bolts away fast.
+He won't be let off.
+On the lonely peak, sitting in the weeds.
+Bah!
+'''
+
+pointer = '''
+Deshan was a ferocious teacher, the shouting and hitting kind, but here he is the visitor sizing up Guishan's monastery. He literally paces the main hall, announces "Nothing here," and walks out, which is a brag that he is already past anything this place could teach. Then doubt catches him at the gate, he reenters to do it "properly," and bolts again the instant Guishan reaches for his whisk, the horsehair fly-swatter a master carries as a badge of office and lifts when he is about to make his move. The comedy is that no clear winner emerges; Xuedou keeps muttering "seen through," but seen through by whom is left dangling. Guishan's closing line, that Deshan will end up on a lonely peak cursing the buddhas and damning the ancestors, sounds like an insult and lands as the highest praise these masters knew how to give. The final "Bah!" spits on the whole performance, which around here is also applause. The lonely peak shows up again as the hermit's home in case 25.
+'''

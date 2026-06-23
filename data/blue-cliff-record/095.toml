@@ -1,0 +1,52 @@
+number = 95
+slug = ""
+title_zh = ""
+title_en = ""
+
+intro_zh = '''
+有佛處不得住，住著頭角生；無佛處急走過，不走過，草深一丈。直饒淨裸裸，赤灑灑，事外無機，機外無事，未免守株待兔。且道：總不恁麼，作麼生行履？試舉看。
+
+'''
+intro_en = '''
+Where there's a Buddha, don't stay; stay and you sprout horns. Where there's no Buddha, hurry past; linger, and the weeds close over your head. Say you stand clean and bare, nothing to grab, no gimmick behind the act and no act behind the gimmick: you're still just sitting by the stump, waiting for another rabbit to run into it. Now tell me, when none of that will do, how do you walk it out? Let's look.
+'''
+
+case_zh = '''
+長慶有時云：「寧說阿羅漢有三毒，不說如來有二種語。不道如來無語，只是無二種語。」保福云：「作麼生是如來語？」慶云：「聾人爭得聞。」保福云：「情知爾向第二頭道。」慶云：「作麼生是如來語？」保福云：「喫茶去。」
+
+'''
+case_en = '''
+Changqing once said, "I'd sooner say an arhat still has the three poisons than say the Buddha speaks two ways. I'm not saying the Buddha has nothing to say. I'm saying he doesn't say it two ways."
+
+Baofu said, "Then what is the Buddha's way of saying it?"
+
+Changqing said, "A deaf man. How's he going to hear it?"
+
+Baofu said, "I knew it. You're talking from the second level."
+
+Changqing said, "So what is the Buddha's way of saying it?"
+
+Baofu said, "Go drink your tea."
+'''
+
+verse_zh = '''
+頭兮第一第二，
+臥龍不鑒止水。
+無處有月波澄，
+有處無風浪起。
+稜禪客，稜禪客，
+三月禹門遭點額。
+
+'''
+verse_en = '''
+First level, second level.
+The sleeping dragon won't peer into still water.
+Where there's no moon, the waves run clear;
+where there is, the wind kicks up the swells.
+Leng the monk, Leng the monk:
+spring at the Yu Gate, and you take the mark on the brow.
+'''
+
+pointer = '''
+Changqing and Baofu studied under the same teacher, Xuefeng, so this is two Zen brothers sparring. The "three poisons" of greed, hatred, and delusion are the basic human muck a fully awakened arhat is supposed to be done with, so saying an arhat still carries them is a real insult, and Changqing says he would sooner eat that than claim the Buddha speaks two ways, that the truth shifts depending on who is asking. Baofu pushes: all right, then what is the Buddha's one true way of speaking? Every answer Changqing reaches for is a trap, because the moment he points and says that's it, he has made the truth one more thing and split it into a "first level" and a "second level," the exact two-ways problem he just swore off. Baofu's "you're talking from the second level" is the catch, and "go drink your tea" is the genuine answer: quit hunting for the secret official version and do the plain thing in front of you. The verse ends with a carp at the Dragon Gate, where one that clears the falls turns into a dragon and one that flubs the leap takes a bonk on the brow, a wry nudge that even sharp Changqing did not quite clear it.
+'''

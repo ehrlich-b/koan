@@ -1,0 +1,37 @@
+number = 33
+slug = "neither-mind-nor-buddha"
+title_zh = "非心非佛"
+title_en = "Neither Mind Nor Buddha"
+title_pinyin = ""
+
+case_zh = '''
+馬祖因僧問。如何是佛。祖曰。非心非佛。
+'''
+case_en = '''
+A monk asked Mazu, "What is Buddha?"
+Mazu said, "Not mind, not Buddha."
+'''
+
+commentary_zh = '''
+若向者裏見得。參學事畢。
+'''
+commentary_en = '''
+If you can see into this, your training is finished.
+'''
+
+verse_zh = '''
+路逢劍客須呈
+不遇詩人莫獻
+逢人且說三分
+未可全施一片
+'''
+verse_en = '''
+Meet a swordsman on the road, show him your blade.
+Spare a poem for no one but a poet.
+Tell a man a third and stop.
+Never hand over the whole of it.
+'''
+
+pointer = '''
+Same master, same question as case 30, opposite answer. Earlier Mazu told someone "this very mind is Buddha," and the line hardened into a slogan monks parroted without living. So when the question comes again here, he flips it: not mind, not Buddha. He is not contradicting himself or having second thoughts; he is yanking back the formula before it can calcify into a doctrine you feel safe holding. Any answer you clutch becomes the next wall, and "mind is Buddha," once it sets into a belief, is already wrong. Read 30 and 33 as a single move with a delay built in. The verse is about fitting the response to the moment, showing your blade only to a swordsman, never dumping the whole thing in anyone's lap, which is also why Mazu refuses to leave his first answer standing as a keepsake.
+'''
