@@ -1,7 +1,7 @@
 number = 93
 slug = ""
 title_zh = "魯祖不會"
-title_en = "Lujing Doesn't Get It"
+title_en = "Luzu Doesn't Get It"
 
 intro_zh = '''
 荊珍抵鵲，老鼠□金。不識其寶，不得其用。還有頓省衣珠底麼？
@@ -16,19 +16,19 @@ case_zh = '''
 
 '''
 case_en = '''
-Lujing asked Nanquan, "The mani jewel is the thing no one recognizes, yet here in the womb of the Buddha you can take hold of it directly. What is that womb?"
+Luzu asked Nanquan, "The mani jewel is the thing no one recognizes, yet here in the womb of the Buddha you can take hold of it directly. What is that womb?"
 
 Nanquan said, "It's me, coming and going with you."
 
-Lujing said, "And what does not come and go?"
+Luzu said, "And what does not come and go?"
 
 Nanquan said, "That too is the womb."
 
-Lujing said, "Then what is the jewel?"
+Luzu said, "Then what is the jewel?"
 
-Nanquan called out, "Lujing!"
+Nanquan called out, "Luzu!"
 
-Lujing answered, "Yes?"
+Luzu answered, "Yes?"
 
 Nanquan said, "Get out. You don't understand a word I say."
 '''
@@ -56,5 +56,5 @@ the clear-eyed monk is never clumsy.
 '''
 
 pointer = '''
-Lujing and Nanquan are Tang-dynasty Chan teachers. The "mani jewel" is a wish-granting gem from Buddhist lore, standing here for your own buddha-nature, the thing you already carry but keep failing to notice. The "womb of the Buddha" (tathagatagarbha) is the teaching that this nature is stowed inside everyone, treasure in a junk heap. Lujing keeps trying to corner the jewel as an object he can point at and define: what is the womb, what comes and goes, what doesn't. Nanquan plays along until the last beat, when he simply barks Lujing's name; Lujing answers "yes" on reflex, and that immediate live response is the jewel. Lujing misses it, still scanning for a thing to hold, so Nanquan throws him out. The setup is close kin to Nanquan's peony (case 91): the marvel is the thing right in front of you, not the doctrine you can recite about it.
+Luzu and Nanquan are Tang-dynasty Chan teachers. The "mani jewel" is a wish-granting gem from Buddhist lore, standing here for your own buddha-nature, the thing you already carry but keep failing to notice. The "womb of the Buddha" (tathagatagarbha) is the teaching that this nature is stowed inside everyone, treasure in a junk heap. Luzu keeps trying to corner the jewel as an object he can point at and define: what is the womb, what comes and goes, what doesn't. Nanquan plays along until the last beat, when he simply barks Luzu's name; Luzu answers "yes" on reflex, and that immediate live response is the jewel. Luzu misses it, still scanning for a thing to hold, so Nanquan throws him out. The setup is close kin to Nanquan's peony (case 91): the marvel is the thing right in front of you, not the doctrine you can recite about it.
 '''
