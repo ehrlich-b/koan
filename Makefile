@@ -1,7 +1,11 @@
-.PHONY: build serve clean reseed deploy
+.PHONY: build serve clean reseed lint deploy
 
-# Generate the static site into dist/
-build:
+# Lint the data tree so malformed TOML never reaches the build
+lint:
+	python3 scripts/lint_data.py
+
+# Generate the static site into dist/ (data must lint clean first)
+build: lint
 	python3 build.py
 
 # Build, then serve locally
