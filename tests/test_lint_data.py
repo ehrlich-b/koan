@@ -25,6 +25,8 @@ FIXTURE_RULES = {
     "number_unique": {"number_unique"},
     "slug_unique": {"slug_unique"},
     "slug_matches_filename": {"slug_matches_filename"},
+    "slug_matches_filename_collection_dir": {"slug_matches_filename"},
+    "slug_matches_filename_case_slug": {"slug_matches_filename"},
 }
 
 VIOLATION_LINE = re.compile(r"^.+: (\w+): .+$")
