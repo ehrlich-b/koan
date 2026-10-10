@@ -1,0 +1,5 @@
+slug = "not-gg"
+title_en = "A Collection Whose Slug Mismatches Its Directory"
+title_zh = "測試"
+compiler = "test fixture"
+date = "fixture"

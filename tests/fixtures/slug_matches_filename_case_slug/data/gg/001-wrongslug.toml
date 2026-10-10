@@ -1,0 +1,3 @@
+number = 1
+slug = "rightslug"
+case_zh = "the filename slug 'wrongslug' does not match the slug field"

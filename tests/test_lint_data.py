@@ -21,10 +21,13 @@ DATA = os.path.join(REPO, "data")
 FIXTURE_RULES = {
     "parse_error": {"parse_error"},
     "missing_required": {"missing_required"},
+    "missing_required_collection": {"missing_required"},
     "empty_case_zh": {"empty_case_zh"},
     "number_unique": {"number_unique"},
     "slug_unique": {"slug_unique"},
     "slug_matches_filename": {"slug_matches_filename"},
+    "slug_matches_filename_collection_dir": {"slug_matches_filename"},
+    "slug_matches_filename_case_slug": {"slug_matches_filename"},
 }
 
 VIOLATION_LINE = re.compile(r"^.+: (\w+): .+$")
@@ -57,6 +60,13 @@ class TestNegativeFixtures(unittest.TestCase):
                 fired = rules_fired(proc.stdout)
                 self.assertEqual(fired, expected,
                                  f"{name} fired {sorted(fired)}; expected only {sorted(expected)}")
+
+    def test_missing_required_collection_reports_each_missing_key(self):
+        root = os.path.join(FIXTURES, "missing_required_collection", "data")
+        proc = run_linter(root)
+        self.assertNotEqual(proc.returncode, 0)
+        for key in ("compiler", "date"):
+            self.assertIn(f"missing required key '{key}'", proc.stdout)
 
 
 class TestPositiveGate(unittest.TestCase):

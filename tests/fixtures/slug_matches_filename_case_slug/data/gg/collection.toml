@@ -1,0 +1,5 @@
+slug = "gg"
+title_en = "A Collection Whose Case Filename Slug Mismatches Its Slug Field"
+title_zh = "測試"
+compiler = "test fixture"
+date = "fixture"
