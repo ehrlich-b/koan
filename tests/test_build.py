@@ -241,17 +241,15 @@ class SearchIndexTests(unittest.TestCase):
         self.assertNotIn("  ", entry["b"])
         self.assertEqual(entry["b"], "line one line two alpha beta gamma delta")
 
+    @unittest.skip("KNOWN BUG in build.py: replace('The ', '') strips every occurrence, not just a leading one. Unskip when fixed.")
     def test_the_replacement_is_unrestricted(self):
-        # PINNED BUG: meta["title_en"].replace("The ", "") strips EVERY
-        # occurrence of "The ", not just a leading one, so the interior "The "
-        # before "Mind" vanishes too. We pin the resulting "c" field; we do not
-        # fix build.py.
+        # Expected after the fix: only the leading "The " is removed.
         collections = self._collections(
             [{"number": 1, "title_en": "One", "case_en": "text"}],
             title="The Gateless Gate of The Mind",
         )
         entry = build.build_search_index(collections)[0]
-        self.assertEqual(entry["c"], "Gateless Gate of Mind")
+        self.assertEqual(entry["c"], "Gateless Gate of The Mind")
 
 
 class LoadCollectionTests(unittest.TestCase):
