@@ -8,7 +8,7 @@ intro_zh = '''
 
 '''
 intro_en = '''
-Snatch the flag, seize the drums: a thousand sages can't run him down. Cut off every tangle and trap, and not one working of the mind can reach him. This is no magic power. Nor is it the pure original nature. So tell me, what is he leaning on to pull off something this strange?
+Snatch the flag, seize the drums: a thousand sages can't get to the bottom of it. Cut off every tangle and trap, and not one of ten thousand moves can reach him. This is no magic power. Nor is it merely how things are by nature. So tell me, what is he leaning on to pull off something this strange?
 '''
 
 case_zh = '''
@@ -16,19 +16,19 @@ case_zh = '''
 
 '''
 case_en = '''
-A monk asked Yaoshan, "Out on the flat grasslands, the deer run in herds. How do you shoot the king of them, the deer among deer?"
+A monk asked Yaoshan, "On flat ground with short grass, the deer run in herds. How do you shoot their leader, the deer among deer?"
 
 Yaoshan said, "Watch the arrow!"
 
-The monk dropped to the ground, playing dead.
+The monk threw himself to the ground.
 
 Yaoshan said, "Attendant, drag this corpse out of here."
 
 The monk took off running.
 
-Yaoshan said, "This fellow, playing in the mud. Where does it end?"
+Yaoshan said, "There's no end to fellows who play with lumps of mud."
 
-Xuedou remarked, "Alive for three steps, maybe, but dead by five." [Yaoshan stares, mouth open.]
+Xuedou remarked, "Alive for three steps, dead by five."
 '''
 
 verse_zh = '''
@@ -49,10 +49,10 @@ take a good look.
 One arrow flies,
 he runs three steps.
 Live past five
-and he'll round up the herd to chase down tigers.
-But the true eye has always belonged to the hunter.
+and the herd will band together and chase tigers.
+The discerning eye has always belonged to the hunter.
 Xuedou shouts:
-Watch the arrow!
+"Watch the arrow!"
 '''
 
 pointer = '''

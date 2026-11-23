@@ -1,7 +1,7 @@
 number = 79
 slug = ""
 title_zh = ""
-title_en = "Touzi's \"Everything Is the Buddha's Voice\""
+title_en = "Touzi and the Buddha's Voice"
 
 intro_zh = '''
 大用現前，不存軌則，活捉生擒，不勞餘力。且道是什麼人，曾恁麼來？試舉看。
@@ -20,11 +20,11 @@ A monk asked Touzi, "Is every sound the voice of the Buddha?"
 
 Touzi said, "It is."
 
-The monk said, "Then quit rattling on like a pot boiling over, Master."
+The monk said, "Then don't make a noise like a fart in a bowl, Master."
 
 Touzi hit him.
 
-The monk tried again. "Coarse words, fine words, all of it comes back to the one ultimate truth. Right?"
+The monk tried again. "Coarse words and fine words all come back to the ultimate truth. Is that so?"
 
 Touzi said, "Right."
 
@@ -45,17 +45,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-Touzi! Touzi!
-The gears turn, never catching.
-Hand him one, he hands back two,
-the same here, the same there.
-Pity the endless surfers riding the swells,
-who fall in at last and drown.
+Touzi, Touzi!
+His gears turn without a hitch.
+Let go of one, get two.
+The same there as here.
+Pity all those who play in the tide:
+in the end they fall into it and drown.
 Then, all at once, alive!
-A hundred rivers run backward, roaring,
-roaring.
+A hundred rivers run backward, roaring, roaring.
 '''
 
 pointer = '''
-Touzi (819–914) was a Tang master known for short, deadpan replies. The monk thinks he has rigged a trap: if Touzi agrees that every sound is the Buddha's voice, then Touzi's own chatter is hot air, and even calling him a jackass should count as holy speech. It is the oldest move in the book, turning the teacher's premise against him to win the point. Touzi does not argue, he just hits the kid both times, because the monk is running a tidy syllogism while completely missing the thing he is quoting. The doctrine was never an argument to be won; it was an invitation to actually hear, which the monk is too busy scoring to do. The verse cheers Touzi as a machine whose gears never jam and mocks the clever surfers who ride these slick paradoxes right up until the wave drowns them.
+Touzi (819–914) was a Tang master known for short, deadpan replies. The monk thinks he has rigged a trap: if Touzi agrees that every sound is the Buddha's voice, then even the sound of a fart in a bowl should count. And if coarse words come back to the ultimate truth, so does calling him a jackass. It is the oldest move in the book, turning the teacher's premise against him to win the point. Touzi does not argue. He just hits the kid both times. The verse cheers Touzi as a machine whose gears never jam and mocks the clever surfers who ride these slick paradoxes right up until the wave drowns them.
 '''

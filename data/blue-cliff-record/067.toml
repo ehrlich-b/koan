@@ -1,7 +1,7 @@
 number = 67
 slug = ""
 title_zh = ""
-title_en = "Fu Dashi Expounds the Sutra"
+title_en = "Fu Dashi's Diamond Sutra"
 
 intro_zh = '''
 '''
@@ -13,11 +13,11 @@ case_zh = '''
 
 '''
 case_en = '''
-Emperor Wu of Liang asked Fu Dashi to expound the Diamond Sutra. Fu Dashi climbed onto the seat, rapped the desk once, and stepped down. The emperor sat there stunned. Master Zhi asked him, "Did you get it, Your Majesty?"
+Emperor Wu of Liang asked Fu Dashi to expound the Diamond Sutra. From the teaching seat, Fu Dashi struck the desk once and stepped down. The emperor was stunned. Zhigong asked him, "Did you get it, Your Majesty?"
 
 The emperor said, "No."
 
-Master Zhi said, "Fu Dashi is done expounding the sutra."
+Zhigong said, "Fu Dashi has finished expounding the sutra."
 '''
 
 verse_zh = '''
@@ -28,12 +28,12 @@ verse_zh = '''
 
 '''
 verse_en = '''
-He didn't keep to Twin Forests and stay put;
-he came to Liang instead and kicked up dust.
-Had Old Master Zhi not been on hand that day,
-he'd be one more restless soul run out of the land.
+He could have stayed at Twin Forests,
+but came to Liang and kicked up dust.
+Had old Zhigong been absent that day,
+he too would have left the capital in dismay.
 '''
 
 pointer = '''
-Emperor Wu of Liang was a devout Buddhist ruler who loved having famous teachers lecture him, the same emperor Bodhidharma stonewalls back in case 1. Fu Dashi was a celebrated lay master, and Twin Forests is where he lived. The Diamond Sutra hammers on one theme: grasping at words and forms misses the point. So when Fu is asked to expound it, he climbs up, raps the desk once, and walks off, and that thump is the entire sermon. The emperor doesn't catch it; Master Zhi, standing by, has to announce that the lecture is already over. The verse ribs Fu a little, that by coming to court to perform a no-teaching he muddied his own hands, and only Zhi's quick save kept him from looking like a fraud who got run out of town. The teaching is real, the joke is that it needed a second man to point out that nothing was the point.
+Emperor Wu of Liang was a devout Buddhist ruler who loved having famous teachers lecture him, the same emperor Bodhidharma stonewalls back in case 1. Fu Dashi was a celebrated lay master, and Twin Forests is where he lived. The Diamond Sutra hammers on one theme: grasping at words and forms misses the point. So when Fu is asked to expound it, he raps the desk once and steps down from the teaching seat, and that thump is the entire sermon. The emperor doesn't catch it; Zhigong, standing by, has to announce that the lecture is already over. The verse ribs Fu a little, that by coming to court to perform a no-teaching he muddied his own hands, and only Zhigong's quick save kept him from looking like a fraud who got run out of town.
 '''
