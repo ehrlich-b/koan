@@ -8,11 +8,11 @@ case_zh = '''
 趙州因僧問。某甲乍入叢林。乞師指示。州云。喫粥了也未。僧云。喫粥了也。州云。洗缽盂去。其僧有省。
 '''
 case_en = '''
-A monk said to Zhaozhou, "I've just entered the monastery. Please, teach me something."
-Zhaozhou said, "Have you eaten your rice?"
-The monk said, "Yes, I've eaten."
+A monk said to Zhaozhou, "I've just joined the monastery. Please, teach me something."
+Zhaozhou asked, "Have you had your rice porridge?"
+The monk said, "Yes, I've had it."
 Zhaozhou said, "Then go wash your bowl."
-The monk got it.
+The monk saw something.
 '''
 
 commentary_zh = '''
@@ -30,11 +30,11 @@ verse_zh = '''
 '''
 verse_en = '''
 Just because it was so plain,
-the getting came so slow.
-Had he known the lamp was fire,
+it took so long to see.
+Had he known sooner that the lamp was fire,
 his rice would have cooked long ago.
 '''
 
 pointer = '''
-Zhaozhou is one of the great Chan masters, prized for answers so plain they slide right past you. A brand-new monk turns up starving for a secret teaching, the special key that unlocks everything; Zhaozhou asks whether he's eaten his rice, then tells him to go wash his bowl. It lands two ways at once: a curt brush-off (you want the dharma, kid? go do your dishes) or the only answer there is, handed over so plainly the monk nearly walks past it. He doesn't, something catches, and the case calls that getting it. This is the homely "nothing special" face of Zen that also runs through "ordinary mind is the Way" (19), and the verse ribs the monk for taking so long, like a man hunting for fire with a lit lamp in his hand. So what did he hear in "wash your bowl" that wasn't already in the question he walked in with?
+Zhaozhou is one of the great Chan masters, prized for answers so plain they slide right past you. A brand-new monk turns up starving for a secret teaching, the special key that unlocks everything; Zhaozhou asks whether he's eaten his rice porridge, then tells him to go wash his bowl. It lands two ways at once: a curt brush-off (you want the dharma, kid? go do your dishes) or an answer handed over so plainly the monk nearly walks past it. The case says the monk saw something, but Wumen says he heard a bell and called it a pot. This is the homely "nothing special" face of Zen that also runs through "ordinary mind is the Way" (19), and the verse ribs the monk for taking so long, like a man hunting for fire with a lit lamp in his hand. So what did he hear in "wash your bowl" that wasn't already in the question he walked in with?
 '''

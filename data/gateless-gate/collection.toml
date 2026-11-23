@@ -18,22 +18,22 @@ label_commentary_zh = "無門曰"
 label_verse_zh = "頌曰"
 
 intro_en = '''
-The Gateless Gate (Chinese: Wúménguān; Japanese: Mumonkan) is a collection of forty-eight kōan assembled by the Chan master Wumen Huikai in 1228. Each case pairs a brief encounter — a question, a gesture, an exchange between master and student — with Wumen's own prose comment and a closing verse. They are deliberately not arranged by theme or difficulty.
+The Gateless Gate (Chinese Wúménguān, Japanese Mumonkan) is a collection of forty-eight kōan assembled by the Chan master Wumen Huikai in 1228. Each case has Wumen's own prose comment and a verse. In his preface he says that the collection grew out of his work with students.
 
-A kōan is not a riddle with a hidden answer; it is a barrier set across the path of the thinking mind. This edition gives the original Chinese, a fresh English translation released into the public domain, and a short pointer for each case — not an explanation (explaining a kōan ruins it) but a foothold: the context a monk in Wumen's hall already had and you probably don't.
+A kōan is a case from the Chan tradition taken up in teaching and practice. It might be a question, a gesture, an exchange, or an old story. This edition pairs the Chinese original with an English translation and adds a short pointer to bring a name, an allusion, or a snag in the language within reach.
 
-The original text is public domain. The translations and pointers are released under CC0.
+The original text is in the public domain. The translations and pointers are released under CC0.
 '''
 
 preface_zh = '''
 佛語心為宗。無門為法門。既是無門。且作麼生透。豈不見道。從門入者。不是家珍。從緣得者。始終成壞。恁麼說話。大似無風起浪好肉剜瘡。何況滯言句。覓解會。掉棒打月。隔靴爬痒。有甚交涉。慧開紹定戊子夏。首眾于東嘉龍翔。因衲子請益。遂將古人公案。作敲門瓦子。隨機引導學者。竟爾抄錄。不覺成集。初不以前後敘列。共成四十八則。通曰無門關。若是箇漢不顧危亡。單刀直入。八臂那吒攔他不住。縱使西天四七。東土二三。只得望風乞命。設或躊躇。也似隔窗看馬騎。貶得眼來。早已蹉過。
 '''
 preface_en = '''
-The Buddha made Mind the source, and gatelessness the gate of the Dharma. But if it is gateless, how do you pass through? Haven't you heard it said: "What comes in through a gate is not the family treasure; what is got by way of circumstances has a beginning and an end." Talk like that is raising waves where there is no wind, cutting a sore into healthy flesh — and clinging to words and phrases, hunting for understanding, is worse still: swinging a stick at the moon, scratching an itch through your boot. What has any of it to do with the thing itself?
+The Buddha's words take mind as their central teaching and gatelessness as the gate of the Dharma. If there's no gate, how do you get through? Haven't you heard the saying, "What comes in through the gate is no family treasure. What you gain through conditions comes into being and falls apart." Talk like that raises waves when there is no wind and gouges sores in healthy flesh. Worse still is getting stuck on words and phrases and hunting for an explanation. You might as well swing a stick at the moon or scratch an itch through your boot. What could any of that get you?
 
-In the summer of 1228 I, Huikai, was head monk at Longxiang in Dongjia. The monks asked for instruction, so I took the old masters' kōan as bricks to knock at the gate, guiding each student according to his capacity. I simply wrote them down, and before I knew it they had become a collection. I never put them in any order; in all there are forty-eight cases, and the whole goes by the name The Gateless Barrier.
+In the summer of 1228 I, Huikai, led the monks at Longxiang in Dongjia. They asked for guidance, so I used the cases of the old masters as tiles to knock at the gate, guiding each student as the occasion called for. I ended up writing them down, and without realizing it I'd made a collection. I didn't put them in chronological order. There are forty-eight cases in all, and I call the whole thing The Gateless Barrier.
 
-If you are the sort who throws caution to the wind and plunges straight in, sword in hand, not even eight-armed Nezha [a fierce guardian-deity] could block your way — and the twenty-eight ancestors of the Western Heaven and the six of this Eastern Land would have to beg for their lives at the sight of you. But hesitate, and it is like watching a rider pass behind a window: one blink and he is already gone.
+If you're the sort to plunge straight in, sword in hand, without a thought for life or limb, even eight-armed Nezha couldn't stop you. The twenty-eight ancestors of India and the six of China would beg for their lives at the first sign of you. But hesitate, and it's like watching a rider pass behind a window: one blink and he's already gone.
 '''
 
 opening_verse_zh = '''
@@ -43,8 +43,8 @@ opening_verse_zh = '''
 乾坤獨步
 '''
 opening_verse_en = '''
-The Great Way has no gate;
-a thousand roads approach it.
-Pass through this barrier once
+The Great Way has no gate.
+There are a thousand different paths.
+Break through this barrier
 and you walk the whole universe alone.
 '''
