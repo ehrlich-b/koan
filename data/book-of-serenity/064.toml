@@ -16,33 +16,33 @@ case_zh = '''
 
 '''
 case_en = '''
-Zizhao, the head monk, asked Fayan, "When you opened your hall, whose heir did you become?"
+Zizhao, the head monk, asked Fayan, "When you opened your hall, whose lineage did you inherit?"
 
 Fayan said, "Dizang's."
 
-Zizhao said, "Then you've betrayed your old teacher Changqing."
+Zizhao said, "You've let our old teacher Changqing down badly."
 
 Fayan said, "There's a turning word of Changqing's I can't make out."
 
-Zizhao said, "Why not ask it?"
+Zizhao said, "Why not ask me?"
 
-Fayan said, "'In the midst of all things, the single body stands revealed.' What does that mean?"
+Fayan said, "'Amid all things, the body alone stands revealed.' What does that mean?"
 
 Zizhao held up his whisk.
 
-Fayan said, "That you learned from Changqing. What's your own answer?"
+Fayan said, "That's what you learned from Changqing. What about you?"
 
 Zizhao said nothing.
 
-Fayan said, "Take that line, 'in the midst of all things, the single body stands revealed.' Does it sweep all things away, or not?"
+Fayan said, "Take that phrase, 'Amid all things, the body alone stands revealed.' Does it sweep all things away or not?"
 
 Zizhao said, "It doesn't sweep them away."
 
-Fayan said, "Now there are two of you."
+Fayan said, "That's two."
 
-The attendants on both sides said, "It sweeps all things away."
+The monks at either side all said, "It sweeps all things away."
 
-Fayan said, "'In the midst of all things, the single body stands revealed.' Well?"
+Fayan said, "'Amid all things, the body alone stands revealed.' Well?"
 '''
 
 verse_zh = '''
@@ -60,17 +60,17 @@ verse_zh = '''
 '''
 verse_en = '''
 Drop every thought, and there's the Buddha.
-Crack the dust open, and out comes the sutra.
+Crack open a speck of dust and out comes a sutra.
 The family rule is right here, ready-made.
-So who is it setting up a gate?
+Who's setting up a gate and courtyard?
 The moon rides with the boat, the river a strip of clean silk.
-Spring follows the grass, last year's burn scar going green.
-Sweep, don't sweep:
-listen close to the warning.
+Spring comes with the grass, green over the burn scar.
+Sweep, don't sweep,
+listen close to what's being said.
 The three paths have gone to weeds, but you can still go home,
 where the old pines and chrysanthemums are fragrant as ever.
 '''
 
 pointer = '''
-This is an inside-baseball fight about lineage. In Chan, who your teacher was is your entire pedigree, and Fayan, the great Five Dynasties master, openly says he's the heir of Dizang, not of Changqing, the teacher Zizhao expected. Zizhao is scandalized, you betrayed your old master, so Fayan baits him with one of Changqing's signature lines, "in the midst of all things, the single body stands revealed," roughly: the true self shows up plainly in everything around you. Then comes the trap. Does seeing that self mean you wipe out the world of "all things," or leave it standing? Zizhao picks "leave it," the attendants pick "wipe it out," and Fayan just throws the line back at the whole room, because the second you turn it into a doctrine you can defend, you've already missed it. Picking the right side was never the game; the answer can't be a position at all.
+This is an inside-baseball fight about lineage. In Chan, who your teacher was is your entire pedigree, and Fayan, the great Five Dynasties master, openly says he's the heir of Dizang, not of Changqing, the teacher he and Zizhao had both studied with. Zizhao is scandalized, you let our old master down, so Fayan baits him with one of Changqing's signature lines, "amid all things, the body alone stands revealed." Then comes the trap. Does that line wipe out the world of "all things," or leave it standing? Zizhao picks "leave it," the attendants pick "wipe it out," and Fayan just throws the line back at the whole room.
 '''

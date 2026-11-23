@@ -16,17 +16,17 @@ case_zh = '''
 
 '''
 case_en = '''
-A monk asked Qinglin, "What about heading straight down the road?"
-Qinglin said, "There's a dead snake across the main road. Better not step on it."
-The monk said, "And if I do?"
+A monk asked Qinglin, "What if I go straight ahead?"
+Qinglin said, "There's a dead snake across the main road. Better not meet it head-on."
+The monk said, "And if I meet it head-on?"
 Qinglin said, "It'll take your life."
 The monk said, "And if I don't?"
 Qinglin said, "Then there's nowhere left to dodge it."
 The monk said, "And right at that moment?"
 Qinglin said, "You've already lost it."
 The monk said, "Where did it go?"
-Qinglin said, "The grass is too deep to look."
-The monk said, "Then you'd better watch yourself too."
+Qinglin said, "The grass is deep. There's nowhere to look."
+The monk said, "Then you'd better watch yourself too, Master."
 Qinglin clapped his hands and said, "Same poison, all of it."
 '''
 
@@ -40,14 +40,14 @@ verse_zh = '''
 
 '''
 verse_en = '''
-The old hand quietly works the rudder,
-the lone boat turns in the night.
-Reed flowers, snow on both banks;
+The boatman unseen turns the rudder.
+The lone boat turns in the night.
+Reed flowers, snow on both banks,
 mist on the water, one river of autumn.
-The wind props the sail; he runs without rowing.
-A flute call draws the moon down to the cold shore.
+The wind fills the sail and the boat goes without oars.
+A flute call draws the moon down to the blue-green sandbar.
 '''
 
 pointer = '''
-This one is a fencing match start to finish. A monk asks the teacher Qinglin, in effect, can't I just barrel straight ahead and go for enlightenment head-on? Qinglin answers with a dead snake lying across the road, a trap that looks harmless. Step on it and it kills you; refuse to step on it and there's still no way around; freeze in the middle and you're already finished. Every door the monk tries, Qinglin slams. The "poison" is the teaching itself, language and concepts sharp enough to kill the self-importance you walked in carrying, which is why the case keeps refusing the monk a safe path: any route he picks is the route that gets him. When he finally turns it back on the teacher, "you'd better watch yourself," Qinglin just laughs and agrees, we're both holding the same lethal thing.
+This one is a fencing match start to finish. A monk asks the teacher Qinglin, in effect, can't I just barrel straight ahead and go for enlightenment head-on? Qinglin answers with a dead snake lying across the road, a trap that looks harmless. Meet it head-on and it kills you; refuse to meet it and there's still no way around; ask what happens right then and you've already lost it. Every door the monk tries, Qinglin slams. When he finally turns it back on the teacher, "you'd better watch yourself," Qinglin claps his hands and calls it the same poison.
 '''

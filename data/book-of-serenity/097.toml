@@ -1,14 +1,14 @@
 number = 97
 slug = ""
 title_zh = "光帝檏頭"
-title_en = "Emperor Guang's Crown"
+title_en = "Emperor Zhuangzong's Hat"
 
 intro_zh = '''
 達磨朝梁武，本為傳心；鹽官識大中，不妨具眼。天下太平，國王長壽，不犯天威，日月停景，四時和適，有光風化。人王法王相見，合談何事？
 
 '''
 intro_en = '''
-Bodhidharma went to Emperor Wu of Liang: he came to transmit the mind. Yanguan took the measure of his student Dazhong, and there's nothing wrong with having that kind of eye. The realm is at peace, the king lives long, no one offends the power of heaven. Sun and moon stand still, the four seasons run smooth, a fresh wind clears the air. When a worldly king and a king of the Dharma meet face to face, what is there to discuss?
+Bodhidharma came before Emperor Wu of Liang to transmit the mind. Yanguan recognized the future Emperor Xuanzong. He had an eye for such things. The realm is at peace and the king lives long. No one offends heaven's majesty. Sun and moon hold their light, the four seasons run smooth, and the ruler's influence shines. When a king of this world and a king of the Dharma meet, what should they talk about?
 '''
 
 case_zh = '''
@@ -16,11 +16,11 @@ case_zh = '''
 
 '''
 case_en = '''
-Emperor Tongguang said to Xinghua, "I've come into a single treasure out of the Central Plains. Trouble is, no one can name its price."
+The emperor of the Tongguang era said to Xinghua, "I've come into a treasure out of the Central Plains. Trouble is, nobody will meet its price."
 
-Xinghua said, "Lend me Your Majesty's treasure, and let me look."
+Xinghua said, "May I see Your Majesty's treasure?"
 
-The emperor reached up with both hands and tugged the dangling flaps of his crown.
+The emperor reached up with both hands and tugged the dangling ends of his court cap.
 
 Xinghua said, "A king's treasure. Who would dare price it?"
 '''
@@ -37,16 +37,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-The king's true meaning: speak it to one who hears.
-The whole realm leans in, hearts turned to him as sunflowers to the sun.
-He brings out the priceless treasure of the Central Plains,
-no jade of Zhao, no heaped gold of Yan.
-The treasure of the Central Plains, held up for Xinghua:
+The king tells his meaning to someone who knows the tune.
+The whole realm leans in, hearts turned to him as mallows to the sun.
+He brings out the priceless treasure of the Central Plains.
+It's different from the jade of Zhao or the gold of Yan.
+The treasure of the Central Plains, held up for Xinghua,
 one flash of brightness no one can price.
-A ruler's work, fit to teach ten thousand ages,
-the golden wheel ablaze over the four worlds.
+The emperor's work can teach ten thousand generations.
+the golden wheel ablaze over all four quarters of the world.
 '''
 
 pointer = '''
-Tongguang was a real emperor of the 920s, and Xinghua was a noted Chan teacher in Linji's line. The emperor opens with a riddle that is half boast and half probe: I have a treasure out of the Central Plains that no one can put a price on. Xinghua plays along and asks to appraise it, and the emperor reaches up and tugs the dangling flaps of his imperial headgear. The priceless treasure is no gold or jade locked away; it is the living person wearing the crown. Xinghua's answer seals it: who would dare price a king, or a self. Notice that no object is ever produced in the whole exchange; two people simply point at what stands in plain view and decline to shrink it to a number. It rhymes with Yunmen's "one treasure hidden in the mountain of form" a few cases back (92), the same refusal to bury the obvious in mystery.
+Tongguang was the reign era of Emperor Zhuangzong of the Later Tang in the 920s, and Xinghua was a noted Chan teacher in Linji's line. The emperor opens with a riddle that is half boast and half probe: I have a treasure out of the Central Plains that no one can put a price on. Xinghua plays along and asks to appraise it, and the emperor reaches up and tugs the dangling ends of his court cap, a futou. Xinghua asks who would dare name a price for a king's treasure. It rhymes with Yunmen's "one treasure hidden in the mountain of form" a few cases back (92).
 '''

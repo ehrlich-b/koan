@@ -1,14 +1,14 @@
 number = 85
 slug = ""
 title_zh = "國師塔樣"
-title_en = "The National Teacher's Seamless Tomb"
+title_en = "The Seamless Stupa"
 
 intro_zh = '''
 有打破虛空底鉆鎚，擘開華嶽底手段，始到元無縫罅處、不見瑕痕處。且誰是恁麼人？
 
 '''
 intro_en = '''
-A drill that punches through empty space. A grip that splits a mountain in two. Only then do you reach the place with no seam, no crack, where not a flaw or scar shows. So who is that person?
+It takes a hammer and anvil that can break open empty space and hands that can split Mount Hua. Only then do you reach the place that never had a seam or crack, where no flaw or scar shows. Who can do that?
 '''
 
 case_zh = '''
@@ -16,26 +16,24 @@ case_zh = '''
 
 '''
 case_en = '''
-Emperor Suzong asked National Teacher Zhong, "After your hundred years are up, what will you need?"
+Emperor Suzong asked National Teacher Zhong, "What will you need when your hundred years are up?"
 
-The National Teacher said, "Build the old monk a seamless tomb."
+The National Teacher said, "Build this old monk a seamless stupa."
 
-The Emperor said, "Then give me the design."
+The emperor said, "May I see your design, Master?"
 
-The National Teacher sat silent a long while, then said, "Got it?"
+The National Teacher sat silent for a long time, then said, "Got it?"
 
-The Emperor said, "No."
+The emperor said, "I don't."
 
-The National Teacher said, "I have an heir to the Dharma, Danyuan. He knows about this matter. Ask him."
+The National Teacher said, "My Dharma heir Danyuan knows this matter."
 
-Later the Emperor summoned Danyuan and asked, "What does this mean?"
+Later the emperor summoned Danyuan and asked what it meant. Danyuan said:
 
-Danyuan said:
-
-South of Xiang, north of Tan,
-and in between, gold enough to fill a whole country.
-Under the shadowless tree, one ferry carries everyone across.
-In the lapis palace, no one who knows a thing.
+South of Xiang and north of Tan,
+with gold enough between them to fill a whole country.
+Beneath the shadowless tree, they share a boat.
+In the crystal hall, no familiar face.
 '''
 
 verse_zh = '''
@@ -52,18 +50,18 @@ verse_zh = '''
 
 '''
 verse_en = '''
-Alone, sheer and high.
-Round and full, whole through and through.
-Past the reach of sight, peak on peak.
-The moon sinks, the pool runs empty, the night thickens.
+Solitary, all by itself.
+Round, all the way around.
+Past the reach of sight, still rising high.
+The moon sinks, the pool is empty, the night thickens.
 The clouds draw back, the mountains thin, autumn fills the air.
-The eight trigrams set true,
-the five elements breathing in tune.
-You were inside it before you began. Do you see it yet?
-Father and son at Nanyang seemed to know what's what.
-The buddhas and ancestors of India: nothing to be done.
+The eight trigrams in their proper places,
+the five phases in harmony.
+You were inside it before. Do you see it?
+Father and son at Nanyang seem to know what's what.
+The buddhas and ancestors of India can do nothing with it.
 '''
 
 pointer = '''
-This is a deathbed riddle. National Teacher Zhong, Nanyang Huizhong, was the most honored Chan master of his time and tutor to two emperors. Asked what he will want after death, he requests a "seamless tomb," not a jointed stone monument but a single whole with no crack in it, a figure for a reality you cannot carve up or pin down. The emperor's blunder is to ask for blueprints, as if the seamless could be drawn to scale. The Teacher goes silent, and the silence is itself the design, then he hands the matter to his heir Danyuan, who answers with impossible pictures, a tree that throws no shadow, a palace where nobody is anybody, all pointing where the silence pointed: everywhere, ownerless, nothing to grip. "Father and son" means the Teacher and his heir; even India's founders, the verse notes, had no diagram for it either.
+This is a deathbed riddle. National Teacher Zhong, Nanyang Huizhong, was the most honored Chan master of his time and tutor to two emperors. Asked what he will want after death, he requests a "seamless stupa," a burial monument with no crack in it. The emperor's blunder is to ask for blueprints, as if the seamless could be drawn to scale. The Teacher goes silent, then he hands the matter to his heir Danyuan, who answers with strange pictures, a tree that throws no shadow, a crystal hall without a familiar face. "Father and son" means the Teacher and his heir; even India's founders, the verse notes, had no diagram for it either.
 '''

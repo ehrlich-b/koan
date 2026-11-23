@@ -1,14 +1,14 @@
 number = 62
 slug = ""
 title_zh = "米胡悟否"
-title_en = "Mihu Asks About Awakening"
+title_en = "Mihu's Question About Awakening"
 
 intro_zh = '''
 達磨第一義諦，梁武頭迷；淨名不二法門，文殊口過。還有入作分也無？
 
 '''
 intro_en = '''
-Bodhidharma's "highest truth," and Emperor Wu's head went fuzzy. Vimalakirti's "gate beyond opposites," and even Manjushri said too much. So is there any way in at all?
+Bodhidharma's ultimate truth, and Emperor Wu of Liang's head went fuzzy. At Vimalakirti's gate of nonduality, even Manjushri spoke out of turn. So is there any way in at all?
 '''
 
 case_zh = '''
@@ -16,8 +16,10 @@ case_zh = '''
 
 '''
 case_en = '''
-Mihu sent a monk to put a question to Yangshan: "Do people these days still need to wake up, or not?"
-Yangshan said, "Waking up, sure, that's real enough. But what do you do about landing one step short of it?"
+Mihu sent a monk to ask Yangshan, "Do people these days still need to wake up?"
+
+Yangshan said, "It's not that there's no awakening. But what can you do about falling into second place?"
+
 The monk went back and reported this to Mihu, who gave it his deep approval.
 '''
 
@@ -33,16 +35,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-One step short: there waking breaks the dark.
-Quick, let go. Drop the net once you've got the fish.
-Push the work too far and you grow a sixth finger;
-even sharp wits can't see it, and then it's too late to gnaw your own navel.
-The old rabbit on the icy moon weeps autumn dew;
-a cold bird in the jade tree, the dawn wind keening.
-Bring it to great Yangshan, he'll sort the true from the false:
-not a flaw, not a stain, prized like white jade.
+In second place, awakening breaks through delusion.
+Quick, open your hands and drop the fish trap and the rabbit snare.
+With the work still unfinished, what you've gained is a webbed toe.
+Even sharp wits can barely see it. Then it's too late to gnaw your own navel.
+The old rabbit on the icy moon weeps autumn dew.
+A bird shivers in the jade tree, the dawn wind keening.
+Bring it to great Yangshan, he'll sort the true from the false,
+not a flaw, not a stain, a prized tablet of white jade.
 '''
 
 pointer = '''
-Yangshan and Mihu are ninth-century Chan masters. Mihu sends a messenger with the loaded question of the whole tradition: do you still need to "wake up," have a sudden breakthrough, or is enlightenment already here and the striving beside the point? Say yes and you've turned awakening into a prize you chase and fall short of; say no and you've thrown out the practice. Yangshan threads it. Yes, awakening is real, but the instant you grab at it you've already missed by a hair, "landed one step short." The verse stacks warnings against overdoing it: keep hauling the net after you've caught the fish, or grow a sixth finger you don't need, and you wreck the thing. Mihu gave it deep approval because Yangshan refused both easy exits and named the gap that opens the moment you reach.
+Yangshan and Mihu are ninth-century Chan masters. Mihu sends a messenger with the loaded question of the whole tradition: do you still need to "wake up," have a sudden breakthrough, or is enlightenment already here and the striving beside the point? Say yes and you've turned awakening into a prize you chase and fall short of; say no and you've thrown out the practice. Yangshan grants that awakening is real and still calls it falling into "second place." The verse stacks images of things you don't need, a fish trap and a rabbit snare once they've done their job, and a webbed toe. Mihu gave Yangshan's answer deep approval.
 '''

@@ -1,14 +1,14 @@
 number = 89
 slug = ""
 title_zh = "洞山無草"
-title_en = "Dongshan's Endless Grass"
+title_en = "Dongshan's Grassless Place"
 
 intro_zh = '''
 動則埋身千丈，不動則當處生苗。直須兩頭撒開，中間放下，更買草鞋行脚始得。
 
 '''
 intro_en = '''
-Move, and you bury yourself a thousand feet deep. Sit still, and weeds sprout right where you stand. Let go of both ends, drop whatever's in the middle, then buy yourself a pair of straw sandals and hit the road.
+Move, and you bury yourself ten thousand feet deep. Stay still, and shoots sprout right where you are. Let go of both ends, drop whatever's in the middle, then buy yourself a pair of straw sandals and hit the road.
 '''
 
 case_zh = '''
@@ -16,11 +16,13 @@ case_zh = '''
 
 '''
 case_en = '''
-Dongshan addressed the monks: "It's late summer, early fall, brothers. Some of you will head east, some west. Go where there's not an inch of grass for ten thousand miles." Then he added: "That place, ten thousand miles without a blade of grass — how do you get there?"
+Dongshan told the assembly, "It's the end of summer and the start of autumn. Brothers, some of you will go east and some west. You must go where there's not an inch of grass for ten thousand miles."
 
-Shishuang said: "Step out the door and you're already in grass."
+Then he said, "How do you get to a place with not an inch of grass for ten thousand miles?"
 
-Dayang said: "Better to say: even without stepping out the door, the grass is everywhere."
+Shishuang said, "Step out the door and you're already in grass."
+
+Dayang said, "Just say it: even without stepping out the door, there's grass everywhere."
 '''
 
 verse_zh = '''
@@ -36,15 +38,15 @@ verse_zh = '''
 '''
 verse_en = '''
 Grass everywhere,
-inside the gate and out — look for yourself.
-Easy to step into the thicket of thorns;
-hard to turn around past the bright moonlit curtain.
-Look, look —
+inside the gate and out, look for yourself.
+Easy to step into the thicket of thorns,
+hard to turn around beyond the curtain that shines at night.
+Look, look,
 how many ways are there?
 For now, wither in the cold beside the old tree,
-then ride the spring wind into the scorched scar.
+then ride the spring wind into the burn scar.
 '''
 
 pointer = '''
-Dongshan is the ninth-century master who founded one of the main Chan lines (the Dong in Caodong). At the close of the summer training period the monks scatter to wander and study, and this is his send-off. "Not an inch of grass for ten thousand miles" names a place wiped clean of clinging, distraction, and dust, pure clarity. Then he springs it: if such a place exists, how do you actually get there? Shishuang answers that the moment you take a step you're already in the weeds, any motion at all is entanglement. Dayang outbids him: even if you never move, the grass is everywhere too, so stillness is no escape hatch. The teaching is that there is no grass-free zone to reach and nowhere to stand outside the tangle, which is why the hunt for an exit is the thing to drop. The intro already gave the order: let go of both ends, then buy straw sandals and hit the road.
+Dongshan is the ninth-century master who founded one of the main Chan lines (the Dong in Caodong). At the close of the summer training period the monks scatter to wander and study, and this is his send-off. "Not an inch of grass for ten thousand miles" names a place wiped clean of clinging, distraction, and dust, pure clarity. Then he springs it: if such a place exists, how do you actually get there? Shishuang answers that the moment you take a step you're already in the weeds, any motion at all is entanglement. Dayang, from a later generation, outbids him: even if you never move, the grass is everywhere too, so stillness is no escape hatch. The intro already gave the order: let go of both ends, then buy straw sandals and hit the road.
 '''

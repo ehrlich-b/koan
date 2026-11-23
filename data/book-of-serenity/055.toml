@@ -1,14 +1,14 @@
 number = 55
 slug = ""
 title_zh = "雪峯飯頭"
-title_en = "Xuefeng Cooks the Rice"
+title_en = "Xuefeng the Cook"
 
 intro_zh = '''
 氷寒於水，青出於藍。見過於師，方堪傳授；養子不及父，家門一世衰。且道：奪父之機者是甚麼人？
 
 '''
 intro_en = '''
-Ice is colder than the water it came from. Blue outshines the indigo that made it. Only the student who surpasses the teacher is fit to carry on the line. A son who can't outdo his father: that's how a house falls in a single generation. So tell me, who is it that snatches the father's edge right out of his hands?
+Ice is colder than the water it came from. Blue comes from indigo. Only when a student's insight surpasses the teacher's can the teaching be passed on. A son who can't outdo his father: that's how a house falls in a single generation. So tell me, who is it that snatches the father's edge right out of his hands?
 '''
 
 case_zh = '''
@@ -16,13 +16,13 @@ case_zh = '''
 
 '''
 case_en = '''
-Xuefeng was the cook at Deshan's place. One day the meal ran late. Deshan came down to the hall carrying his bowls. Xuefeng said, "Old man, the bell hasn't rung, the drum hasn't sounded. Where do you think you're going with those bowls?" Deshan turned around and went back to his room.
+Xuefeng was the cook at Deshan's monastery. One day the meal was late, and Deshan came to the teaching hall carrying his bowl. Xuefeng said, "Old man, the bell hasn't rung and the drum hasn't sounded. Where do you think you're going with that bowl?" Deshan went straight back to his quarters.
 
-Xuefeng told Yantou about it. Yantou said, "So even the great Deshan doesn't get the last word."
+Xuefeng told Yantou about it. Yantou said, "So even the great Deshan hasn't grasped the last word."
 
-Deshan heard this and sent his attendant to fetch Yantou. He asked him, "You don't approve of me?" Yantou leaned in and whispered what he really meant. Deshan let it go.
+Deshan heard this and sent his attendant to fetch Yantou. He asked him, "You don't approve of me?" Yantou told him what he meant. Deshan let the matter rest.
 
-The next day Deshan got up to teach, and sure enough it was nothing like usual. Yantou clapped his hands and laughed. "How about that, the old man's got the last word after all. From now on nobody in the world will be able to touch him."
+The next day Deshan got up to teach, and sure enough it was nothing like usual. Yantou clapped his hands and laughed. "How about that! The old man has grasped the last word. From now on nobody under heaven will be able to touch him."
 '''
 
 verse_zh = '''
@@ -33,12 +33,12 @@ verse_zh = '''
 
 '''
 verse_en = '''
-The last word: has he got it or not?
-Deshan, father and son, left it murky.
-A man from down south sits in this very room,
-so don't sing the partridge song where he can hear.
+The last word: has he grasped it or not?
+Deshan and his disciple are keeping it awfully murky.
+There's someone from south of the Yangzi in the room.
+Don't go singing the partridge song in front of him.
 '''
 
 pointer = '''
-A monastery ran on a schedule: bell and drum announced the meal, and only then did the master come out with his eating bowls. Here old Deshan shows up early, and Xuefeng, a junior monk on kitchen duty, calls him on it, you can't eat before the bell. Deshan, who built his name on being the fiercest teacher around, just turns and goes back to his room without a word. "The last word" is Chan shorthand for the final decisive thing a fully realized teacher can say, the thing nobody can top, so when Yantou cracks that Deshan "doesn't get the last word," he's saying the famous master got out-maneuvered by his own cook. Then it goes slippery. Yantou whispers something to Deshan, the next day Deshan teaches like a different man, and Yantou flips to praising him. Nobody, Deshan and Yantou included, ever says whether the old man had it all along or only after the whisper, and the verse calls them out for leaving it deliberately foggy. This is the twin of case 50, same last word, same two friends; the "partridge song" was a sentimental southern tune, so "don't sing it where the southerner can hear" means don't show off homesick cleverness in front of someone who'll see straight through it.
+A monastery ran on a schedule: bell and drum announced the meal, and only then did the master come out with his eating bowl. Here old Deshan shows up early, and Xuefeng, a junior monk on kitchen duty, calls him on it, you can't eat before the bell. Deshan, who built his name on being the fiercest teacher around, just turns and goes back to his room without a word. "The last word" is Chan shorthand for the final decisive thing a fully realized teacher can say, the thing nobody can top, so when Yantou cracks that Deshan "hasn't grasped the last word," he's taking a shot at the famous master over an exchange with his own cook. Then it goes slippery. Yantou tells Deshan what he meant (case 13 of the Gateless Gate makes it explicit that he tells him in private), the next day Deshan teaches like a different man, and Yantou flips to praising him. Nobody, Deshan and Yantou included, ever says whether the old man had it all along or only after they talked, and the verse calls them out for leaving it deliberately foggy. This is the twin of case 50, same last word, same two friends; the "partridge song" was a sentimental southern tune, so "don't sing it where the southerner can hear" means don't show off homesick cleverness in front of someone who'll see straight through it.
 '''
