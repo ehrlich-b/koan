@@ -18,26 +18,26 @@ case_zh = '''
 
 '''
 case_en = '''
-One day Layman Pang stopped in at a lecture hall, glad to hear a talk on the Diamond Sutra. The teacher reached the line about "no self, no other," and Pang spoke up.
+One day Layman Pang stopped in at a lecture hall, glad to hear a talk on the Diamond Sutra. When the lecturer reached the passage about "no self, no person," Pang spoke up.
 
-"Master," he said, "if there's no self and no other, then who is giving this lecture? Who is listening?"
+"Master," he said, "if there's no self and no person, then who is giving this lecture? Who is listening?"
 
 The teacher had no answer.
 
-"I'm only a layman," Pang said, "but I've a rough grasp of the faith."
+"I'm only a layman," Pang said, "but I have some idea what it means to put my trust in it."
 
 "Then how do you read it?" the teacher asked.
 
 Pang answered with a verse:
 
-No self, and no other —
-so where is the line between stranger and friend?
+No self and no person.
+How can there be a line between stranger and friend?
 Take my advice, quit working the lecture circuit.
 It can't touch going straight for the real thing.
 The nature of diamond wisdom
-holds not one speck of dust.
-"I have heard," "I believe and accept" —
-all borrowed names, only talk.
+is free of the faintest speck of dust outside it.
+"I have heard" and "I accept in faith"
+are all names used for the telling.
 
 Hearing the verse, the teacher was delighted, full of admiration.
 
@@ -50,5 +50,5 @@ verse_en = '''
 '''
 
 pointer = '''
-The Diamond Sutra is a core Buddhist text, and its central claim is that the solid-seeming "self" and "other" everyone assumes are empty, not really there as separate things. Pang catches a lecturer reciting exactly that line and springs the obvious trap: if there is truly no self and no other, who is up there talking and who is sitting here listening? The teacher freezes, having recited the words without standing inside them. Pang's verse twists gently, noting that even the sutra's own famous tags, "thus I have heard" and "I believe and accept," are borrowed labels, so quit performing the text on the lecture circuit and go straight for what it points at. The cruelty is mild, the teacher ends up delighted, and the closing remark is the real tribute to Pang: he carried no canned answer, he simply returned whatever came at him, like an echo answering a sound.
+The Diamond Sutra is a core Buddhist text, and here it questions the very idea of a fixed "self" or "person." Pang catches a lecturer reciting exactly that line and springs the obvious trap: if there is truly no self and no person, who is up there talking and who is sitting here listening? The teacher freezes, having recited the words without standing inside them. Pang's verse twists gently, noting that even the sutra's own famous tags, "I have heard" and "I accept in faith," are borrowed labels, so quit performing the text on the lecture circuit and go straight for what it points at. The cruelty is mild, the teacher ends up delighted, and the closing remark is the real tribute to Pang: he carried no canned answer, he simply returned whatever came at him, like an echo answering a sound.
 '''

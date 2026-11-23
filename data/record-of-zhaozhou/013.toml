@@ -51,9 +51,9 @@ The monk said, "Answer me, master."
 
 Zhaozhou said, "The conversation has no master yet."
 
-The monk said, "I came seven thousand miles. Don't toy with my mind."
+The monk said, "I came seven thousand li. Don't toy with my mind."
 
-Zhaozhou said, "Going by a question like yours, how could I not toy with your mind?"
+Zhaozhou said, "Judging by that question, could I even toy with your mind?"
 
 The monk stayed one night and left.
 
@@ -75,21 +75,21 @@ Zhaozhou said, "Don't fool yourself."
 
 A monk asked, "Suchness, ordinary, holy: it's all dream-talk. What is true speech?"
 
-Zhaozhou said, "I won't say those other two again."
+Zhaozhou said, "I won't say those two things."
 
 The monk said, "Leave those two aside. What is true speech?"
 
-Zhaozhou said: "Om □ lin he."
+Zhaozhou said, "Om ... lin bo."
 
 A monk asked, "What is Zhaozhou?"
 
 Zhaozhou said, "East gate, west gate, south gate, north gate."
 
-A monk asked, "What is concentration?"
+A monk asked, "What is meditative stillness?"
 
-Zhaozhou said, "It won't stay fixed."
+Zhaozhou said, "It isn't still."
 
-The monk said, "Why won't it stay fixed?"
+The monk said, "Why isn't it still?"
 
 Zhaozhou said, "A living thing. A living thing."
 
@@ -101,7 +101,7 @@ The monk said, "Isn't that the student's own true business?"
 
 Zhaozhou said, "You're running. You're running."
 
-A monk asked, "The ancients spent thirty years on one bow and two arrows and only brought down half a sage. Today, master, shoot the whole thing."
+A monk asked, "An old master spent thirty years with one bow and two shots and only hit half a sage. Today, master, take the whole shot."
 
 Zhaozhou got up and left.
 '''
@@ -112,5 +112,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Zhaozhou fielding one challenge after another. The opening needs a story: when Bodhidharma handed off his teaching, tradition says four students got pieces of him, skin, flesh, bone, and marrow, marrow being deepest, and the Second Patriarch is the one who "got the marrow." So when monks keep poking at the marrow, they are fishing for the ultimate secret, and Zhaozhou keeps pulling the floor out: here he doesn't even set up a marrow, and the man who chases it can't so much as touch the skin. "True seat" and "separate seat" are monastery shorthand for who actually holds the authentic position, and the monk who wants his rank confirmed gets toyed with instead. Watch the move on "concentration": the monk expects praise for a meditative trophy, and Zhaozhou refuses to let it sit still, "a living thing, a living thing." At the end a monk brags that the old masters only ever brought down half a sage and dares Zhaozhou to hit the whole target. Zhaozhou stands up and walks out, which is the shot.
+Zhaozhou fielding one challenge after another. The opening needs a story: when Bodhidharma handed off his teaching, tradition says four students got pieces of him, skin, flesh, bone, and marrow, marrow being deepest, and Huike, the Second Patriarch, is the one who "got the marrow." So when monks keep poking at the marrow, they are fishing for the ultimate secret, and Zhaozhou keeps pulling the floor out: here he doesn't even set up a marrow, and the man who chases it can't so much as touch the skin. The talk of a "true seat" and a "separate seat" starts with a monk asking about Zhaozhou's position, and Zhaozhou asking who might refuse to recognize it. Watch the move on "meditative stillness": the monk expects praise for a meditative trophy, and Zhaozhou refuses to let it sit still, "a living thing, a living thing." At the end a monk brags that an old master only ever hit half a sage and dares Zhaozhou to hit the whole target. Zhaozhou stands up and walks out.
 '''

@@ -15,7 +15,7 @@ case_zh = '''
 case_en = '''
 At a formal talk Zhaozhou said, "The moment you take sides, you lose your mind in the noise. So is there any room left to answer at all?"
 
-A monk stepped out and slapped the attendant once. "Why don't you answer the master?"
+A monk stepped out and gave the attendant a pat. "Why don't you answer the master?"
 
 Zhaozhou just went back to his quarters.
 
@@ -41,7 +41,7 @@ Zhaozhou said, "Brushing off the dust, fine. Seeing the Buddha, no."
 
 A monk asked, "What is the body that never gets sick?"
 
-Zhaozhou said, "The four elements and the five heaps."
+Zhaozhou said, "The four elements and the five aggregates."
 
 A monk asked, "What is an icchantika?"
 
@@ -51,7 +51,7 @@ Zhaozhou said, "Why don't you ask about enlightenment?"
 
 Zhaozhou said, "That right there. That's the icchantika."
 
-One day Zhaozhou held up a finger, curled it, and said, "I call this a fist. What do the rest of you call it?"
+One day Zhaozhou curled his fingers into a fist, and said, "I call this a fist. What do the rest of you call it?"
 
 A monk said, "Why use an object to teach people?"
 
@@ -76,5 +76,5 @@ verse_en = '''
 '''
 
 pointer = '''
-This opens with a line Zhaozhou liked enough to reuse (it heads 34 and 38 too): the instant you take sides, you lose your mind in the noise, so is there any room left to answer? A monk responds by slapping the attendant, a borrowed bit of Chan theater, and Zhaozhou just walks back to his room, unimpressed by the performance. Then exchanges. "The Way" is the grand abstract goal everyone hunts, and he keeps pointing at concrete stuff (the man outside the wall, the road that runs to the capital Chang'an) to drag the monk out of his head. An "icchantika" is the Buddhist term for someone supposedly so lost they can never wake up, the worst-case write-off; when the monk swaps it for "enlightenment," Zhaozhou says that fishing for the holy word is itself the dead end. "The four elements and the five heaps" is the standard parts-list for a human being, so his deadpan reply to "what body never gets sick" is, this ordinary one. The thread is a man refusing to score points, sometimes ending an exchange by saying "take care" and leaving.
+This opens with a line Zhaozhou liked enough to reuse (it heads 34 and 38 too): the instant you take sides, you lose your mind in the noise, so is there any room left to answer? A monk responds by giving the attendant a pat, a borrowed bit of Chan theater, and Zhaozhou just walks back to his room. Then exchanges. "The Way" is the grand abstract goal everyone hunts, and he keeps pointing at concrete stuff (what's outside the wall, the road that runs to Chang'an, the Tang capital) to drag the monk out of his head. An "icchantika" is the Buddhist term for someone supposedly so lost they can never wake up, the worst-case write-off; when the monk swaps it for "enlightenment" at Zhaozhou's suggestion, Zhaozhou calls that the icchantika. "The four elements and the five aggregates" is the standard parts-list for a human being, so his deadpan reply to "what body never gets sick" is the parts of an ordinary one. The thread is a man refusing to score points, sometimes ending an exchange by saying "take care" and leaving.
 '''

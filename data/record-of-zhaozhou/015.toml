@@ -1,7 +1,7 @@
 number = 15
 slug = ""
 title_zh = "示眾"
-title_en = "Born and Dead"
+title_en = "Arising and Ceasing"
 
 intro_zh = '''
 '''
@@ -13,19 +13,19 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou addressed the assembly: "Nothing is ever truly born, so nothing dies. And don't tell me that speaking is birth and silence is death. So what is the truth of no-birth, no-death?"
+Zhaozhou addressed the assembly: "Things never arise to begin with, so there's no ceasing now. And don't tell me that speaking is arising and silence is ceasing. What does it mean for things neither to arise nor to cease?"
 
-A monk asked, "But aren't things already no-birth, no-death?"
+A monk asked, "Isn't this already beyond arising and ceasing?"
 
 Zhaozhou said, "This one only knows dead words."
 
-Another monk asked, "'The perfect Way is easy; only stop picking and choosing.' But the moment you speak, that's picking and choosing. So how does the master teach anyone?"
+Another monk asked, "'The great Way isn't hard. It only hates picking and choosing.' But the moment you speak, that's picking and choosing. So how does the master teach anyone?"
 
 Zhaozhou said, "Why not quote the rest?"
 
 The monk said, "I only got that far."
 
-Zhaozhou said, "Just this: the perfect Way is easy; only stop picking and choosing."
+Zhaozhou said, "Just this: the great Way isn't hard. It only hates picking and choosing."
 '''
 
 verse_zh = '''
@@ -34,5 +34,5 @@ verse_en = '''
 '''
 
 pointer = '''
-"No-birth, no-death" is standard Buddhist teaching: nothing truly comes into being or goes out of it, so there is nothing to grab onto or dread losing. The danger is how easily it becomes a slogan, and the instant a monk parrots it back as already settled fact, Zhaozhou nails him for dealing in "dead words," memorized phrases with no life in them. The second monk reaches again for that favorite line, "the perfect Way is easy, only stop picking and choosing" (see case 14), and tries to use it to trap the teacher. Zhaozhou's move is to quote it straight back, deadpan, as if to say you are holding the answer in your own mouth and still won't live it. The test running under both halves: can you tell the difference between knowing a true sentence and being changed by it.
+"Neither arising nor ceasing" is standard Buddhist language for the teaching that things don't truly come into being or pass away. The danger is how easily it becomes a slogan, and the instant a monk parrots it back as already settled fact, Zhaozhou nails him for dealing in "dead words," memorized phrases with no life in them. The second monk reaches again for that favorite line, "the great Way isn't hard. It only hates picking and choosing" (see case 14), and tries to use it to trap the teacher. Zhaozhou's move is to quote it straight back, deadpan. The test running under both halves: can you tell the difference between knowing a true sentence and being changed by it.
 '''

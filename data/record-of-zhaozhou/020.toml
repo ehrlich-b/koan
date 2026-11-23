@@ -19,7 +19,7 @@ A monk asked, "What shape does this thing in front of me have, so I can see it?"
 
 Zhaozhou said, "South of the river, north of the river — go where you like."
 
-The monk said, "So you've nothing to offer people?"
+The monk said, "Master, surely you have some way to help people?"
 
 Zhaozhou said, "What did you just ask me?"
 
@@ -35,19 +35,19 @@ The monk said, "Is that where you put 'entering the realm of reality' to use?"
 
 Zhaozhou said, "What's that got to do with it?"
 
-A monk asked, "If there's such a thing as the ground of ultimate truth, where does it come from?"
+A monk asked, "Where do you get to the ground of ultimate reality?"
 
 Zhaozhou said, "Run that by me once more, reverend."
 
-A monk asked, "When the ten thousand things rise up at once, is there anything they can't fool?"
+A monk asked, "When the ten thousand things rise up at once, is there anyone they can't fool?"
 
 Zhaozhou said, "There is."
 
-The monk said, "What is it they can't fool?"
+The monk said, "Who is it they can't fool?"
 
 Zhaozhou said, "Do you believe there's such a thing as the Dharma?"
 
-The monk said, "I believe there's the Dharma. The ancients already settled that. So what is it they can't fool?"
+The monk said, "I believe there's a Buddha Dharma. The ancients already said so. So who is it that can't be fooled?"
 
 Zhaozhou said, "Why don't you ask me?"
 
@@ -77,7 +77,7 @@ Zhaozhou said, "If you could fathom it, there'd be give-and-take."
 
 The monk said, "I can't fathom it. So what's the give-and-take?"
 
-Zhaozhou said, "What can't be fathomed is your own self."
+Zhaozhou said, "Anything other than that is your own self."
 
 The monk said, "Can you be fathomed?"
 
@@ -87,9 +87,9 @@ The monk said, "Why do you hide yourself away?"
 
 Zhaozhou said, "I'm right here, talking with you this very minute."
 
-The monk said, "Then how can you say nothing moves?"
+The monk said, "Then how can you say there's no turning?"
 
-Zhaozhou said, "Just so. It should be exactly this."
+Zhaozhou said, "That's how it ought to be."
 '''
 
 verse_zh = '''
@@ -98,5 +98,5 @@ verse_en = '''
 '''
 
 pointer = '''
-A long session, all of it turning on one move Zhaozhou makes over and over: every monk wants the truth handed over as a thing, a shape to see, a place it issues from, a doctrine to hold, and every time he slides out from under it. The "realm of reality" and "the ground of ultimate truth" are just ornate Buddhist names for how things actually are, and the running joke is that monks treat them like destinations you can travel to and arrive at. "Cold ash and dead wood" is the stock image for a deadened, checked-out enlightenment, which Zhaozhou rejects, pointing instead at the blooming world right now, "flowers and brocade, a hundred kinds of things." The "Dharma-body" is reality itself, the ultimate Buddha behind any preaching teacher, so saying it "doesn't preach" means the real thing never lectures you; when the monk then demands Zhaozhou explain himself, Zhaozhou says he is only answering out of kindness, and even that won't reach the man. The line that sums the afternoon: the closer you come, the farther the Way recedes.
+A long session, all of it turning on one move Zhaozhou makes over and over: every monk wants the truth handed over as a thing, a shape to see, a place it issues from, a doctrine to hold, and every time he slides out from under it. The "realm of reality" and "the ground of ultimate reality" are just ornate Buddhist names for how things actually are, and the running joke is that monks treat them like destinations you can travel to and arrive at. "Cold ash and dead wood" is the stock image for a deadened, checked-out enlightenment, which Zhaozhou rejects, pointing instead at the blooming world right now, "flowers and brocade, a hundred kinds of things." The "Dharma-body" is reality itself, the ultimate Buddha behind any preaching teacher, and the monk wants to know whether Zhaozhou is doing anyone any good if that body "doesn't preach." Zhaozhou says he is only answering out of kindness. The line that sums the afternoon: the closer the person comes, the farther the Way recedes.
 '''

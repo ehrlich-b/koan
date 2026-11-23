@@ -13,7 +13,7 @@ case_zh = '''
 
 '''
 case_en = '''
-One day the monk Bailing ran into Layman Pang on the road. Bailing said, "Back on Nanyue Mountain you got hold of one line that gave you real power. Have you ever passed it on?"
+One day the monk Bailing ran into Layman Pang on the road. Bailing said, "Have you ever repeated to anyone the line that helped you back at Nanyue?"
 
 "I have," said Pang.
 
@@ -23,7 +23,7 @@ Pang pointed at himself. "This man here. Pang."
 
 Bailing said, "Even Manjushri and Subhuti couldn't praise that enough."
 
-Then Pang asked, "And your own line of power. Who gets to know it?"
+Then Pang asked, "And the line that helped you, teacher. Who knows it?"
 
 Bailing put on his bamboo hat and walked off.
 
@@ -31,11 +31,11 @@ Bailing put on his bamboo hat and walked off.
 
 Bailing didn't look back.
 
-Another day Bailing said to the Layman, "Speak or stay silent, either way you're not off the hook. So tell me, what is it you can't get off the hook from?"
+Another day Bailing said to the Layman, "Manage to say it or fail to say it, either way you're not off the hook. So tell me, what is it you can't get off the hook from?"
 
 Pang blinked at him.
 
-Bailing said, "Remarkable. Nothing gets past that."
+Bailing said, "Remarkable. Nothing tops that."
 
 "You give me too much credit," said Pang.
 
@@ -57,7 +57,7 @@ Pang stepped closer. "Try it. Take your shot."
 
 Bailing only said, "Take care."
 
-One day the Layman asked Bailing, "These very eyes, can they shut a man's mouth?"
+One day the Layman asked Bailing, "Can this very eye for things spare you what people say?"
 
 "How could they?" said Bailing.
 
@@ -67,7 +67,7 @@ Bailing said, "The stick doesn't strike a man with nothing to answer for."
 
 Pang turned to face him. "Hit me. Hit me."
 
-Bailing reached for the stick. Pang caught it and said, "Now get me off the hook."
+Bailing reached for the stick. Pang caught it and said, "Let's see you get free of me."
 
 Bailing had nothing to say.
 '''
@@ -78,5 +78,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Bailing is a monk Pang keeps running into, and across these four encounters the game is to corner the other into "saying" the thing that supposedly cannot be said, since the instant you say it you have already missed it. That is the meaning of Pang's "speak and I am already in the wrong." Notice that nobody ever actually answers a question here: they point at their own chest, blink, slap, or put on a hat and leave. Manjushri and Subhuti, the bodhisattva of wisdom and the Buddha's disciple famous for grasping emptiness, get name-dropped as the highest praise Bailing can muster. The finish is clean. Bailing reaches for the stick, the teacher's tool for striking a student, Pang grabs it and flips Bailing's own challenge back on him, get me off the hook, and for once the monk has nothing.
+Bailing is a monk Pang keeps running into, and across these four encounters the game is to corner the other into "saying" the thing that supposedly cannot be said. Notice that nobody ever gives a straight answer here: they point at their own chest, blink, slap, or put on a hat and leave. Manjushri and Subhuti, the bodhisattva of wisdom and the Buddha's disciple famous for grasping emptiness, get name-dropped as the highest praise Bailing can muster. The finish is clean. Bailing reaches for the stick, the teacher's tool for striking a student, Pang grabs it and flips Bailing's own challenge back on him: let's see you get free of me. For once the monk has nothing.
 '''

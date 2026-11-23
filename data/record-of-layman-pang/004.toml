@@ -13,7 +13,7 @@ case_zh = '''
 
 '''
 case_en = '''
-Layman Pang went to see Qifeng. The moment he stepped into the temple, Qifeng said, "Some layman keeps barging in here. What's he after?"
+Layman Pang went to see Qifeng. The moment he stepped into the temple, Qifeng said, "This layman keeps barging in here. What are you after?"
 
 Pang looked left, then right. "Who said that? Who said that?"
 
@@ -21,7 +21,7 @@ Qifeng gave a shout.
 
 Pang said, "Right here."
 
-Qifeng said, "Saying it to my face, are you?"
+Qifeng said, "Is that saying it out in the open?"
 
 Pang said, "And what about behind your back?"
 
@@ -29,7 +29,7 @@ Qifeng turned his head around. "Look, look."
 
 Pang said, "The bandit's routed. The bandit's routed."
 
-Another day Qifeng was walking beside the Layman. Pang took one step ahead. "I'm one step stronger than you, teacher."
+Another day Qifeng was walking beside the Layman. Pang took one step ahead. "I've got one step on you, teacher."
 
 Qifeng said, "An old man has no front and no back, yet here you are wanting to come first."
 
@@ -37,11 +37,11 @@ Pang said, "Bitter inside bitter. That's not the line yet."
 
 Qifeng said, "I'm afraid the old man won't let it go."
 
-Pang said, "If this old man can't take it, what could Qifeng possibly take?"
+Pang said, "If the old man isn't up to it, what is Qifeng up to?"
 
 Qifeng said, "If I had a stick in my hand, I'd beat you and never tire of it."
 
-Pang stepped up and slapped him. "Not very nice."
+Pang gave him a slap. "How's that for a start?"
 
 Qifeng reached for his stick, but the Layman caught hold of him. "You bandit, today you've lost the whole game."
 
@@ -49,7 +49,7 @@ Qifeng laughed. "I'm the clumsy one. You're the clever one."
 
 Pang clapped his hands. "Even match. Even match."
 
-Another day the Layman asked Qifeng, "How many miles from here to the top of the peak?"
+Another day the Layman asked Qifeng, "How many li from here to the top of the peak?"
 
 Qifeng said, "Where have you been coming from?"
 
@@ -71,9 +71,9 @@ Qifeng said, "Add as many as you like."
 
 Pang shouted and walked out. Qifeng shouted right back.
 
-Another day the Layman said, "No fair stating it straight out."
+Another day the Layman said, "You can't say it out in the open."
 
-Qifeng said, "Then hand me back the master of the house, old Pang, the one standing here right now."
+Qifeng said, "Then give me the master of the house, old Pang, right at this moment."
 
 Pang said, "What, are you short a few wits?"
 
@@ -88,5 +88,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Qifeng is one more teacher in the parade, and these four run-ins are sparring matches, fast and half-friendly, each man trying to catch the other leaning on a fixed idea. When Pang crows "the bandit's routed," he has just caught Qifeng physically turning to look "behind his back," as though a real self could be sitting in front or behind. The counting game, one through eight, goes nowhere by design: you can always tack on the next number, so there is no final spot to land. The closer is the live trap. Qifeng dares Pang to "hand back the master of the house," to produce the genuine self standing right there, betting there is nobody to hand over. Pang's "are you short a few wits" is him declining the trade rather than walking into it.
+Qifeng is one more teacher in the parade, and these four run-ins are sparring matches, fast and half-friendly, each man trying to catch the other leaning on a fixed idea. When Pang crows "the bandit's routed," he has just caught Qifeng physically turning to look behind him, after asking whether Pang would say it out in the open. The counting game, one through eight, starts with Pang asking how far it is to the peak, playing on the "peak" in Qifeng's name. You can always tack on the next number. The closer is the live trap. Qifeng dares Pang to "hand back the master of the house," to produce the genuine self standing right there. Pang's "are you short a few wits" is him declining the trade rather than walking into it.
 '''

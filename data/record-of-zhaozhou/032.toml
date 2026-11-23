@@ -18,7 +18,7 @@ Zhaozhou addressed the assembly: "Thirty years ago, down south, sitting by the s
 A monk asked, "The king showers all this support on you. How will you repay him?"
 Zhaozhou said, "I chant the Buddha's name."
 "A pauper can do that much."
-Zhaozhou said, "Attendant, give this man a penny."
+Zhaozhou said, "Call the attendant and have him give this man a coin."
 
 A monk asked, "What is your house style?"
 Zhaozhou said, "The screen is torn, but the frame still stands."
@@ -45,8 +45,8 @@ A monk asked, "What is the great meaning of the Buddha's teaching?"
 Zhaozhou said, "Bow."
 The monk started to speak. Zhaozhou called out, "Wenyuan!" The novice Wenyuan came over. Zhaozhou snapped, "Just now, where did you go?"
 
-A monk asked, "What is your own basic intent?"
-Zhaozhou said, "I don't reach for the butcher's cleaver."
+A monk asked, "What's my own original purpose?"
+Zhaozhou said, "I don't use an ox cleaver."
 
 A monk said, "I've heard of Zhaozhou's stone bridge for ages. I get here and all I see is a plank over a ditch."
 Zhaozhou said, "You see the plank. You don't see Zhaozhou's stone bridge."
@@ -65,5 +65,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Quick run-ins with visiting monks, four of which need a key. "No host, no guest" points past the split between self and other, the line Zhaozhou says nobody ever asked him about. The "person in the dust" means someone living in the ordinary grimy world. "Big-Ears the Tripitaka master" was a celebrated mind-reader who could see anyone's thoughts, and he nailed the National Teacher's thoughts twice, but on the third round the Teacher emptied his own mind and the reader came up blank; "up his own nose" is Zhaozhou saying the so-called master couldn't find what was right under him. The blind turtle and the floating log is the classic image for how absurdly rare a human birth that meets the teaching is: a blind sea turtle surfaces once a century, one log with a single hole drifts the whole ocean, and the turtle's head comes up through that hole. The last bit is pure clowning, his name and his age both answered with the names of towns, the old man refusing to be pinned to any label and enjoying it.
+Quick run-ins with visiting monks, four of which need a key. "No host, no guest" does away with the usual roles a teacher and a visitor take in these exchanges. It's the line Zhaozhou says nobody ever asked him about. The "person in the dust" means someone living in the ordinary grimy world. "Big-Ears the Tripitaka master" was a celebrated mind-reader, and he located the National Teacher twice, but on the third round the reader came up blank. "Up his own nose" is where Zhaozhou puts the man he couldn't find. The blind turtle and the floating log is the classic image for how absurdly rare a human birth that meets the teaching is: a blind sea turtle surfaces once a century, one log with a single hole drifts the whole ocean, and the turtle's head comes up through that hole. The last bit is pure clowning, his surname and his age both answered with the names of towns, the old man refusing to be pinned to any label and enjoying it.
 '''

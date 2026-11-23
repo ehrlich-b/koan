@@ -13,7 +13,7 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou addressed the assembly: "It isn't that you fail to bring me your question. And it isn't that I fail to answer it."
+Zhaozhou addressed the assembly: "It isn't that people fail to bring me something. And it isn't that I fail to respond."
 
 A monk asked, "Then what do you answer with, master?"
 
@@ -21,7 +21,7 @@ Zhaozhou let out a long sigh.
 
 The monk said, "You answer with that? Haven't you shortchanged me?"
 
-Zhaozhou said, "Just now you took it from me, so yes, I shortchanged you. Had you not taken it, I'd have shortchanged you of nothing."
+Zhaozhou said, "If you accept what I just did, I've shortchanged you. If you don't accept it, I haven't shortchanged you."
 '''
 
 verse_zh = '''
@@ -30,5 +30,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Zhaozhou says the deal is honest both ways: you bring the question, I answer it. So a monk asks the natural follow-up, and what's the answer, and instead of words Zhaozhou lets out a long sigh. The monk feels robbed, that's all? The last line turns on the Chinese: the phrase under "you took it from me" is literally "you approved of me," nodded along as if pocketing a coin. He feels shortchanged only because he expected the sigh to be a secret teaching worth keeping, and by treating it as currency he made it counterfeit. Had he taken the sigh as a sigh and wanted nothing further, there would have been nothing to cheat him of. The cheat is manufactured entirely by the wanting.
+Zhaozhou says the deal is honest both ways: you bring the question, I answer it. So a monk asks the natural follow-up, and what's the answer, and instead of words Zhaozhou lets out a long sigh. The monk feels robbed, that's all? The last line turns on whether the monk accepts what Zhaozhou just did. Zhaozhou calls it shortchanging him only if he accepts it.
 '''

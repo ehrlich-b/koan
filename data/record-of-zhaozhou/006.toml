@@ -13,13 +13,13 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou took the high seat and said: Brothers, you're sitting right in the middle of your third lifetime of grief. So I tell you: change the road you walk, not the one who walks it. We all left home together. Nothing was wrong, until you started asking about Chan, asking about the Way. Twenty, thirty of you crowd in to ask, as if I owed you some Chan, some Way. You call me a wise teacher. I'm just one more man taking the beating alongside you. I'm not doing this for fun. I'm afraid of dragging down the old masters, so I run my mouth, east and west.
+Zhaozhou took the high seat and said, "Brothers, you're sitting right in the middle of a third grievance. So I tell you: change the road you walk, not the one who walks it. We all left home together. Nothing was wrong, until you started asking about Chan, asking about the Way. Twenty, thirty of you crowd in to ask, as if I owed you some Chan, some Way. You call me a wise teacher. I'm just one more man taking the beating alongside you. I'm not doing this for fun. I'm afraid of dragging down the old masters, so I run my mouth, east and west."
 
 A monk asked, "All day long, how should I use my mind?"
 Zhaozhou said, "You get used by the hours. I use the hours. Which one are you asking about?"
 
-A monk asked, "Who is the master in charge here at Zhaozhou?"
-Zhaozhou barked, "You bucket of hoops!"
+A monk asked, "Who is Zhaozhou's own master?"
+Zhaozhou barked, "You bucket-hooper!"
 The monk answered, "Yes?"
 Zhaozhou said, "Then hoop the bucket properly."
 
@@ -31,7 +31,7 @@ Zhaozhou said, "I'm not as good as you."
 The monk said, "I'm not trying to win."
 Zhaozhou said, "Then why so short on spirit?"
 
-A monk said, "'The perfect Way is not hard; just quit picking and choosing.' Isn't that the very hole everybody falls into these days?"
+A monk said, "'The great Way isn't hard. It only hates picking and choosing.' Isn't that the very hole everybody falls into these days?"
 Zhaozhou said, "Somebody asked me that once. Five years, and I still couldn't get clear of it."
 
 An official asked, "Danxia burned a wooden Buddha. Why did the temple director lose his eyebrows and beard?"
@@ -39,7 +39,7 @@ Zhaozhou said, "When your kitchen turns raw food into cooked, who does it?"
 The official said, "A servant."
 Zhaozhou said, "Turns out he's the skilled one."
 
-A monk asked, "When the sage Bhīma took Sudhana's hand and saw buddhas as countless as dust motes, what was that like?"
+A monk asked, "What was it like when the sage Bimu took Sudhana's hand and buddhas as countless as dust motes came into view?"
 Zhaozhou took the monk's hand and said, "What do you see?"
 
 A nun asked, "What is the practice of a monk?"
@@ -47,7 +47,7 @@ Zhaozhou said, "Don't have a baby."
 The nun said, "Master, that has nothing to do with it."
 Zhaozhou said, "If I got tangled up with you, what good would it do?"
 
-A monk asked, "Who is the master in charge here at Zhaozhou?"
+A monk asked, "Who is Zhaozhou's own master?"
 Zhaozhou said, "Farmhand."
 
 A monk asked, "What is the king's call for saindhava?"
@@ -77,7 +77,7 @@ A monk asked, "What is the Dharma?"
 Zhaozhou said, "Order! Order! Attention! Attention!"
 
 A monk asked, "How far is Zhaozhou from Zhenfu?"
-Zhaozhou said, "Three hundred miles."
+Zhaozhou said, "Three hundred li."
 The monk said, "And how far is Zhenfu from Zhaozhou?"
 Zhaozhou said, "No distance at all."
 
@@ -96,5 +96,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Not a single case but a whole afternoon of questions, strung together by the compiler. A few terms unlock it. A "wise teacher" is the stock honorific for an awakened guide, and Zhaozhou keeps shrugging it off. "Saindhava" is an old Indian riddle-word that meant salt, water, a horse, or a vessel depending on the moment, so a good servant brought the right one unprompted; asking "what is saindhava?" is really asking whether you can read a situation without instructions. The line a monk quotes, "the perfect Way is not hard, just quit picking and choosing," opens a poem everyone in the room had memorized, and Zhaozhou treats quoting it as exactly the mental fidgeting it warns against. Danxia once burned a wooden Buddha for firewood on a cold night, and the joke is that the scandalized by-the-book monk is the one who lost his eyebrows to bad karma, not the man who burned the statue. Through all of it Zhaozhou never defines anything; he keeps shoving each monk back into the physical world, your own hand, the kitchen fire, and last the cypress in the yard that became Gateless Gate 37.
+Not a single case but a whole afternoon of questions, strung together by the compiler. A few terms unlock it. A "wise teacher" is the stock honorific for an awakened guide, and Zhaozhou keeps shrugging it off. "Saindhava" is an old Indian riddle-word that meant salt, water, a horse, or a vessel depending on the moment, so a good servant brought the right one without having to ask which; asking "what is saindhava?" is really asking whether you can read a situation without instructions. The line a monk quotes, "the great Way isn't hard. It only hates picking and choosing," opens a Chan poem the monks would have known, and the monk asks whether it has become a place for people to hole up. Danxia once burned a wooden Buddha for firewood on a cold night, and the joke is that the temple director is the one said to have lost his eyebrows and beard, not the man who burned the statue. Through all of it Zhaozhou never defines anything; he keeps shoving each monk back into the physical world, your own hand, the kitchen fire, and last the cypress in the yard that became Gateless Gate 37.
 '''

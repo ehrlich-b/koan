@@ -29,7 +29,7 @@ Zhaozhou said, "Wide open, clear."
 A monk asked, "Who is the one that breaks out of the three realms?"
 Zhaozhou said, "No cage can hold him."
 
-A monk asked, "Before Niutou met the Fourth Patriarch, the birds brought him flowers. After he met him, why did the birds stop?"
+A monk asked, "Before Niutou met the Fourth Patriarch, birds of every kind brought him flowers as offerings. After he met him, why did the birds stop?"
 Zhaozhou said, "He answers the world, or he doesn't."
 
 A monk asked, "When the white cloud drifts free, what's that like?"
@@ -38,9 +38,9 @@ Zhaozhou said, "How does it beat the spring wind, idling everywhere it goes?"
 A monk asked, "What is the white ox in the open field?"
 Zhaozhou said, "Under the moon, no need for color."
 "What does it eat?"
-Zhaozhou said, "Past and present, it never bit down on a thing."
-"Then answer me straight, master."
-Zhaozhou said, "This is me answering straight."
+Zhaozhou said, "Past and present, there's been nothing it can get its teeth into."
+"Please answer me, master."
+Zhaozhou said, "This is how an old monk ought to answer."
 '''
 
 verse_zh = '''
@@ -49,5 +49,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Zhaozhou opens by drawing a hard line: he won't meter out beginner doctrine to suit your level, since the whole canon already exists for that. He deals only in the bare fact in front of you, and if you miss it the fault is yours. Then the stock ideas come and he swats each one. "This very mind is Buddha" is Mazu's famous slogan; the monk tries to be clever by subtracting the mind, and Zhaozhou refuses the game. The "ancient mirror, unpolished" is a classic figure for the pure mind under its grime, and where the monk wants metaphysics, Zhaozhou hands back plain cause and effect. Niutou was a hermit so holy that birds reportedly brought him flowers, until he woke up and left no trace for the birds to find, so they stopped, which is Zhaozhou's wry standard for real attainment: it disappears rather than glows. The "white ox in the open field" is a sutra image for the fully awakened person, nothing hidden, out where anyone could see. Every time a monk reaches for a concept to hold, Zhaozhou closes the hand.
+Zhaozhou opens by drawing a hard line: he won't meter out beginner doctrine to suit your level, since the whole canon already exists for that. He deals only in the bare fact in front of you, and if you miss it the fault is yours. Then the stock ideas come and he swats each one. "This very mind is Buddha" is Mazu's famous slogan; the monk tries to be clever by subtracting the mind, and Zhaozhou refuses the game. The "ancient mirror, unpolished" is a classic figure for the pure mind under its grime, and where the monk wants metaphysics, Zhaozhou hands back plain cause and effect. Niutou, the monk Farong, was a hermit so holy that birds reportedly brought him flowers. They stop after he meets the Fourth Patriarch, the very moment you'd expect him to earn the tribute. The "white ox in the open field" is a sutra image for the fully awakened person, nothing hidden, out where anyone could see. Every time a monk reaches for a concept to hold, Zhaozhou closes the hand.
 '''

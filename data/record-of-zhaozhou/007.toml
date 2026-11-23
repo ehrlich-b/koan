@@ -13,7 +13,7 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou took the high seat and said: "If you've trained a long time, you're already the real thing. What in you isn't true? What in you doesn't run straight through past and present? But the newcomers had better dig into the principle. Don't just trail along in the crowd, three hundred, five hundred, a thousand of you. Out there the two assemblies and the monasteries call so-and-so a fine abbot. Then someone asks him about the Dharma and it's like frying sand to make rice: nothing he can do with it, nothing he can get his mouth around. So he says everyone else is wrong and he's right, and his face goes beet red. All because the world keeps spouting talk that isn't the real teaching. If you actually want my meaning, don't let me down."
+Zhaozhou took the high seat and said: "If you've trained a long time, you're already the real thing. What in you isn't true? What in you doesn't run straight through past and present? But the newcomers had better dig into the principle. Don't just trail along in the crowd, three hundred, five hundred, a thousand of you. The two groups in a neighboring monastery sing the praises of their fine abbot. Then someone asks him about the Dharma and it's like frying sand to make rice: nothing he can do with it, nothing he can get his mouth around. So he says everyone else is wrong and he's right, and his face goes beet red. All because the world keeps spouting talk that isn't the real teaching. If you actually want my meaning, don't let me down."
 
 A monk asked: "Preaching the Dharma to the saints while still in the dust, that's all just dressing up. So how do you show it to people?"
 Zhaozhou said: "Where do you see me?"
@@ -24,7 +24,7 @@ Zhaozhou said: "You say it. I'll listen."
 
 A monk asked: "When the true teaching leaves no trace, no master, no disciples, what then?"
 Zhaozhou said: "Who told you to come ask?"
-The monk said: "There's nobody else here."
+The monk said: "No one else told me to."
 Zhaozhou hit him.
 
 A monk asked: "How do I sort this thing out?"
@@ -58,12 +58,12 @@ Zhaozhou said: "I'm not a phrase."
 A monk asked: "How do I keep from being fooled by everything around me?"
 Zhaozhou stuck out one foot. The monk brought him a sandal. Zhaozhou pulled his foot back in. The monk had nothing to say.
 
-A layman official asked: "While the Buddha was alive, every living being took refuge in the Buddha. After the Buddha passed into nirvana, where do all living beings take refuge?"
+An official asked: "While the Buddha was alive, every living being took refuge in the Buddha. After the Buddha passed into nirvana, where do all living beings take refuge?"
 Zhaozhou said: "There aren't any living beings yet."
 The official said: "But I'm asking you right now."
 Zhaozhou said: "What other Buddha are you hunting for?"
 
-A monk asked: "Is there anyone who doesn't repay the four kindnesses and the three existences?"
+A monk asked: "Is there anyone who doesn't repay the four debts of gratitude and the three realms of existence?"
 Zhaozhou said: "There is."
 The monk said: "Who?"
 Zhaozhou said: "You father-killer. Count yourself short by exactly this one question."
@@ -78,5 +78,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Another hall session: a brief address, then questions batted back one by one. Zhaozhou opens with a jab at the famous abbots of the day, the kind everyone praises until someone asks them about the Dharma and it turns out to be "frying sand to make rice," all show, nothing edible. Then the monks line up, and almost every one tries to corner him into stating the truth out loud: say the phrase, name the meaning, vouch for the answer. He won't, because anything you can pocket and carry off has already stopped being the thing. "The meaning of Bodhidharma coming from the West" is once more the question of what all this is for, and he answers by silently climbing down off his chair, then denying he said anything. The "four kindnesses and three existences" is just Buddhist debt-language for everything you owe, parents, teachers, ruler, the world; calling the questioner a father-killer is theater, not accusation, his way of saying the question itself proves the man is still tangled in owing and repaying.
+Another hall session: a brief address, then questions batted back one by one. Zhaozhou opens with a jab at the famous abbots of the day, the kind everyone praises until someone asks them about the Dharma and it turns out to be "frying sand to make rice," all show, nothing edible. Then the monks line up, and almost every one tries to corner him into stating the truth out loud: say the phrase, name the meaning, vouch for the answer. "The meaning of Bodhidharma coming from the West" is once more the question of what all this is for, and he answers by silently climbing down off his chair, then denying he said anything. The "four debts of gratitude" are what you owe to parents, other beings, rulers, and the Buddha, his teaching, and his community, in one traditional list. The "three realms of existence" take in the whole range of possible rebirths. The monk asks if anyone gets away without repaying those debts, and Zhaozhou calls him a father-killer.
 '''

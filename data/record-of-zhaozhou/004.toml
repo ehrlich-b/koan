@@ -13,9 +13,9 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou took the high seat and addressed the assembly. "This matter is plain as day, yet even a giant of a man can't get clear of it. When I went to see Guishan, a monk asked him, 'What is the meaning of Bodhidharma coming from the West?' Guishan said, 'Bring me my chair.' A true master has to meet people with the real thing. Nothing less will do."
+Zhaozhou took the high seat and addressed the assembly. "This matter is plain as day, yet even a giant of a man can't get clear of it. When I went to see Guishan, a monk asked him, 'What did Bodhidharma intend by coming from the West?' Guishan said, 'Bring me my chair.' A true master has to meet people with the real thing. Nothing less will do."
 
-A monk asked, "What is the meaning of Bodhidharma coming from the West?"
+A monk asked, "What did Bodhidharma intend by coming from the West?"
 
 Zhaozhou said, "The cypress tree out in the yard."
 
@@ -27,7 +27,7 @@ Zhaozhou said, "I'm showing you no object."
 
 Zhaozhou said, "The cypress tree out in the yard."
 
-He went on: "Ninety years ago I studied under Great Master Mazu, and I met more than eighty teachers under him. Every one was the real thing, not like the teachers nowadays, sprouting vines on top of vines. We've drifted that far from the sages. Each generation falls short of the last. Take what Nanquan always said: 'You have to walk among the other kinds.' Well, how do you understand that? These days some snot-nosed kid stands at the crossroads spinning tangled nonsense, scrounging a free meal and a bow, gathering three or five hundred followers, and crows, 'I'm the teacher, you're the students.'"
+He went on: "Ninety years ago I met more than eighty teachers from Great Master Mazu's school. Every one was the real thing, not like the teachers nowadays, sprouting vines on top of vines. We've drifted that far from the sages. Each generation falls short of the last. Take what Nanquan always said: 'You have to walk among the other kinds.' Well, how do you understand that? These days some snot-nosed kid stands at the crossroads spinning tangled nonsense, scrounging a free meal and a bow, gathering three or five hundred followers, and crows, 'I'm the teacher, you're the students.'"
 
 A monk asked, "What is a pure temple?"
 
@@ -49,7 +49,7 @@ A monk asked, "There is no Dharma apart from the Dharma. So what is the Dharma?"
 
 Zhaozhou said, "Outside, empty. Inside, empty. Inside and out, empty."
 
-A monk asked, "What is the true body of Buddha?"
+A monk asked, "What is the true Dharma body of the Buddha?"
 
 Zhaozhou said, "What more do you want?"
 
@@ -65,7 +65,7 @@ A monk asked, "What is the guest within the host?"
 
 Zhaozhou said, "This old monk has no father-in-law."
 
-A monk asked, "What is it that all things abide in forever?"
+A monk asked, "What does it mean that all things abide forever?"
 
 Zhaozhou said, "This old monk won't shy from naming his own ancestors."
 
@@ -78,5 +78,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Now Zhaozhou holds the seat himself. "Why did Bodhidharma come from the West?" is the stock shorthand for the largest question in this tradition, what the whole practice is even for, and his answer is to point at the cypress tree in the yard, twice, the same flat reply that became Gateless Gate 37. The monk objects that a tree is just an external object, and Zhaozhou denies he handed over any object at all, which is the live edge of the case: he is not naming a thing, he is refusing to turn the question into doctrine. The rest is Zhaozhou running his hall. He roasts the celebrity teachers of his day as frauds gathering crowds for a free meal, and then fends off a row of earnest questions with deadpan absurdities, a pregnant pigtailed girl, the giant radishes of Zhenzhou, and finally no answers at all. Each refusal does the same work the tree did: it won't let the asker pocket a tidy thing and walk off thinking he has it.
+Now Zhaozhou holds the seat himself. "Why did Bodhidharma come from the West?" is about the Indian monk credited with bringing Chan to China. It's the stock shorthand for the largest question in this tradition, what the whole practice is even for, and his answer is to name the cypress tree in the yard, twice, the same flat reply that became Gateless Gate 37. The monk objects that a tree is just an external object, and Zhaozhou denies he handed over any object at all, even though he's just named a tree. The rest is Zhaozhou running his hall. He roasts the celebrity teachers of his day as frauds gathering crowds for a free meal, and then fends off a row of earnest questions with deadpan absurdities, a pregnant pigtailed girl, the giant radishes of Zhenzhou, and finally no answers at all. Each refusal does the same work the tree did: it won't let the asker pocket a tidy thing and walk off thinking he has it.
 '''

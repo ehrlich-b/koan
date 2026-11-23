@@ -25,29 +25,29 @@ case_zh = '''
 '''
 case_en = '''
 Cockcrow, the hour of the Ox.
-Sick at heart to wake and still be broke.
+I dread getting up and finding things still a mess.
 No skirt, no shirt to my name.
 Just the shape of a monk's robe, more or less.
 Pants with no waistband.
 Trousers with no fly.
 A few pecks of gray ash heaped on my head.
-I set out to practice and save the world.
+I'd hoped to practice and do people some good.
 Who knew I'd turn out this useless.
 
 First light, the hour of the Tiger.
-A ruined village, a wrecked temple, nothing to say about it.
+A desolate village, a wrecked temple. It's hard to talk about.
 Not one grain of rice to break the fast.
 I sit and stare at an idle window and the dust in the cracks.
-Only the magpies racket.
+Nothing but a racket.
 Not a soul comes near.
 Sitting alone I hear the leaves keep falling.
 Who said leaving home cuts off love and hate?
 I turn it over and the tears soak the cloth before I know it.
 
 Sunup, the hour of the Rabbit.
-What's pure flips straight back into trouble.
-My little hoard of merit goes under the dust.
-Endless ground inside me, never once swept.
+What's pure turns back into affliction.
+The merit I worked for lies under a curtain of dust.
+A stretch of ground without end, never once swept.
 Much frowning.
 Little ease.
 And damn that swarthy old man from the east village:
@@ -55,8 +55,8 @@ never once brought an offering my way,
 just turns his donkey loose on the grass in front of my hall.
 
 Mealtime, the hour of the Dragon.
-I watch the neighbors' chimney smoke for nothing.
-Steamed buns and dumplings, that was years ago.
+I watch for smoke from the neighbors, for nothing.
+I said goodbye to buns and dumplings the year before last.
 Today I think of them and swallow on empty.
 Few say the prayers.
 Many heave the sighs.
@@ -68,8 +68,8 @@ Late morning, the hour of the Snake.
 I shaved my head. Who knew it would come to this.
 Out of nowhere they made me the village monk.
 Hounded, starved, half dead with want.
-Some Zhang San.
-Some Li Si.
+Hu Zhang the Third.
+Dark Li the Fourth.
 Never a scrap of respect from them.
 Now there's someone at the gate again,
 wanting to borrow tea, and paper too.
@@ -80,14 +80,14 @@ I trudge from the south house to the north house.
 Reach the north house, and they brush me off as well.
 Bitter sand-salt.
 Barley vinegar.
-Sorghum rice and a mess of bitter lettuce.
+Cooked sorghum and pickled lettuce.
 They call it an offering, no small thing:
 "Monk, keep that resolve of yours good and firm."
 
 Past midday, the hour of the Sheep.
-This time around I don't even walk in the daylight.
+This time I let the daylight pass without stirring.
 They say one full meal makes you forget a hundred hungers.
-Today that old monk is the proof.
+Today this old monk is the proof.
 I don't drill at meditation.
 I don't argue doctrine.
 I spread a broken mat and sleep in the sun.
@@ -98,9 +98,9 @@ Afternoon, the hour of the Monkey.
 There are people who burn incense and bow.
 Five old women, three with goiters,
 a pair of faces black and cracked.
-Sesame-oil tea.
+Sesame tea.
 A real treasure, this.
-No need to strain like a temple guardian flexing his sinews.
+Guardian, no need to strain those muscles.
 "May next year's silkworms and wheat come in,
 and give little Rahula here a penny."
 
@@ -108,8 +108,8 @@ Sundown, the hour of the Rooster.
 Strip off the desolation and what's left to guard?
 High-flying clouds-and-water monks: none, for certain.
 Novices drifting temple to temple: always a crowd.
-They talk above their station.
-They can't back it up.
+Words that break the mold
+never make it out of their mouths.
 A waste, calling yourselves the Buddha's heirs.
 This one staff of rough briarwood,
 not just for climbing hills but for beating off dogs.
@@ -121,15 +121,15 @@ What's before my eyes is pure Jinzhou lacquer, black.
 No bell to hear.
 The day gone for nothing.
 Only the rats, squeaking and scuffling.
-Where am I to find the heart for anything?
-I turn it over and recite one paramita.
+How am I supposed to find the heart
+to think about reciting a paramita?
 
 Settling in, the hour of the Boar.
 Who's out there loving the bright moon at the gate?
 Indoors I only dread lying down:
-no quilt, nothing to pull over me.
-Director Liu.
-Layman Zhao.
+no clothes to pull over myself.
+Monastery steward Liu.
+Zhao of the Five Precepts.
 The virtue rolling off their tongues is a wonder to hear.
 Let this mountain monk's sack hang empty,
 ask them for a thing and they come up blank every time.
@@ -139,9 +139,9 @@ When has the mind ever had a moment's rest?
 I think of all the home-leavers under heaven:
 how many run a temple like mine?
 A dirt platform for a bed.
-A busted reed screen.
+A busted reed mat.
 An old elm-wood pillow and no blanket at all.
-No calming-resin incense before the holy image.
+No benzoin incense before the holy image.
 In the ashes, only the smell of cow dung.
 '''
 
@@ -151,5 +151,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Here the book changes register: the hall-talks give way to verse, and this is the long one, Zhaozhou's comic gripe-poem about life at his broke, falling-apart temple. The old Chinese day ran on twelve two-hour blocks, each named for an animal (Ox, Tiger, Rabbit, on around), so the poem is a clock, and at every hour something is wretched: no clothes, no food, no respect, freeloaders who turn up only wanting free tea, "donors" who never donate. A few things to catch: "leaving home" means becoming a monk; "clouds-and-water" is slang for the wandering monks who were supposed to be the serious seekers, and he is complaining that none of the good ones come, just dropout novices; Tushita is a heaven, and he jokes that even paradise can't beat lying in the sun. The closing whiff of cow dung where holy incense should be is the whole poem in one breath. The joke under the joke: this is the man the tradition crowns a great awakened teacher, and here he sits, freezing, starving, and gorgeously bitter about it.
+Here the book changes register: the hall-talks give way to verse, and this is the long one, Zhaozhou's comic gripe-poem about life at his broke, falling-apart temple. The old Chinese day ran on twelve two-hour blocks, each associated with an animal (Ox, Tiger, Rabbit, on around), so the poem is a clock, and at nearly every hour something is wretched: no clothes, no food, no respect, freeloaders who turn up only wanting free tea, "donors" who never donate. A few things to catch: "leaving home" means becoming a monk; "clouds-and-water" is slang for the wandering monks who were supposed to be the serious seekers, and he is complaining that none of the good ones come, just novices doing the rounds; Tushita is a heaven, and he jokes that even paradise can't beat lying in the sun. The closing whiff of cow dung where holy incense should be is the whole poem in one breath. The joke under the joke: this is the man the tradition crowns a great awakened teacher, and here he sits, freezing, starving, and gorgeously bitter about it.
 '''

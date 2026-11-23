@@ -83,11 +83,11 @@ Zhaozhou lowered his head.
 
 A monk asked, "Where does the Way come from?"
 
-Zhaozhou said, "Now you've made it into a thing. The Way has nothing to do with being born or dying."
+Zhaozhou said, "That's arising. The Way isn't subject to arising or ceasing."
 
 The monk said, "Then isn't it simply natural?"
 
-Zhaozhou said, "This here is natural. The Way is not."
+Zhaozhou said, "That's what's natural. It isn't like that with the Way."
 
 A monk asked, "The intent of the ancestors and the intent of the teachings: same, or different?"
 
@@ -95,7 +95,7 @@ Zhaozhou said, "Get the intent of the ancestors and you'll get the intent of the
 
 A monk asked, "What is it to walk among the different kinds?"
 
-Zhaozhou said, "Oṃ □ lin, oṃ □ lin." [The middle syllable is illegible in the source.]
+Zhaozhou said, "Om ... lin, om ... lin."
 
 A monk asked, "What about when it's too high and steep to climb?"
 
@@ -107,7 +107,7 @@ Zhaozhou said, "Caoxi is rough going."
 
 The monk said, "Why does no one get there these days?"
 
-Zhaozhou said, "Because it's that high and steep."
+Zhaozhou said, "Because he's that high and steep."
 
 A monk asked, "What is the jewel-moon hanging in the sky?"
 
@@ -177,7 +177,7 @@ A monk asked, "Is there anyone who doesn't repay the four debts of gratitude and
 
 Zhaozhou said, "There is."
 
-The monk said, "Who?"
+The monk said, "What are they like?"
 
 Zhaozhou said, "This ungrateful wretch."
 
@@ -189,7 +189,7 @@ A monk asked, "Who is the real master of Zhaozhou?"
 
 Zhaozhou said, "I am. Congshen."
 
-An old woman asked, "A woman's body carries the five hindrances. How do I get free of them?"
+An old woman asked, "I have a body subject to the five obstacles. How can I get free of them?"
 
 Zhaozhou said, "May everyone be reborn in heaven, and may you, old woman, sink forever in the sea of suffering."
 
@@ -208,5 +208,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Another column of one-line bouts from the hall, monks and a couple of laypeople lobbing, Zhaozhou firing back. Footholds: "the intent of the ancestors and the intent of the teachings" is the stock question of whether Zen, passed person to person, and the written scriptures point at the same thing. "Caoxi" is the home temple of the Sixth Ancestor, shorthand for the source of the whole tradition, so "Caoxi is rough going" plays the source as a mountain road. "Vairocana" is the cosmic, all-pervading buddha, which makes "who is his teacher" a setup with no comfortable answer. The exchange with the old woman is the hardest: the "five hindrances" was a sexist doctrine that a woman's body blocks awakening, and rather than reassure her or endorse it, Zhaozhou says something so blunt it knocks the doctrine over instead of answering inside it. The closer is the tell: asked who the real master of Zhaozhou is, he gives his own plain name, Congshen. Nobody special, just the man in front of you.
+Another column of one-line bouts from the hall, monks and a couple of laypeople lobbing, Zhaozhou firing back. Footholds: "the intent of the ancestors and the intent of the teachings" is the stock question of whether Zen, passed person to person, and the written scriptures point at the same thing. "Caoxi" is the home of Huineng, the Sixth Ancestor, shorthand for the source of the whole tradition, so "Caoxi is rough going" plays the source as a mountain road. "Vairocana" is the cosmic, all-pervading buddha, which makes "who is his teacher" a setup with no comfortable answer. The exchange with the old woman is the hardest: the "five obstacles" are five roles a received Buddhist teaching said a woman couldn't attain, including a buddha and a monarch who rules the whole world. Instead of telling her how to escape them, Zhaozhou wishes her alone an eternity in the sea of suffering. Asked who the real master of Zhaozhou is, he gives his own plain name, Congshen.
 '''
