@@ -13,13 +13,13 @@ case_zh = '''
 
 '''
 case_en = '''
-Dajue came for an interview. Linji raised his whisk. Dajue spread his sitting cloth. Linji threw the whisk down, and Dajue rolled the cloth back up and walked into the monks' hall.
+Dajue came for an interview. Linji raised his whisk. Dajue spread his bowing mat. Linji threw the whisk down, and Dajue gathered up the mat and walked into the monks' hall.
 
-The other monks said, "That one must be a friend of the master's. He didn't bow, and he didn't get the stick."
+The other monks said, "That one must be a relative or old friend of the master's. He didn't bow, and he didn't get the stick."
 
 Linji heard this and sent for Dajue. When Dajue came out, Linji said, "Everyone's saying you never paid your respects to the elder."
 
-"How are you," Dajue said, and went back to join the others.
+"My respects," Dajue said, and went back to join the others.
 '''
 
 verse_zh = '''
@@ -28,5 +28,5 @@ verse_en = '''
 '''
 
 pointer = '''
-An "interview" is the formal one-on-one where a student is supposed to prove himself, and Linji is the rough examiner. Raising the whisk and spreading the sitting cloth are the scripted opening moves of that ritual, test and response. Then Linji throws the whisk down, cancelling the contest mid-step, and Dajue instantly rolls up his cloth and leaves, declining to make the next move in a game that is already off. The watching monks read it as favoritism, why did this one skip the usual beating, and so Linji baits him in front of the crowd: everyone says you never paid your respects. Dajue tosses back a flat "how are you" and rejoins the group, unbothered, and that is the pass. He met Linji by having nothing to win and nothing to defend, which is the same emptiness Linji keeps trying to provoke and almost never gets.
+An "interview" is the formal one-on-one where a student is supposed to prove himself, and Linji is the rough examiner. Raising the whisk and spreading the bowing mat are the scripted opening moves of that ritual, test and response. Then Linji throws the whisk down, cancelling the contest mid-step, and Dajue instantly gathers up his mat and leaves, declining to make the next move in a game that is already off. The watching monks read it as favoritism, why did this one skip the usual beating, and so Linji baits him in front of the crowd: everyone says you never paid your respects. Dajue tosses back a flat "my respects" and rejoins the group, unbothered.
 '''

@@ -15,7 +15,7 @@ case_zh = '''
 case_en = '''
 Linji asked the temple steward, "Where have you been?"
 
-"Down in town, selling off the millet."
+"Down in town, selling yellow millet."
 
 "Sell all of it?"
 
@@ -37,15 +37,15 @@ A lecture-master came to pay his respects. Linji asked, "What sutra do you teach
 
 "I'm only a clumsy amateur, but I've worked through the Treatise on the Hundred Dharmas a little."
 
-Linji said, "Take one man who has mastered the whole canon, the three vehicles and the twelve divisions of the teaching, and another who has mastered none of it. Same, or different?"
+Linji said, "Take one man who has mastered the teachings of the three vehicles and the twelve divisions, and another who has mastered none of it. Same, or different?"
 
 "The one who has mastered it, same," said the master. "The one who hasn't, different."
 
-Lepu, standing behind Linji as his attendant, spoke up. "Master, what kind of place do you take this for, that we should be talking 'same' and 'different'?"
+Luopu, standing behind Linji as his attendant, spoke up. "Lecturer, what kind of place do you take this for, that we should be talking 'same' and 'different'?"
 
 Linji turned to him. "And you, what do you say?"
 
-Lepu shouted.
+Luopu shouted.
 
 When Linji had seen the lecture-master off, he came back and asked the attendant, "Was it me you shouted at just now?"
 
@@ -60,5 +60,5 @@ verse_en = '''
 '''
 
 pointer = '''
-One of the longer stretches of testing, four people stress-tested back to back. The thread to watch is the borrowed move: students had learned that a sudden shout supposedly proved you had cut through ordinary mind, and that a smooth gesture could pass for insight, and they keep trying these on Linji to win his nod. The steward sells off the monastery's millet and figures he can "sell" the line Linji scratches in the dirt too, treating a live demand like more inventory. The cook explains the steward instead of showing his own hand. The lecture-master, a scholar-monk who teaches scripture, files Linji's "same or different" question into a tidy textbook answer. Lepu, Linji's young attendant, shouts to look like he has it. Every one of them gets hit, and the lesson is not that the shout is wrong but that any move performed to earn approval is just another place to hide. Compare case 41, where Linji lays out what a real shout is, and case 35, where Lepu tries this same shout and eats the same stick.
+One of the longer stretches of testing, four people stress-tested back to back. The thread to watch is the borrowed move: students had learned that a sudden shout supposedly proved you had cut through ordinary mind, and that a smooth gesture could pass for insight, and they keep trying these on Linji to win his nod. The steward sells off the monastery's millet and figures he can "sell" the line Linji scratches in the dirt too, treating a live demand like more inventory. The cook explains the steward instead of showing his own hand. The lecture-master, a scholar-monk who teaches scripture, files Linji's "same or different" question into a tidy textbook answer. Luopu, Linji's young attendant, shouts when Linji puts the question to him. Every one of them gets hit. Compare case 41, where Linji lays out what a shout can do, and case 35, where Luopu tries this same shout and eats the same stick.
 '''

@@ -19,7 +19,7 @@ On his way to Fenglin, Linji met an old woman on the road.
 
 "Fenglin."
 
-"Too bad. Fenglin's not in."
+"You've come when Fenglin's out."
 
 "Then where are you headed?" said Linji.
 
@@ -32,5 +32,5 @@ verse_en = '''
 '''
 
 pointer = '''
-This is the short setup to the longer Fenglin encounter in case 63, and Fenglin is both the place Linji is walking toward and the name of the master who lives there, which is the whole joke in the old woman's line. "Fenglin's not in" means at once "the master is out" and "there's no Fenglin for you to go find," and she's baiting Linji to do the very thing his teaching warns against, chasing off after a destination or a master as if the thing were somewhere ahead of him. He won't take it: he spins her own question around, "then where are YOU headed?", and she drops the game and walks. Then he calls her back, and the instant her head turns to look he hits. The exchange lives entirely in the timing, the catching of someone in the small reflex of turning toward a voice, and nothing either of them says is the point.
+This is the short setup to the longer Fenglin encounter in case 63, and Fenglin is both the place Linji is walking toward and the name of the master who lives there, which is the whole joke in the old woman's line. "Fenglin's not in" says the master is out, even though the place is still right where it was. He won't take it: he spins her own question around, "then where are YOU headed?", and she walks on. Then he calls her back, and the instant her head turns to look he hits. The exchange lives entirely in the timing, the catching of someone in the small reflex of turning toward a voice.
 '''

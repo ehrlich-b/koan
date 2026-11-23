@@ -1,7 +1,7 @@
 number = 51
 slug = ""
 title_zh = "行錄"
-title_en = "The Hoe"
+title_en = "Who Can Lift the Mattock?"
 
 intro_zh = '''
 '''
@@ -13,19 +13,19 @@ case_zh = '''
 
 '''
 case_en = '''
-One day the monks were all out on communal work. Linji was walking at the back, empty-handed. Huangbo glanced back, saw nothing in his hands, and asked, "Where's your hoe?"
+One day the monks were all out on communal work. Linji was walking at the back, empty-handed. Huangbo glanced back, saw nothing in his hands, and asked, "Where's your mattock?"
 
 Linji said, "Somebody took it."
 
 Huangbo said, "Come here. Let's talk this over."
 
-Linji stepped up. Huangbo held up his own hoe and said, "Just this, and no one in the world can lift it."
+Linji stepped up. Huangbo held up the mattock and said, "Just this, and no one in the world can lift it."
 
 Linji snatched it out of his hand, held it up, and said, "Then how is it in mine?"
 
 Huangbo said, "Today there's a real worker on the crew," and went back to the monastery.
 
-Later Guishan asked Yangshan, "The hoe was in Huangbo's hand. How did Linji wrest it away?"
+Later Guishan asked Yangshan, "The mattock was in Huangbo's hand. How did he let Linji snatch it away?"
 
 Yangshan said, "The thief is a petty man, but in cunning he outdoes the gentleman."
 '''
@@ -36,5 +36,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Still on the work crew with Huangbo, the same setting as the hoeing in 48; Zen monasteries ran on everyone hauling and hoeing, abbot included. Linji turns up empty-handed, and when Huangbo asks where his hoe went he says somebody took it. Then Huangbo holds up his own hoe and makes a flat-out provocation: "just this, and nobody in the world can lift it." He isn't talking about weight, he's daring Linji to meet the claim, and Linji's reply is to grab the thing and hold it overhead: "then how's it in mine?" Action settles what argument can't. The closing wink comes from Guishan and Yangshan, who call Linji a "thief" who in cunning outdoes the gentleman, and in this world that's a compliment, not a charge; lifting the hoe out of the master's hand was precisely the answer the master was fishing for.
+Still on the work crew with Huangbo, the same setting as the hoeing in 48; Zen monasteries ran on everyone hauling and hoeing, abbot included. Linji turns up empty-handed, and when Huangbo asks where his mattock went he says somebody took it. Then Huangbo holds up the mattock and makes a flat-out provocation: "just this, and nobody in the world can lift it." He isn't talking about weight, he's daring Linji to meet the claim, and Linji's reply is to grab the thing and hold it upright: "then how's it in mine?" The closing wink comes from Yangshan, who calls Linji a "thief" who in cunning outdoes the gentleman, and in this world that sounds like a compliment.
 '''

@@ -1,7 +1,7 @@
 number = 42
 slug = ""
 title_zh = "勘辨"
-title_en = "Come in Peace or War?"
+title_en = "Come for Good or for Ill?"
 
 intro_zh = '''
 '''
@@ -13,7 +13,7 @@ case_zh = '''
 
 '''
 case_en = '''
-Linji asked a nun, "In peace, or in war?"
+Linji asked a nun, "Have you come for good or for ill?"
 
 The nun shouted.
 
@@ -28,5 +28,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Right after laying out his theory of the shout (case 41), Linji meets someone who can throw one. His opening, "in peace, or in war," forces a choice, friend or foe, and any answer takes the bait. The nun skips the words and shouts, flinging the challenge straight back, a clean move. Then Linji baits her again, "say it again," and when she repeats the same shout he hits her. Read against the four shouts he just described, this is the test: a real response rises fresh to the moment, but run the identical move twice on demand and it has already congealed into a habit, a thing she owns rather than a thing happening now. He hit her for the second shout, not the first. The fact that she is a nun is almost the only place in the record one appears, and Linji tests her on exactly the terms he tests everyone, no softer.
+Right after laying out his theory of the shout (case 41), Linji meets someone who can throw one. His opening, "have you come for good or for ill," turns a greeting into a choice, and any answer takes the bait. The nun skips the words and shouts, flinging the challenge straight back, a clean move. Then Linji baits her again, "say it again," and when she repeats the same shout he hits her. He hit her for the second shout, not the first. The fact that she is a nun is almost the only place in the record one appears, and Linji tests her on exactly the terms he tests everyone, no softer.
 '''

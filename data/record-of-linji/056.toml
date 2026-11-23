@@ -17,19 +17,23 @@ Linji came to Sanfeng. Master Ping asked, "Where have you come from?"
 
 "From Huangbo," Linji said.
 
-"And what is Huangbo saying these days?"
+"What did Huangbo have to say?"
 
-Linji said, "Last night the golden ox was dragged through mud and ashes. Not a trace of him since."
+Linji said, "Last night the golden ox came to grief.
+To this moment, not a trace of him."
 
-Ping said, "A golden wind blows through a jade flute. Who hears the tune?"
+Ping said, "A golden wind blows through a jade flute.
+Who knows the tune?"
 
-Linji said, "Straight through ten thousand gates, and even then not resting in the clear sky."
+Linji said, "Straight through ten thousand gates,
+with no resting place in the clear sky."
 
-Ping said, "That answer aims awfully high."
+Ping said, "That question of yours is pitched awfully high."
 
-Linji said, "The dragon breeds a golden phoenix that shatters the blue glass."
+Linji said, "A dragon sires a golden phoenix,
+which breaks through the blue-green glass."
 
-"Sit down," Ping said. "Have some tea." Then he asked, "And before that, where did you leave from?"
+"Sit down," Ping said. "Have some tea." Then he asked, "And where have you just come from?"
 
 "Longguang," Linji said.
 
@@ -44,5 +48,5 @@ verse_en = '''
 '''
 
 pointer = '''
-Linji arrives at Master Ping's place fresh from two earlier stops, and the meeting is conducted entirely in poetry, which is itself the exam. When Ping asks what Linji's old teacher Huangbo has been saying lately, a dutiful student would relay a lesson; Linji answers with a riddle about a "golden ox" dragged through the mud and gone without a trace, handing over nothing you could write down (and watch the same golden ox turn up as a person's name later, in case 64). Ping keeps fishing with prettier and prettier lines, jade flutes and golden wind, and each time Linji tops him with something larger and harder to grab, until he simply stops playing. Then Ping shifts to the polite move, "sit down, have some tea, and where were you before this?", and Linji walks straight out. The imagery is decoration; the case is about a man who won't be reeled in, not by a riddle, not by flattery, not even by hospitality.
+Linji arrives at Master Ping's place fresh from two earlier stops, and a bit of talk about his travels turns into an exam conducted in poetry. When Ping asks what Linji's old teacher Huangbo has been saying lately, a dutiful student would relay a lesson; Linji answers with a riddle about a "golden ox" that came to grief and is gone without a trace, handing over nothing you could write down (and watch the same golden ox turn up as a person's name later, in case 64). Ping keeps fishing with prettier and prettier lines, jade flutes and the golden wind of autumn, and each time Linji tops him with something larger and harder to grab, until he simply stops playing. Then Ping shifts to the polite move, "sit down, have some tea, and where were you before this?" Linji says Longguang, the teacher he visited in case 55, and walks straight out when Ping asks after him.
 '''
