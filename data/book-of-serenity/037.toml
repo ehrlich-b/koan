@@ -1,14 +1,14 @@
 number = 37
 slug = ""
 title_zh = "溈山業識"
-title_en = "Guishan's Karmic Mind"
+title_en = "Guishan's Karmic Consciousness"
 
 intro_zh = '''
 驅耕夫之牛，拽迴鼻孔；奪飢人之食，把定咽喉。還有下得毒手者麼？
 
 '''
 intro_en = '''
-Drive off the plowman's ox. Yank the bull around by the nose. Snatch the food from a starving man's hands. Clamp down on his throat. Anybody here got a hand cruel enough?
+Drive off the plowman's ox and pull it back by the nose. Snatch a hungry person's food and take hold of their throat. Anybody here got a hand cruel enough?
 '''
 
 case_zh = '''
@@ -16,9 +16,9 @@ case_zh = '''
 
 '''
 case_en = '''
-Guishan said to Yangshan, "Suppose someone comes and says, 'Every living being is nothing but karmic mind, a vast murky drift with no root to stand on.' How would you test him?"
+Guishan asked Yangshan, "Suppose someone says, 'All sentient beings have only karmic consciousness, a vast murk with no ground to rely on.' How would you test him?"
 
-Yangshan said, "If a monk comes along, I call out to him. When he turns his head I say, 'What is that?' Before he can scramble for an answer, I tell him: not only is karmic mind a vast murky drift, it has no root to stand on either."
+Yangshan said, "If a monk came, I'd call his name. When he turned his head I'd say, 'What is it?' I'd wait until he started to think it over and say, 'Karmic consciousness is a vast murk, and there's also no ground to rely on.'"
 
 Guishan said, "Good."
 '''
@@ -31,12 +31,12 @@ verse_zh = '''
 
 '''
 verse_en = '''
-One call, his head turns. Does he know me or not?
+One call and you turn your head. Do you recognize me?
 Faint behind the vines, the moon hooks thin again.
-The rich man's son, the moment his fortune is gone,
-takes the dead-end road, and the grief has no end.
+A rich man's son has just fallen on hard times.
+On the bleak road to nowhere, what grief he finds.
 '''
 
 pointer = '''
-Guishan and Yangshan founded one of the early Chan houses, and this is shop talk between teacher and star pupil. "Karmic mind" is their name for the ordinary reactive mind, the one on autopilot, yanked around by every impulse and habit with no solid ground beneath it. Yangshan's move is to catch the thing live rather than describe it: call a man's name, his head whips around on pure reflex, and there is the rootless reflex itself, naked, before he can wrap it in an explanation. The verse closes the loop with a rich man's son who blows the whole inheritance and ends up wandering broke on a dead-end road, which is the human condition in one figure: living off a borrowed mind, mistaken for owned property. Where exactly is the ground he thinks he's standing on?
+Guishan and Yangshan founded one of the early Chan houses, and this is shop talk between teacher and star pupil. "Karmic consciousness" is awareness shaped by past actions, the habits and impulses that can leave you on autopilot. It's the same term Zhaozhou uses for the dog in case 18. Yangshan's move is to catch the thing live rather than describe it: call a man's name, wait for him to turn his head, then ask what just happened and watch him start to think it over. The verse closes the loop with a rich man's son who falls on hard times and ends up wandering broke on a dead-end road. Where exactly is the ground he thinks he's standing on?
 '''

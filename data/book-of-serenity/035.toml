@@ -1,14 +1,14 @@
 number = 35
 slug = ""
 title_zh = "洛浦伏膺"
-title_en = "Luopu Bows His Head"
+title_en = "Luopu Takes It to Heart"
 
 intro_zh = '''
 迅機捷辯，折衝外道天魔；逸格超宗，曲為上根利智。忽遇箇一棒打不迴頭底漢，時如何？
 
 '''
 intro_en = '''
-A quick mind and a fast tongue can knock down any rival, any demon, any heretic. Break the rules, leave your school behind, bend over backwards for the sharpest students. Then one day a man walks in who won't turn his head no matter how hard you hit him. Now what?
+Quick moves and ready speech can turn back outsiders and heavenly demons. Going beyond the usual rules and the school's ways is a concession to the sharpest students. What happens when you run into someone who won't turn his head at a blow from the staff?
 '''
 
 case_zh = '''
@@ -16,21 +16,21 @@ case_zh = '''
 
 '''
 case_en = '''
-Luopu came to study with Jiashan. He didn't bow. He just stood there, facing him.
+Luopu went to see Jiashan. He didn't bow. He just stood there, facing him.
 
 Jiashan said, "A chicken roosting in a phoenix's nest. You don't belong here. Get out."
 
-Luopu said, "I came a long way, drawn by your reputation. Grant me one exchange, master."
+Luopu said, "I've come a long way on the strength of your reputation. Please, master, take me in."
 
-Jiashan said, "There's no one in front of me. There's no old monk here."
+Jiashan said, "There's no reverend in front of me, and no old monk here."
 
 Luopu shouted.
 
-Jiashan said, "Hold on, hold on. Don't be so hasty, so reckless. Clouds and moon are the same everywhere, but the valley and the mountain are each their own. Cut off everyone's tongue, fine. But how do you make a man with no tongue talk?"
+Jiashan said, "Wait, wait. Don't be in such a rush. The clouds and moon are the same, but the streams and mountains differ. You can cut off every tongue under heaven, sure. How do you get a man without a tongue to speak?"
 
 Luopu had nothing to say.
 
-Jiashan hit him. From then on Luopu bowed his head and stayed.
+Jiashan hit him. From then on Luopu took his teaching to heart.
 '''
 
 verse_zh = '''
@@ -47,18 +47,18 @@ verse_zh = '''
 
 '''
 verse_en = '''
-Tail thrashing, head tossing, the red-finned fish:
-nothing beneath it to lean on, yet it knows how to turn.
-Cut off every tongue? Fine, there's a trick to that.
-But to drag a man back by the nose takes real magic.
-Outside the bright-night blind, wind and moon make it day.
-At the foot of the dead-tree cliff, the flowers bloom all spring.
-The man with no tongue, the man with no tongue:
-hold up the whole command in one close word.
-Walking alone through the world, clear and bright,
-he lets all under heaven be glad and at ease.
+Head tossing, tail lashing, a red-tailed fish.
+Nothing beneath it to lean on, yet it knows how to turn.
+Granted, there's a trick to cutting off tongues.
+To pull someone back by the nose takes a marvelous touch.
+Outside the screen at night, wind and moon, light as day.
+Before Dead Tree Crag, flowers are always in spring.
+A man with no tongue, a man with no tongue.
+The whole command comes through in a single word.
+He walks the world alone, utterly clear.
+He lets everyone under heaven go on rejoicing.
 '''
 
 pointer = '''
-Ninth-century China, two masters. Luopu arrives at Jiashan's place cocky enough to skip the bow and just stand there. The opening jabs are routine sparring: Jiashan tests him with insults, Luopu volleys back, then lets out a "shout," the wordless yell Chan students used to blast through a teacher's logic and signal they were playing on the higher level. Then Jiashan flips the floor. He grants that the kid is sharp enough to silence anyone, and asks the real thing: anybody can shut people up, but can you make a man with no tongue speak, can you teach from the place where words give out? Luopu has nothing. The shout was a technique; this question is the country the technique was supposed to reach, and he is not standing in it. He takes the blow, drops the swagger, and stays. The verse keeps returning to that tongueless man because the teaching it points at comes from under the talk, not from the talk.
+Ninth-century China, two masters. Luopu arrives at Jiashan's place cocky enough to skip the bow and just stand there. The opening jabs are routine sparring: Jiashan tests him with insults, Luopu volleys back, then lets out a "shout," a wordless yell familiar from teachers like Linji. Then Jiashan flips the floor. He grants that the kid is sharp enough to silence anyone, and asks the real thing: anybody can shut people up, but can you make a man with no tongue speak? Luopu has nothing. He takes the blow and drops the swagger. The verse keeps returning to that tongueless man after the case has left him without a word.
 '''

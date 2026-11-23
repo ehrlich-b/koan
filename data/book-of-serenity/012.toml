@@ -1,14 +1,14 @@
 number = 12
 slug = ""
 title_zh = "地藏種田"
-title_en = "Dizang Plants the Fields"
+title_en = "Dizang Farms for His Rice"
 
 intro_zh = '''
 才士筆耕，辯士舌耕。我衲僧家，慵看露地白牛，不顧無根瑞草，如何度日？
 
 '''
 intro_en = '''
-The talented scholar farms with his pen. The clever debater farms with his tongue. But us monks? We're too lazy to watch the white ox out in the open field, and we pay no mind to the auspicious weed with no roots. So how do we get through the day?
+The gifted scholar plows with a pen. The skilled debater plows with a tongue. But us monks? We're too lazy to watch the white ox out in the open, and we pay no mind to the auspicious weed with no roots. So how do we get through the day?
 '''
 
 case_zh = '''
@@ -19,10 +19,10 @@ case_en = '''
 Dizang asked Xiushan, "Where are you coming from?"
 Xiushan said, "From down south."
 Dizang said, "How's the Dharma doing down south these days?"
-Xiushan said, "Everyone's busy arguing about it."
-Dizang said, "How does that beat me up here, planting fields and cooking my rice?"
-Xiushan said, "And what about the three worlds?"
-Dizang said, "What is it you're calling the three worlds?"
+Xiushan said, "Everyone's busy talking it over."
+Dizang said, "How does that compare with farming here to earn my rice?"
+Xiushan said, "And what about the three realms?"
+Dizang said, "What is it you're calling the three realms?"
 '''
 
 verse_zh = '''
@@ -37,16 +37,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-Teaching, talking, all of it forced labor,
-passed mouth to ear till it falls to pieces.
-Plant the fields, cook the rice, the everyday round,
-and if you haven't trained to the bone you'll never know it.
-Train to the full and you know: nothing to chase.
-Zhang Liang in the end cared nothing for rank and fief.
-Drop the scheming, go home, fall in with fish and birds,
-wash your feet in the blue river, misty trees, autumn.
+The teaching and talk, every kind of it forced.
+Passed from ear to mouth, it falls to pieces.
+Farming to earn your rice is everyday business.
+And if you haven't trained to the bone you'll never know it.
+Full of practice, you know there's nothing to seek.
+Zhang Liang, in the end, put no store by a lord's title.
+Drop your schemes and go home to the fish and birds.
+Wash your feet in the Canglang, among misty autumn trees.
 '''
 
 pointer = '''
-Two Chan teachers meeting: Dizang runs a quiet monastery, Xiushan is a traveling monk passing through. Xiushan reports that down south the Dharma is all hot debate and theory, and Dizang counters that he would rather farm and cook, since for him that plain physical labor of running a monastery is the practice. Then Xiushan springs the trap, "the three worlds," the Buddhist name for the entire web of existence and suffering you are supposedly trying to escape: nice talk, he implies, but you cannot dodge the big spiritual problem by hiding in chores. Dizang's reply flips it, refusing to accept the three worlds as some looming wall and instead asking what exactly Xiushan even means by the phrase. That is the move worth watching, a teacher who will not let an abstraction become a thing to climb. The verse points to Zhang Liang, the statesman who helped win an empire and then walked away from the rewards, because the whole drift here is wanting nothing.
+Two Chan teachers meeting: Dizang runs a monastery, Xiushan is a traveling monk passing through. Xiushan reports that down south the Dharma is all hot debate and theory, and Dizang counters with what he does at home, farming to earn his rice. Then Xiushan springs the trap, "the three realms," the Buddhist name for the whole range of existence you are supposedly trying to escape, from the realm of desire to those of form and formlessness: nice talk, he implies, but you cannot dodge the big spiritual problem by hiding in chores. Dizang's reply flips it, refusing to accept the three realms as some looming wall and instead asking what exactly Xiushan even means by the phrase. The verse points to Zhang Liang, the statesman who helped win an empire and then walked away from the rewards, just after it brings up having nothing to seek.
 '''

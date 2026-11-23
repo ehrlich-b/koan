@@ -16,15 +16,15 @@ case_zh = '''
 
 '''
 case_en = '''
-Dongshan was making offerings before a portrait of his late teacher, Yunyan, and as he did he brought up the old story of the portrait.
+Dongshan was making offerings before a portrait of Yunyan and brought up the earlier exchange about portraying him.
 
-A monk had once asked Yunyan, "When you said 'Just this is it,' what did you mean?"
+A monk asked Dongshan, "When Yunyan said 'Just this is it,' what did he mean?"
 
-Dongshan said, "Back then I nearly mistook my teacher's meaning."
+Dongshan said, "Back then I nearly mistook my late teacher's meaning."
 
-The monk asked, "Did Yunyan know it himself, or not?"
+The monk asked, "Did Yunyan himself know it?"
 
-Dongshan said, "If he didn't know it, how could he have said so? And if he did know it, why would he have put it that way?"
+Dongshan said, "If he didn't know it, how could he have said it that way? And if he did know it, why would he have put it that way?"
 '''
 
 verse_zh = '''
@@ -39,16 +39,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-How could he have said so?
-At the fifth watch the rooster crows, the home woods grow light.
+How could he say it that way?
+At the fifth watch the rooster crows, and the home woods grow light.
 Why would he have put it that way?
-A thousand years, and the crane ages with the cloud-deep pine.
-The precious mirror, clear and bright, tests upright against slanting.
-The jade loom turns and tilts: watch both arrive at once.
-The house style rings out, its measured steps unbroken.
-Father to son the way runs through, sound and radiance vast.
+A thousand years, and the crane ages with the pine in the clouds.
+The precious mirror, clear and bright, tests straight and slanted.
+The jade mechanism turns and tilts. Watch how it reaches both.
+The family tradition flourishes, its measured steps unbroken.
+Father and son adapt freely, their voices and radiance spreading far.
 '''
 
 pointer = '''
-Dongshan founded the Caodong (Sōtō) line this whole book belongs to; Yunyan was the teacher he trained under for years. "Just this is it" was Yunyan's famous one-liner pointing at reality exactly as it stands, nothing added. Years later, making offerings before Yunyan's portrait at a memorial, Dongshan admits he nearly got the line wrong, and then a monk corners him: did the old teacher actually have it? Dongshan's reply is a trap with two jaws. A teacher who's truly awake wouldn't need to spell anything out, yet Yunyan did spell it out, so which is it, knowing or not, and either way he's slightly off. The "precious mirror" and the father-to-son lines nod to Dongshan's own teaching, where the upright absolute and the slanting everyday keep folding into one another. Yunyan's hands and eyes get this same treatment a few cases on (54), where a right answer still lands one step outside the thing.
+Dongshan founded the Caodong (Sōtō) line this whole book belongs to; Yunyan was the teacher he trained under for years. "Just this is it" was Yunyan's famous one-liner when Dongshan asked how he should portray him after his death. Years later, as Dongshan makes offerings before Yunyan's portrait at a memorial, a monk asks what the line meant. Dongshan admits he nearly got it wrong, and then the monk corners him: did the old teacher actually have it? Dongshan's reply is a trap with two jaws. If Yunyan didn't know, how could he have said it? If he did know, why would he have put it that way? The "precious mirror" and the father-to-son lines nod to Dongshan's own teaching, where the upright absolute and the slanting everyday keep folding into one another. Yunyan's hands and eyes get this same treatment a few cases on (54), where Daowu gives Yunyan's answer eight out of ten.
 '''

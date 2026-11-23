@@ -17,9 +17,9 @@ label_case_zh = "本則"
 label_verse_zh = "頌"
 
 intro_en = '''
-The Book of Serenity (Chinese: Cóngróng Lù; Japanese: Shōyōroku) is the Caodong (Sōtō) school's counterpart to the Blue Cliff Record. Its hundred cases were chosen and set in verse by Hongzhi Zhengjue in the twelfth century; Wansong Xingxiu added an instruction, a prose commentary, and interlinear notes to each, completing the work in 1224.
+The Book of Serenity (Chinese Cóngróng Lù, Japanese Shōyōroku) grew out of a hundred cases collected and set in verse by Hongzhi Zhengjue, a twelfth-century teacher in the Caodong school of Chan, known in Japan as Sōtō. Wansong Xingxiu added introductions, prose commentary, and short remarks between the lines, completing the work in 1224.
 
-This edition gives the core of each case — Wansong's instruction (示眾), the case itself (本則), and Hongzhi's verse (頌). The prose commentary and capping phrases are omitted for now.
+This edition gives Wansong's introduction (示眾), the case itself (本則), and Hongzhi's verse (頌). It leaves out Wansong's prose commentary and interlinear remarks.
 
 The original text is public domain (from the Taishō Tripiṭaka), set in our own punctuation. The translations and pointers are released under CC0.
 '''
