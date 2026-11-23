@@ -33,15 +33,42 @@ def esc(s):
     return html.escape(s, quote=True)
 
 
+_OPENS_AFTER = set(" \t\n([{—–“‘")
+
+
+def smarten(s):
+    """Curly quotes for English text. A quote opens at the start of the text or
+    after a space, bracket, dash or another opening quote, when text follows it;
+    otherwise it closes (and a lone ' is an apostrophe)."""
+    out = []
+    for i, ch in enumerate(s):
+        if ch in "\"'":
+            prev, nxt = (out[-1] if out else ""), s[i + 1:i + 2]
+            opens = (not prev or prev in _OPENS_AFTER) and nxt != "" and not nxt.isspace()
+            if ch == "'":
+                opens = opens and nxt.isalnum()
+            ch = ("“" if opens else "”") if ch == '"' else ("‘" if opens else "’")
+        out.append(ch)
+    return "".join(out)
+
+
+def smarten_fields(d):
+    """Typeset the English fields (`*_en` and `pointer`) of a case or collection."""
+    for k, v in d.items():
+        if isinstance(v, str) and (k.endswith("_en") or k == "pointer"):
+            d[k] = smarten(v)
+    return d
+
+
 def load_collection(slug):
     cdir = os.path.join(DATA, slug)
     with open(os.path.join(cdir, "collection.toml"), "rb") as f:
-        meta = tomllib.load(f)
+        meta = smarten_fields(tomllib.load(f))
     cases = []
     for name in sorted(os.listdir(cdir)):
         if re.fullmatch(r"\d+\.toml", name):
             with open(os.path.join(cdir, name), "rb") as f:
-                cases.append(tomllib.load(f))
+                cases.append(smarten_fields(tomllib.load(f)))
     cases.sort(key=lambda c: c["number"])
     meta["_pad"] = 3 if cases and max(c["number"] for c in cases) >= 100 else 2
     return meta, cases
@@ -77,12 +104,13 @@ def bilingual(zh, en, kind="prose"):
     )
 
 
-def page(title, body, description, *, active=""):
+def page(title, body, description, *, active="", head_extra=""):
     nav = [("/", "Home", ""), ("/about.html", "About", "about")]
     links = "".join(
         f'<a href="{href}"{" aria-current=page" if key and key == active else ""}>{esc(label)}</a>'
         for href, label, key in nav
     )
+    links += '<a href="/" data-random title="A random case">Random</a>'
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -90,8 +118,15 @@ def page(title, body, description, *, active=""):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
+<meta property="og:site_name" content="kōan">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(description)}">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#faf6ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1b1815" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
-</head>
+{head_extra}</head>
 <body>
 <header class="site-head"><div class="wrap">
 <span class="brand"><a href="/">{SITE_BRAND}</a></span>
@@ -119,7 +154,7 @@ def koan_url(meta, c):
     return f"/{meta['slug']}/{koan_filename(c, meta.get('_pad', 2))}"
 
 
-SECTION_DEFAULTS = {"intro": "Introduction", "commentary": "Commentary", "verse": "Verse"}
+SECTION_DEFAULTS = {"intro": "Introduction", "case": "Case", "commentary": "Commentary", "verse": "Verse"}
 
 
 def title_of(c):
@@ -171,13 +206,17 @@ def build_koan_page(meta, cases, i):
         parts.append(f'<p class="pinyin">{esc(pinyin)}</p>')
 
     # Introduction (垂示 / 示眾), when the collection has one, precedes the case.
-    if c.get("intro_zh", "").strip():
+    # The case then gets its own label, or the two run together.
+    has_intro = bool(c.get("intro_zh", "").strip())
+    if has_intro:
         en, zh = section_label(meta, "intro")
         parts += [f'<section class="intro">', heading(en, zh),
                   bilingual(c["intro_zh"], c.get("intro_en", "")), "</section>"]
 
-    parts += ['<section class="case">',
-              bilingual(c["case_zh"], c.get("case_en", "")), "</section>"]
+    parts += ['<section class="case">']
+    if has_intro:
+        parts.append(heading(*section_label(meta, "case")))
+    parts += [bilingual(c["case_zh"], c.get("case_en", "")), "</section>"]
 
     for sec, kind in (("commentary", "prose"), ("verse", "verse")):
         if c.get(f"{sec}_zh", "").strip():
@@ -190,31 +229,39 @@ def build_koan_page(meta, cases, i):
         parts += ['<aside class="pointer">', "<h2>Pointer</h2>",
                   render_prose(c["pointer"]), "</aside>"]
 
-    parts.append('<nav class="koannav">')
-    if i > 0:
-        parts.append(f'<a href="{koan_url(meta, cases[i-1])}">← previous</a>')
-    parts.append(f'<a class="spacer" href="/{slug}/">contents</a>')
-    if i < len(cases) - 1:
-        parts.append(f'<a href="{koan_url(meta, cases[i+1])}">next →</a>')
-    parts.append("</nav>")
+    prev_url = koan_url(meta, cases[i-1]) if i > 0 else ""
+    next_url = koan_url(meta, cases[i+1]) if i < len(cases) - 1 else ""
+    parts += [
+        '<nav class="koannav">',
+        f'<a href="{prev_url}">← previous</a>' if prev_url else "<span></span>",
+        f'<a class="spacer" href="/{slug}/">contents</a>',
+        f'<a href="{next_url}">next →</a>' if next_url else "<span></span>",
+        "</nav>",
+    ]
+    rels = "".join(f'<link rel="{r}" href="{u}">\n' for r, u in (("prev", prev_url), ("next", next_url)) if u)
 
     desc = (c.get("case_en") or c["case_zh"]).strip().replace("\n", " ")[:155]
-    return page(f'{meta["title_en"]} {n}. {main_title}', "\n".join(parts), desc, active=slug)
+    return page(f'{meta["title_en"]} {n}. {main_title}', "\n".join(parts), desc,
+                active=slug, head_extra=rels)
 
 
 def build_collection_page(meta, cases):
     slug = meta["slug"]
     head = [
         f'<h1>{esc(meta["title_en"])}<span class="zh-title" lang="zh-Hant">{esc(meta["title_zh"])}</span></h1>',
-        f'<p class="pinyin">{esc(meta.get("title_pinyin",""))} · {esc(meta.get("title_ja",""))} · compiled by {esc(meta["compiler"])}, {esc(meta["date"])} ({esc(meta.get("dynasty",""))})</p>',
+        f'<p class="pinyin">{esc(meta.get("title_pinyin",""))} · {esc(meta.get("title_ja",""))}'
+        f'<br>{esc(meta["compiler"])} · {esc(meta["date"])}</p>',
         f'<div class="lede">{render_prose(meta.get("intro_en",""))}</div>',
     ]
     if meta.get("preface_zh", "").strip():
-        head.append(heading(meta.get("label_preface_en") or "Preface", meta.get("label_preface_zh", "序")))
-        head.append(bilingual(meta["preface_zh"], meta.get("preface_en", "")))
+        head += ['<section class="preface">',
+                 heading(meta.get("label_preface_en") or "Preface", meta.get("label_preface_zh", "序")),
+                 bilingual(meta["preface_zh"], meta.get("preface_en", "")), "</section>"]
     if meta.get("opening_verse_zh", "").strip():
-        head.append(heading(meta.get("label_opening_en") or "Opening Verse", meta.get("label_opening_zh", "頌")))
-        head.append(bilingual(meta["opening_verse_zh"], meta.get("opening_verse_en", ""), kind="verse"))
+        head += ['<section class="verse">',
+                 heading(meta.get("label_opening_en") or "Opening Verse", meta.get("label_opening_zh", "頌")),
+                 bilingual(meta["opening_verse_zh"], meta.get("opening_verse_en", ""), kind="verse"),
+                 "</section>"]
 
     head.append('<div class="search"><input id="search" type="search" placeholder="Search the cases…" data-index="/search-index.json" autocomplete="off"></div>')
     head.append('<ul id="search-results"></ul>')
@@ -249,8 +296,8 @@ def build_home(collections):
     body = [
         f"<h1>{SITE_BRAND}</h1>",
         '<div class="lede">',
-        '<p>Kōan (<span class="zh" lang="zh-Hant">公案</span>) is a legal term. It means "public case" - a case on the record, the way a court keeps precedents. Zen borrowed the word for these: short, odd exchanges between a teacher and a student, collected and studied like case law. Most of them don\'t make sense, and a lot of them are funny, but they\'re supposed to be: a kōan is built to jam the part of your head that goes looking for the answer.</p>',
-        '<p>Each entry has three parts: the original, a translation, and a pointer. The pointer is the useful bit. It won\'t solve anything, but it gives you what you\'d need to get the joke: who these people are, and where the trap is set. The originals are public domain; the translations are free to use.</p>',
+        '<p>Kōan (<span class="zh" lang="zh-Hant">公案</span>) is a legal term. It means “public case” — a case on the record, the way a court keeps precedents. Zen borrowed the word for these: short, odd exchanges between a teacher and a student, collected and studied like case law. Most of them don’t make sense, and a lot of them are funny, but they’re supposed to be: a kōan is built to jam the part of your head that goes looking for the answer.</p>',
+        '<p>Each entry has three parts: the original, a translation, and a pointer. The pointer is the useful bit. It won’t solve anything, but it gives you what you’d need to get the joke: who these people are, and where the trap is set. The originals are public domain; the translations are free to use.</p>',
         "</div>",
     ]
 
@@ -279,11 +326,12 @@ def build_home(collections):
     ]
     for meta, cases in collections:
         n_tr = sum(1 for c in cases if c.get("case_en", "").strip())
+        progress = f" · {n_tr} translated so far" if n_tr < len(cases) else ""
         body.append(
             f'<li><h3><a href="/{meta["slug"]}/">{esc(meta["title_en"])} '
             f'<span class="zh" lang="zh-Hant">{esc(meta["title_zh"])}</span></a></h3>'
             f'<p class="meta">{esc(meta["compiler"])} · {esc(meta["date"])} · '
-            f'{len(cases)} cases · {n_tr} translated so far</p></li>'
+            f'{len(cases)} cases{progress}</p></li>'
         )
     body.append("</ul>")
     return page(SITE_BRAND, "\n".join(body), SITE_DESC)
@@ -374,7 +422,7 @@ def main():
     with open(os.path.join(DIST, "search-index.json"), "w", encoding="utf-8") as f:
         json.dump(build_search_index(collections), f, ensure_ascii=False, separators=(",", ":"))
 
-    for asset in ("style.css", "search.js"):
+    for asset in ("style.css", "search.js", "favicon.svg"):
         shutil.copy(os.path.join(ASSETS, asset), os.path.join(DIST, asset))
 
     n_tr = sum(1 for _, cases in collections for c in cases if c.get("case_en", "").strip())

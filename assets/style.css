@@ -14,6 +14,11 @@
   --rule:     #e2d9c8;
   --rule-soft:#ece4d4;
   --seal:     #9e2b25;
+  --seal-ring:rgba(158, 43, 37, 0.12);
+  --mark:     #f0e2bc;   /* selection + search highlight */
+  --field:    #fffdf8;   /* input background */
+  --faint:    #b3a892;
+  color-scheme: light dark;
 
   /* CJK serif stack — the Chinese must render in a real CJK serif */
   --cjk: "Songti SC", "Noto Serif CJK SC", "Noto Serif SC",
@@ -32,6 +37,24 @@
   --s-5: 2.25rem;
   --s-6: 3.5rem;
   --s-7: 5.5rem;
+}
+
+/* night reading — same room, lamp off: warm dark paper, ink turned light */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink:      #e7dfd1;
+    --ink-soft: #cdc3b3;
+    --paper:    #1b1815;
+    --paper-2:  #24201b;
+    --muted:    #9b8f7d;
+    --rule:     #3a342c;
+    --rule-soft:#2d2822;
+    --seal:     #d9695e;
+    --seal-ring:rgba(217, 105, 94, 0.2);
+    --mark:     #5b4a26;
+    --field:    #221e1a;
+    --faint:    #6f6656;
+  }
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -72,7 +95,7 @@ a:focus-visible {
 p { margin: 0 0 var(--s-3); }
 p:last-child { margin-bottom: 0; }
 
-::selection { background: #f0e2bc; color: var(--ink); }
+::selection { background: var(--mark); color: var(--ink); }
 
 .wrap {
   max-width: var(--maxw);
@@ -116,8 +139,7 @@ main { padding-top: var(--s-5); padding-bottom: var(--s-4); }
   font-size: 0.85rem;
   line-height: 1.6;
 }
-.site-foot .wrap { max-width: var(--measure); }
-.site-foot p { margin: 0 0 var(--s-1); max-width: 44rem; }
+.site-foot p { margin: 0 0 var(--s-1); max-width: var(--measure); }
 
 /* ── titles ────────────────────────────────────────────────── */
 h1 {
@@ -126,7 +148,7 @@ h1 {
   font-weight: normal;
   letter-spacing: -0.005em;
   margin: 0 0 var(--s-2);
-  max-width: 28rem;
+  max-width: 44rem;
   text-wrap: balance;
 }
 h1 .n {
@@ -234,10 +256,6 @@ h2 .zh {
   line-height: 1.74;
   color: var(--ink);
 }
-.pointer p:first-of-type::first-letter {
-  font-size: 1.15em;
-  color: var(--seal);
-}
 
 .untranslated { color: var(--muted); font-style: italic; }
 
@@ -257,10 +275,13 @@ main .wrap > nav.koannav:last-of-type {
   padding-top: var(--s-4);
   border-top: 1px solid var(--rule);
 }
-.koannav a { white-space: nowrap; }
+/* three equal thirds; long case titles wrap inside their third
+   instead of pushing the page wider than the phone */
+.koannav > * { flex: 1 1 0; min-width: 0; text-wrap: balance; }
+.koannav > :last-child { text-align: right; }
 .koannav a:not(.spacer) { color: var(--ink-soft); }
 .koannav a:not(.spacer):hover { color: var(--seal); }
-.koannav .spacer { flex: 1; text-align: center; color: var(--muted); }
+.koannav .spacer { text-align: center; color: var(--muted); }
 
 /* ── intro prose ───────────────────────────────────────────── */
 .lede {
@@ -294,7 +315,7 @@ main .wrap > nav.koannav:last-of-type {
   margin-left: 0.45em;
 }
 .featured .pointer { margin-top: var(--s-5); }
-.featured .more { margin-bottom: 0; }
+.featured .more { margin: var(--s-4) 0 0; }
 
 /* ── home: collections — a clean list, hairline-divided ─────── */
 .collections {
@@ -361,7 +382,7 @@ main .wrap > nav.koannav:last-of-type {
 }
 .koan-list .todo {
   font-style: italic;
-  color: #b3a892;
+  color: var(--faint);
   font-size: 0.8rem;
 }
 
@@ -373,14 +394,14 @@ main .wrap > nav.koannav:last-of-type {
   font-size: 1rem;
   font-family: inherit;
   color: var(--ink);
-  background: #fffdf8;
+  background: var(--field);
   border: 1px solid var(--rule);
   border-radius: 4px;
 }
 .search input:focus-visible {
   outline: none;
   border-color: var(--seal);
-  box-shadow: 0 0 0 3px rgba(158, 43, 37, 0.12);
+  box-shadow: 0 0 0 3px var(--seal-ring);
 }
 .search input::placeholder { color: var(--muted); }
 #search-results { list-style: none; padding: 0; margin: var(--s-4) 0; }
@@ -393,7 +414,8 @@ main .wrap > nav.koannav:last-of-type {
   color: var(--muted);
   font-size: 0.85rem;
 }
-#search-results em { background: #f0e2bc; font-style: normal; }
+#search-results em { background: var(--mark); font-style: normal; }
+#search-results .zh, .collections h3 .zh { font-family: var(--cjk); color: var(--muted); }
 
 /* ── responsive ────────────────────────────────────────────── */
 @media (max-width: 760px) {

@@ -70,8 +70,12 @@ verbatim. Verses are stored one phrase per line.
 Collection-level metadata lives in `collection.toml`: titles, compiler, dates,
 `source_url`/`source_note`, licenses, an `intro_en`, optional prefaces/opening
 verse, and **section-label overrides** — `label_intro_zh`, `label_commentary_en`,
-`label_commentary_zh`, `label_verse_zh`, etc. (defaults are Introduction /
-Commentary / Verse with no Chinese tag).
+`label_commentary_zh`, `label_verse_zh`, etc. (defaults are Introduction / Case /
+Commentary / Verse with no Chinese tag; the Case label only shows when an
+introduction precedes it).
+
+English fields (`*_en`, `pointer`) are written with straight quotes; `build.py`
+typesets them as curly quotes, and search matches either.
 
 Empty `*_en`/`pointer` is fine — the site renders the original with a
 "not yet available" note, so originals can land before translations.

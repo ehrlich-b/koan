@@ -14,7 +14,7 @@ Each entry has three parts:
 
 ## Collections
 
-384 cases across six collections. All originals are in; translation has just begun.
+384 cases across six collections, every one with original, translation and pointer.
 
 | Collection | Original | Cases | Source |
 |---|---|---|---|
