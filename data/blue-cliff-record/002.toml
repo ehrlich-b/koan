@@ -1,14 +1,14 @@
 number = 2
 slug = ""
 title_zh = ""
-title_en = "Zhaozhou's \"Nothing Hard About It\""
+title_en = "Zhaozhou on Picking and Choosing"
 
 intro_zh = '''
 乾坤窄，日月星辰一時黑。直饒棒如雨點，喝似雷奔，也未當得向上宗乘中事。設使三世諸佛，只可自知；歷代祖師全提不起；一大藏教詮注不及；明眼衲僧自救不了。到這裏，作麼生請益？道箇佛字，拖泥帶水；道箇禪字，滿面慚惶。久參上士不待言之，後學初機直須究取。
 
 '''
 intro_en = '''
-Heaven and earth cramp shut. Sun, moon, and stars all go black at once. Even if blows fell like rain and shouts cracked like thunder, none of it would touch the matter of the highest teaching. The Buddhas of past, present, and future know it only for themselves. Generations of masters cannot haul it up whole. The whole canon of scripture cannot reach it with all its notes. Here a clear-eyed monk cannot even save himself. So how, at this point, do you ask for instruction? Say the word "Buddha" and you drag through mud. Say the word "Zen" and your face burns with shame. Old hands who have trained for years don't wait to be told. Beginners just starting out must dig in and get it.
+Heaven and earth cramp shut. Sun, moon, and stars all go black at once. Even if blows fell like rain and shouts cracked like thunder, none of it would touch the matter beyond the teaching. The Buddhas of past, present, and future know it only for themselves. Generations of masters cannot haul it up whole. The whole canon of scripture cannot reach it with all its notes. Here a clear-eyed monk cannot even save himself. So how, at this point, do you ask for instruction? Say the word "Buddha" and you drag through mud. Say the word "Zen" and your face burns with shame. Old hands who have trained for years don't wait to be told. Beginners just starting out must dig in for themselves.
 '''
 
 case_zh = '''
@@ -16,7 +16,7 @@ case_zh = '''
 
 '''
 case_en = '''
-Zhaozhou spoke to the assembly: "The real Way is not hard. It only hates picking and choosing. The moment you speak, that is picking, that is clarity. But I don't dwell in clarity. So tell me: do you still hold anything dear, or not?"
+Zhaozhou spoke to the assembly: "The Great Way is not hard. It only hates picking and choosing. The moment you speak, that is picking, that is clarity. But I don't dwell in clarity. So tell me: do you still hold anything dear, or not?"
 
 A monk asked, "If you don't dwell in clarity, what is there to hold dear?"
 
@@ -24,7 +24,7 @@ Zhaozhou said, "I don't know that either."
 
 The monk said, "If you don't know, master, why do you say you don't dwell in clarity?"
 
-Zhaozhou said, "You've asked your question. Now bow and step back."
+Zhaozhou said, "It's fine to ask a question. Now bow and step back."
 '''
 
 verse_zh = '''
@@ -41,16 +41,16 @@ verse_zh = '''
 
 '''
 verse_en = '''
-The real Way is not hard:
-straight talk, straight words.
-One thing wears a thousand faces;
-two has no second side.
+The Great Way is not hard.
+Straight talk, straight words.
+One thing wears many faces.
+In two there aren't two kinds.
 At the sky's edge the sun climbs, the moon goes down.
-Past the railing the mountains run deep, the water cold.
-When the skull's knowing runs dry, where can joy take hold?
-The dead tree hums with the dragon, the life in it not yet gone.
-Hard, hard.
-Picking, choosing, clarity: see for yourself.
+Beyond the railing the mountains are deep, the water cold.
+When the skull's knowing is spent, where can joy take hold?
+A dragon sings in a dead tree, its voice still not dried up.
+Hard, hard!
+Picking and choosing, clarity: see for yourself.
 '''
 
 pointer = '''

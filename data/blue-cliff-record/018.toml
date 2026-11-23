@@ -1,7 +1,7 @@
 number = 18
 slug = ""
 title_zh = ""
-title_en = "The Seamless Tomb"
+title_en = "The Seamless Stupa"
 
 intro_zh = '''
 '''
@@ -14,7 +14,7 @@ case_zh = '''
 '''
 case_en = '''
 Emperor Suzong asked National Teacher Zhong, "When you are gone, what will you need?"
-"Build me a seamless tomb," the teacher said.
+"Build me a seamless stupa," the teacher said.
 "Then give me the design, Master."
 The teacher sat a long while in silence. Then: "Understand?"
 "No," said the emperor.
@@ -23,13 +23,13 @@ The teacher sat a long while in silence. Then: "Understand?"
 After the teacher died, the emperor summoned Danyuan and asked what it all meant.
 Danyuan said:
 "South of the Xiang, north of the Tan."
-(Xuedou: "One hand alone makes no sound.")
-"In between, gold enough to fund a whole country."
+(Xuedou: "One hand doesn't clap for nothing.")
+"In between, gold enough to fill a whole country."
 (Xuedou: "A staff shaped like a mountain.")
-"Under the shadowless tree, the ferry that carries everyone across together."
+"Under the shadowless tree, we share a boat."
 (Xuedou: "Calm seas, clear rivers.")
-"In the crystal palace, no one home who knows a thing."
-(Xuedou: "There. I have laid it out for you.")
+"In the glass palace, no familiar face."
+(Xuedou: "There. I've laid it out for you.")
 '''
 
 verse_zh = '''
@@ -42,7 +42,7 @@ verse_zh = '''
 
 '''
 verse_en = '''
-A seamless tomb,
+A seamless stupa,
 and hard to lay eyes on.
 The clear pool will not let the blue dragon coil.
 Tier on tier,
@@ -51,5 +51,5 @@ A thousand ages, ten thousand ages, here for all to see.
 '''
 
 pointer = '''
-National Teacher Zhong is Nanyang Huizhong, an elder master the Tang emperor kept near him as a kind of spiritual advisor. The "tomb" in question is a stupa, the memorial monument raised for a revered monk after death, so the emperor's question is practical and fond: what funeral do you want? The teacher answers from somewhere else. A "seamless tomb" has no joints, no parts, no blueprint, a way of pointing at something whole and unmade rather than a building you could draft, which is why "give me the design" gets only a long silence in return. When the emperor still cannot follow, the puzzle passes to the heir Danyuan, whose reply is a deliberate riddle: directions to a place on no map, a palace with nobody home who knows a thing. Xuedou drops a one-line jab after each phrase, half mockery, half applause. Rather than crack the riddle like a lock, feel how every attempt to pin the thing down slides off its seamless surface.
+National Teacher Zhong is Nanyang Huizhong, an elder master the Tang emperor kept near him as a kind of spiritual advisor. The stupa in question is a memorial monument raised for a revered monk after death, so the emperor's question is practical and fond: what funeral do you want? The case names Emperor Suzong, who died before Huizhong. Yuanwu's commentary gives the exchange to Suzong's successor, Daizong. A "seamless stupa" has no joints, which gives the emperor precious little to go on. "Give me the design" gets only a long silence in return. When the emperor still cannot follow, the puzzle passes to the heir Danyuan, whose reply is a deliberate riddle: directions to a place on no map, a palace with no familiar face. Xuedou drops a one-line jab after each phrase, half mockery, half applause. Rather than crack the riddle like a lock, feel how every attempt to pin the thing down slides off its seamless surface.
 '''

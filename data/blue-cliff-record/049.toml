@@ -1,14 +1,14 @@
 number = 49
 slug = ""
 title_zh = ""
-title_en = "The Fish That Broke the Net"
+title_en = "Sansheng's Golden Fish"
 
 intro_zh = '''
 七穿八穴，攙鼓奪旗，百匝千重，瞻前顧後。踞虎頭，收虎尾，未是作家；牛頭沒，馬頭回，亦未為奇特。且道：過量底人來時如何？試舉看。
 
 '''
 intro_en = '''
-Punch holes everywhere, seize the drum and steal the flag, lay down a thousand layers of defense, watch the front while guarding the rear. Sit on the tiger's head and grab its tail, and you're still no master. Ox-head vanishes, horse-head turns back: still nothing special. So tell me, when someone who's off the charts walks in, what then? Here's a case to test you.
+Punch holes everywhere, seize the drum and steal the flag, circle a hundred times through a thousand layers, watch the front while guarding the rear. Sit on the tiger's head and grab its tail, and you're still no master. Ox-head vanishes, horse-head turns back: still nothing special. So tell me, when someone who's off the charts walks in, what then? Here's a case to test you.
 '''
 
 case_zh = '''
@@ -20,7 +20,7 @@ Sansheng asked Xuefeng, "The golden fish that broke through the net. What does i
 
 Xuefeng said, "Break out of the net yourself, and I'll tell you."
 
-Sansheng said, "Some teacher you are. Head of fifteen hundred monks, and you can't even follow a conversation."
+Sansheng said, "Some teacher you are. Head of fifteen hundred monks, and you can't even follow the question."
 
 Xuefeng said, "Running this monastery keeps me busy."
 '''
@@ -37,14 +37,14 @@ verse_zh = '''
 
 '''
 verse_en = '''
-The golden fish that broke the net,
-don't tell me it stays stuck in the shallows.
+The golden fish that broke through the net,
+don't say it's stuck in still water.
 It rocks the heavens, churns the earth,
-shakes its mane and lashes its tail.
+fans its fins and lashes its tail.
 A thousand-foot whale blows, the great waves fly;
 one crack of thunder, a clean wind rises.
 The clean wind rises:
-heaven above, the human world below, who can say how many know?
+in heaven and on earth, how many could know?
 '''
 
 pointer = '''

@@ -17,9 +17,9 @@ label_case_zh = "本則"
 label_verse_zh = "頌"
 
 intro_en = '''
-The Blue Cliff Record (Chinese: Bìyán Lù; Japanese: Hekiganroku) is the oldest and most revered of the great kōan collections. Its core is one hundred cases chosen and set in verse by Xuedou Chongxian early in the eleventh century; a century later Yuanwu Keqin wrapped each case in an introduction, a running prose commentary, and biting interlinear notes, and the whole was published around 1125.
+The Blue Cliff Record (Chinese: Biyan Lu, Japanese: Hekiganroku) is a Song dynasty collection based on one hundred cases that Xuedou Chongxian selected and set in verse in the eleventh century. In the early twelfth century, Yuanwu Keqin added introductions, prose commentary, and brief remarks interleaved with the cases and verses.
 
-This edition gives the core of each case — Yuanwu's introduction (垂示), the case itself (本則), and Xuedou's verse (頌). Yuanwu's long prose commentary and his interlinear "capping phrases" are left out for now; they are the scholarly apparatus, and they roughly quintuple the length.
+This edition gives the case (本則), Xuedou's verse (頌), and Yuanwu's introduction (垂示) where present. We omit Yuanwu's prose commentary and his interlinear "capping phrases."
 
-The original text is public domain (from the Taishō Tripiṭaka), set in our own punctuation. The translations and pointers are released under CC0.
+The original text is in the public domain. It comes from the Taisho Tripitaka and uses our own punctuation. The translations and pointers are released under CC0.
 '''
