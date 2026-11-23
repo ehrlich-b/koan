@@ -13,6 +13,7 @@ collection.toml plus its numbered case files and emits plain HTML/CSS/JS:
 
 Deployed at the domain root (koan.ehrlich.dev), so all links are root-relative.
 """
+import hashlib
 import html
 import json
 import os
@@ -27,6 +28,12 @@ ASSETS = os.path.join(ROOT, "assets")
 
 SITE_BRAND = "公案 · kōan"
 SITE_DESC = "A public-domain repository of Zen kōan in the original Chinese with free English translations."
+
+
+def asset_url(name):
+    """/name?v=<content hash>, so a CDN cache can never serve a stale copy after a deploy."""
+    with open(os.path.join(ASSETS, name), "rb") as f:
+        return f"/{name}?v={hashlib.sha256(f.read()).hexdigest()[:10]}"
 
 
 def esc(s):
@@ -124,8 +131,8 @@ def page(title, body, description, *, active="", head_extra=""):
 <meta name="twitter:card" content="summary">
 <meta name="theme-color" content="#faf6ee" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1b1815" media="(prefers-color-scheme: dark)">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/style.css">
+<link rel="icon" href="{asset_url("favicon.svg")}" type="image/svg+xml">
+<link rel="stylesheet" href="{asset_url("style.css")}">
 {head_extra}</head>
 <body>
 <header class="site-head"><div class="wrap">
@@ -139,7 +146,7 @@ def page(title, body, description, *, active="", head_extra=""):
 <p>Original texts are in the public domain. English translations and pointers are released under <a href="/about.html">CC0 1.0</a> — no rights reserved.</p>
 <p>{esc(SITE_DESC)}</p>
 </div></footer>
-<script src="/search.js" defer></script>
+<script src="{asset_url("search.js")}" defer></script>
 </body>
 </html>
 """
